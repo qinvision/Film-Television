@@ -1973,11 +1973,6 @@ CGTN西班牙语频道,http://8c0157.netsite.cc/proxy/657032256/657032256.m3u8
 重庆新闻,http://8c0157.netsite.cc/proxy/1555453135/1555453135.m3u8
 ******************************************************************************************************************************
 📺测试5,#genre#
-4K超高清电影 4K,http://58.216.99.148:80/live2.rxip.sc96655.com/live/emdy4k_800.m3u8
-CBN风尚生活,http://58.216.99.148:80/live2.rxip.sc96655.com/live/fssh_4000.m3u8
-CBN每日影院,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mryy_4000.m3u8
-CBN幸福剧场,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xfjc_4000.m3u8
-CBN幸福娱乐,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xfyl_4000.m3u8
 CCTV1,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV2,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
 CCTV3,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
