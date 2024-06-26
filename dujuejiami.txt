@@ -18,6 +18,17 @@ STARmovies,http://117.114.153.1:8180/TV00000000000000000075@HHZT
 星空卫视,http://117.114.153.1:8180/TV00000000000000000071@HHZT
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+财经资讯台,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
