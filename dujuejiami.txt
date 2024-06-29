@@ -13,6 +13,17 @@ STARmovies,http://117.114.153.1:8180/TV00000000000000000075@HHZT
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
+
+ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+CNA,https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@5.m3u8
+今日俄罗斯,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+今日印度,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+欧洲新闻,https://euronews-euronews-world-1-nz.samsung.wurl.tv/66037cf47c8df41335fbf42b1b1b9e7f.m3u8
+伊朗新闻,https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
+
 █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 陕西电信酒店,#genre#
 CCTV1-综合,http://1.80.12.8:10000/hls/1/index.m3u8
