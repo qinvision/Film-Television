@@ -3653,7 +3653,7 @@ CHC家庭影院,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jbtygqCHCjty
 
 
 
-
+海云台,https://v.cdnlz12.com/20240629/15426_db25c38d/index.m3u8
 浴血狙击(大陆动作片）,https://v.cdnlz12.com/20240629/15425_2d628948/index.m3u8
 关中诡事之雾隐藏棺,https://v.cdnlz3.com/20240626/24147_0f6e311b/index.m3u8
 疯狂的麦克斯：狂暴女神(其它动作片),https://v.cdnlz12.com/20240625/15393_1d2424e9/index.m3u8
