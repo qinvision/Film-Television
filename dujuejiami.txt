@@ -3190,7 +3190,7 @@ MTV,http://219.137.203.101:8081/hls/73/index.m3u8
 
 
 
-
+扫黑·决不放弃（大陆动作片）,https://v.cdnlz21.com/20240630/778_d97184f1/index.m3u8
 海云台(韩国动作片）,https://v.cdnlz12.com/20240629/15426_db25c38d/index.m3u8
 浴血狙击(大陆动作片）,https://v.cdnlz12.com/20240629/15425_2d628948/index.m3u8
 关中诡事之雾隐藏棺,https://v.cdnlz3.com/20240626/24147_0f6e311b/index.m3u8
@@ -3479,7 +3479,7 @@ MTV,http://219.137.203.101:8081/hls/73/index.m3u8
 
 
 
-
+恐怖肉饼(美国恐怖片),https://v.cdnlz12.com/20240630/15433_8fce9825/index.m3u8
 暴力本性(加拿大恐怖片),https://v.cdnlz12.com/20240629/15424_382e32e7/index.m3u8
 Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/index.m3u8
 神秘窥视(美国恐怖片),https://v.cdnlz3.com/20240628/24259_2e2d4f54/index.m3u8
