@@ -3480,7 +3480,76 @@ KAKU少儿,http://58.248.112.205:8006/GD_CUCC/G_KAKU.m3u8?Authinfo=9hNanvH1E%2F3
 中华美食,http://58.248.112.205:8006/GD_CUCC/G_ZHONGHUAMS.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNV3PU3p0Usv8FjOEENDSW4xTpQOdZIuqX8U%2Bda0cpE3R
 重庆卫视,http://58.248.112.205:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHS5XA1hsd3RREgysPiqqJeTFDuOvLs1zu4981Mqid2sx
 
-
+测试4,#genre#
+CCTV1HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=1
+CCTV2HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=2
+CCTV3HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=3
+CCTV4HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=4
+CCTV5HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=5
+CCTV5+HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=6
+CCTV6HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=7
+CCTV7HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=8
+CCTV8HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=9
+CCTV9HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=10
+CCTV10HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=11
+CCTV11HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=12
+CCTV12HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=13
+CCTV13HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=14
+CCTV14HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=15
+CCTV15HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=16
+CGTN,http://biaozhun114.com/tv/zb/ahctcc.php?id=17
+CCTV17HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=18
+北京卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=19
+天津卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=20
+重庆卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=21
+东方卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=22
+安徽卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=23
+江苏卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=24
+浙江卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=25
+黑龙江卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=26
+吉林卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=27
+辽宁卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=28
+东南卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=29
+四川卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=30
+江西卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=31
+广东卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=32
+海南卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=33
+湖北卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=34
+湖南卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=35
+贵州卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=36
+河北卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=37
+河南卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=38
+山东卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=39
+甘肃卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=40
+陕西卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=41
+云南卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=42
+山西卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=43
+青海卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=44
+广西卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=45
+内蒙古卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=46
+宁夏卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=47
+新疆卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=48
+西藏卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=49
+深圳卫视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=50
+兵团卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=51
+三沙卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=52
+厦门卫视,http://biaozhun114.com/tv/zb/ahctcc.php?id=53
+安徽卫视FHD,http://biaozhun114.com/tv/zb/ahctcc.php?id=54
+安徽经济HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=55
+安徽影视HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=56
+安徽公共HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=57
+安徽体育HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=58
+安徽科教HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=59
+安徽人物HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=60
+安徽国际,http://biaozhun114.com/tv/zb/ahctcc.php?id=61
+安徽导视,http://biaozhun114.com/tv/zb/ahctcc.php?id=62
+CETV1HD,http://biaozhun114.com/tv/zb/ahctcc.php?id=63
+CETV2,http://biaozhun114.com/tv/zb/ahctcc.php?id=64
+CETV4,http://biaozhun114.com/tv/zb/ahctcc.php?id=65
+卡酷少儿,http://biaozhun114.com/tv/zb/ahctcc.php?id=66
+哈哈炫动,http://biaozhun114.com/tv/zb/ahctcc.php?id=67
+金鹰卡通,http://biaozhun114.com/tv/zb/ahctcc.php?id=68
+山东教育,http://biaozhun114.com/tv/zb/ahctcc.php?id=69
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 动作片,#genre#
 
@@ -3780,7 +3849,8 @@ KAKU少儿,http://58.248.112.205:8006/GD_CUCC/G_KAKU.m3u8?Authinfo=9hNanvH1E%2F3
 
 
 
-
+魔图(香港恐怖片),https://v.cdnlz21.com/20240709/840_04e7e49c/index.m3u8
+不好意思啊，查理(美国恐怖片),https://v.cdnlz21.com/20240709/835_d0212934/index.m3u8
 FPS(日本恐怖片),https://v.cdnlz3.com/20240702/24407_783cb97c/index.m3u8
 诡夜迷情(大陆恐怖片),https://v.cdnlz12.com/20240701/15447_9f655396/index.m3u8
 恐怖肉饼(美国恐怖片),https://v.cdnlz12.com/20240630/15433_8fce9825/index.m3u8
@@ -6967,7 +7037,7 @@ ICQ幽灵【国语】（香港恐怖片）,https://vip.lzcdn2.com/20220412/3163_
 
 
 
-
+德维塔耶夫(俄罗斯战争片),https://v.cdnlz12.com/20240709/15566_832b3f53/index.m3u8
 铁血女枪手（大陆战争片）,https://v.cdnlz3.com/20240609/23537_eb21befa/index.m3u8
 拂晓的爆炸（大陆战争片）,https://v.cdnlz19.com/20240607/36474_e8aa0ca7/index.m3u8
 冬季战争（法国战争片）,https://v.cdnlz12.com/20240603/14920_463be8eb/index.m3u8
