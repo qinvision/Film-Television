@@ -3436,7 +3436,7 @@ KAKU少儿,http://58.248.112.205:8006/GD_CUCC/G_KAKU.m3u8?Authinfo=9hNanvH1E%2F3
 
 
 
-
+泪眼煞星(日本动作片),https://v.cdnlz12.com/20240711/15639_551e14ed/index.m3u8
 呼吸2024(美国动作片),https://v.cdnlz3.com/20240710/24667_ec136eec/index.m3u8
 双马连环1979(香港动作片),https://v.cdnlz19.com/20240710/38866_d6becb95/index.m3u8
 护花铃1979(台湾动作片),https://v.cdnlz19.com/20240710/38862_ff2a8d25/index.m3u8
