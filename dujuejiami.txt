@@ -2807,280 +2807,284 @@ CETV4,http://biaozhun114.com/tv/zb/ahctcc.php?id=65
 
 
 
+呼吸2024(美国动作片),https://v.cdnlz3.com/20240710/24667_ec136eec/index.m3u8
+双马连环1979(香港动作片),https://v.cdnlz19.com/20240710/38866_d6becb95/index.m3u8
+护花铃1979(台湾动作片),https://v.cdnlz19.com/20240710/38862_ff2a8d25/index.m3u8
+延迟2024(美国动作片),https://v.cdnlz3.com/20240710/24657_fa507321/index.m3u8
 猩球崛起：新世界(美国动作片),https://v.cdnlz21.com/20240709/833_6aabfa52/index.m3u8
 芭提雅猎杀(泰国动作片),https://v.cdnlz12.com/20240708/15537_f4a94e47/index.m3u8
-异域狼孩（大陆动作片）,https://v.cdnlz3.com/20240706/24577_1a544025/index.m3u8
+异域狼孩(大陆动作片),https://v.cdnlz3.com/20240706/24577_1a544025/index.m3u8
 比佛利山超级警探4(美国动作片),https://v.cdnlz12.com/20240703/15470_b2006b50/index.m3u8
 硬汉狙击(大陆动作片),https://v.cdnlz12.com/20240702/15460_76a850cd/index.m3u8
 犯罪都市4(韩国动作片),https://v.cdnlz21.com/20240701/790_6dc95607/index.m3u8
-扫黑·决不放弃（大陆动作片）,https://v.cdnlz21.com/20240630/778_d97184f1/index.m3u8
-海云台(韩国动作片）,https://v.cdnlz12.com/20240629/15426_db25c38d/index.m3u8
-浴血狙击(大陆动作片）,https://v.cdnlz12.com/20240629/15425_2d628948/index.m3u8
+扫黑·决不放弃(大陆动作片),https://v.cdnlz21.com/20240630/778_d97184f1/index.m3u8
+海云台(韩国动作片),https://v.cdnlz12.com/20240629/15426_db25c38d/index.m3u8
+浴血狙击(大陆动作片),https://v.cdnlz12.com/20240629/15425_2d628948/index.m3u8
 关中诡事之雾隐藏棺,https://v.cdnlz3.com/20240626/24147_0f6e311b/index.m3u8
 疯狂的麦克斯：狂暴女神(其它动作片),https://v.cdnlz12.com/20240625/15393_1d2424e9/index.m3u8
 特遣侦查(美国动作片),https://v.cdnlz12.com/20240625/15392_0a4a3c0b/index.m3u8
 黑暗森林(大陆动作片),https://v.cdnlz3.com/20240624/24043_09b2f996/index.m3u8
-空军一号坠落（美国动作片）,https://v.cdnlz21.com/20240623/702_aa876083/index.m3u8
-狙击精英之纳米危机（大陆动作片）,https://v.cdnlz12.com/20240622/15377_f5de5a6d/index.m3u8
-伤痕累累2024（美国动作片）,https://v.cdnlz12.com/20240622/15373_c9034b8f/index.m3u8
-触发警报（美国动作片）,https://v.cdnlz12.com/20240621/15348_367514f6/index.m3u8
-九龙城寨之围城 国语（香港动作片）,https://v.cdnlz3.com/20240621/23931_0923f192/index.m3u8
-九龙城寨之围城 粤语（香港动作片）,https://v.cdnlz12.com/20240621/15286_3ea699af/index.m3u8
-狄仁杰之大幻术师（大陆动作片）,https://v.cdnlz12.com/20240616/15217_7ae3eaf3/index.m3u8
-战心时刻（大陆动作片）,https://v.cdnlz12.com/20240616/15216_66451ef1/index.m3u8
-维和防暴队（大陆动作片）,https://v.cdnlz3.com/20240613/23684_2cfccdbc/index.m3u8
-制暴2024（大陆动作片）,https://v.cdnlz12.com/20240606/15025_020a279f/index.m3u8
-动作巨星2（美国动作片）,https://v.cdnlz12.com/20240604/14951_46e5fadc/index.m3u8
-特技狂人（美国动作片）,https://v.cdnlz12.com/20240603/14932_2ee7b764/index.m3u8
-少林僵尸天极（香港动作片）,https://v.cdnlz21.com/20240602/380_92fb746a/index.m3u8
-仿生超极限（其它动作片）,https://v.cdnlz12.com/20240602/14887_40bbd784/index.m3u8
-西部狂野（大陆动作片）,https://v.cdnlz19.com/20240528/34942_aff0e7d0/index.m3u8
-达摩祖师（香港动作片）,https://v.cdnlz19.com/20240528/34943_1e06cd0a/index.m3u8
-绝命狙击（大陆动作片）,https://v.cdnlz3.com/20240529/23459_8463c348/index.m3u8
-绝杀招式（美国动作片）,https://v.cdnlz3.com/20240528/23369_87901ffa/index.m3u8
-风速极战（大陆动作片）,https://v.cdnlz3.com/20240526/23287_e7a79ef6/index.m3u8
-变体（大陆动作片）,https://v.cdnlz3.com/20240525/23241_d2f854e9/index.m3u8
-美国内战（英国动作片）,https://v.cdnlz12.com/20240524/14694_0957b5db/index.m3u8
-异星战境（美国动作片）,https://v.cdnlz3.com/20240524/23214_432fde52/index.m3u8
-灭世男孩（其它动作片）,https://v.cdnlz12.com/20240523/14628_d8351e19/index.m3u8
-暗影守卫（美国动作片）,https://v.cdnlz12.com/20240523/14611_172fdd4e/index.m3u8
-借命人（大陆动作片）,https://v.cdnlz3.com/20240522/23187_254af2b0/index.m3u8
-越域重生（美国动作片）,https://v.cdnlz12.com/20240515/14253_a3c2602b/index.m3u8
-盟军敢死队（美国动作片）,https://v.cdnlz12.com/20240513/14178_b6f0cf61/index.m3u8
-杀杀人、跳跳舞 粤语（香港动作片）,https://v.cdnlz19.com/20240510/33314_c55c7a29/index.m3u8
-杀杀人、跳跳舞 国语（香港动作片）,https://v.cdnlz19.com/20240510/33311_cc2a1ee6/index.m3u8
-怒火战猴（美国动作片）,https://v.cdnlz12.com/20240511/14099_8769a7bc/index.m3u8
-火星特快（法国动作片）,https://v.cdnlz12.com/20240510/14027_88e8450d/index.m3u8
-长风万里2024（大陆动作片）,https://v.cdnlz12.com/20240505/13800_7647163e/index.m3u8
-嬉笑神功（大陆动作片）,https://v.cdnlz19.com/20240430/31854_3a29def4/index.m3u8
-猎毒风云（大陆动作片）,https://v.cdnlz2.com/20240428/30676_4e3fad55/index.m3u8
-火之谜（美国动作片）,https://v.cdnlz2.com/20240426/30616_455eabf9/index.m3u8
-城市猎人2024（日本动作片）,https://v.cdnlz2.com/20240425/30547_d87abc86/index.m3u8
-迷雾刺杀（大陆动作片）,https://v.cdnlz2.com/20240424/30484_067831d6/index.m3u8
-铁镖（大陆动作片）,https://v.cdnlz2.com/20240424/30483_04745770/index.m3u8
-史前怪兽（大陆动作片）,https://v.cdnlz2.com/20240422/30367_59a18f5a/index.m3u8
-摩天楼（韩国动作片）,https://v.cdnlz20.com/20240421/4121_9d02307a/index.m3u8
-漫画威龙之大话特务（韩国动作片）,https://v.cdnlz20.com/20240421/4120_3dea99c7/index.m3u8
-市民德熙（韩国动作片）,https://v.cdnlz2.com/20240421/30310_0da044b0/index.m3u8
-绣春刀：无间炼狱（大陆动作片）,https://v.cdnlz2.com/20240420/30251_dfe0d891/index.m3u8
-孤高2023（日本动作片）,https://v.cdnlz2.com/20240419/30159_d42b7c43/index.m3u8
-哈奴曼2024（印度动作片）,https://v.cdnlz2.com/20240418/30096_f884a9d5/index.m3u8
-米勒上尉（印度动作片）,https://v.cdnlz19.com/20240414/27267_a73d4c60/index.m3u8
-一眉归来（大陆动作片）,https://v.cdnlz2.com/20240416/30000_5f399dea/index.m3u8
-端溪奇案（大陆动作片）,https://v.cdnlz2.com/20240416/29991_4a5d5f7e/index.m3u8
-预知感能 上（韩国动作片）,https://vip.lzcdn2.com/20220407/2501_c155dcd3/index.m3u8
-预知感能 下（韩国动作片）,https://vip.lzcdn2.com/20220407/2610_8ff9fb5f/index.m3u8
-格杀令（香港动作片）,https://vip.lzcdn2.com/20220408/2657_ab1de36e/index.m3u8
-破毒行动（大陆动作片）,https://v.cdnlz2.com/20240410/29736_e572e28a/index.m3u8
-危险证据(大陆动作片）,https://v.cdnlz2.com/20240410/29735_d7e88df6/index.m3u8
-落花洞新娘(大陆动作片）,https://v.cdnlz2.com/20240409/29671_0b44e8db/index.m3u8
-复仇杀神(美国动作片）,https://v.cdnlz12.com/20240406/13669_6a7d9960/index.m3u8
-幻影战士2024(英国动作片）,https://v.cdnlz12.com/20240406/13668_190f1864/index.m3u8
-三个火枪手：米莱迪(法国动作片）,https://v.cdnlz2.com/20240405/29499_8d88d2b1/index.m3u8
-蝶影2024(大陆动作片）,https://v.cdnlz12.com/20240402/13644_86b7bcea/index.m3u8
-天坑鹰猎2024(大陆动作片）,https://v.cdnlz2.com/20240402/29313_f27ca522/index.m3u8
-猎者之心(其它动作片）,https://v.cdnlz2.com/20240401/29261_bfd2c0ae/index.m3u8
-恐惧的代价2024(法国动作片）,https://v.cdnlz2.com/20240331/29229_cabf04ea/index.m3u8
-战士2024(印度动作片）,https://v.cdnlz12.com/20240327/13505_68c6bce9/index.m3u8
-扫黑行动之黄金(大陆动作片）,https://v.cdnlz12.com/20240326/13458_d6285376/index.m3u8
-新威龙杀阵(美国动作片）,https://v.cdnlz12.com/20240321/13258_0f96066a/index.m3u8
-龙狱天棺(大陆动作片）,https://v.cdnlz12.com/20240321/13255_49b86e1a/index.m3u8
-十三太保之风云再起(大陆动作片）,https://v.cdnlz12.com/20240319/13147_43ca2a7e/index.m3u8
-极速阻击(大陆动作片）,https://v.cdnlz12.com/20240317/13068_63cc8cc0/index.m3u8
-天启四骑士：世界末日(美国动作片）,https://v.cdnlz7.com/20240310/16272_61e5841b/index.m3u8
-牡丹令(大陆动作片）,https://v.cdnlz12.com/20240316/12992_fc27d527/index.m3u8
-风车2023(韩国动作片）,https://v.cdnlz7.com/20240310/16266_96f0f6fa/index.m3u8
-大漠追云剑(大陆动作片）,https://v.cdnlz7.com/20240310/16265_dbcc0e33/index.m3u8
-骆驼客3之弓魂传(大陆动作片）,https://v.cdnlz7.com/20240310/16264_4df85533/index.m3u8
-潜行 国语(大陆动作片）,https://v.cdnlz12.com/20240314/12846_d75489a8/index.m3u8
-潜行 粤语(大陆动作片）,https://v.cdnlz12.com/20240314/12845_fd27a7fd/index.m3u8
-末日战士2024(大陆动作片）,https://v.cdnlz12.com/20240313/12834_ce325fe0/index.m3u8
-周公伏妖(大陆动作片）,https://v.cdnlz12.com/20240313/12832_28e8b06c/index.m3u8
-怪物来袭(大陆动作片）,https://v.cdnlz12.com/20240311/12699_8865f233/index.m3u8
-裂战(大陆动作片）,https://v.cdnlz12.com/20240306/12456_ed25978a/index.m3u8
-少女斗恶龙(美国动作片）,https://v.cdnlz12.com/20240308/12567_d5565b64/index.m3u8
-陌路狂刀(大陆动作片）,https://v.cdnlz12.com/20240308/12526_77ee2ef5/index.m3u8
-极速搏杀(大陆动作片）,https://v.cdnlz12.com/20240306/12457_433fa6c3/index.m3u8
-阿盖尔：神秘特工(英国动作片）,https://v.cdnlz12.com/20240305/12430_13166b93/index.m3u8
-花千骨电影版(大陆动作片）,https://v.cdnlz12.com/20240305/12421_351c4c17/index.m3u8
-九龙笔之神兵觉醒(大陆动作片）,https://v.cdnlz10.com/20220525/1610_517d02ef/index.m3u8
-死亡飞车3：地狱烈焰(美国动作片）,https://v.cdnlz19.com/20240304/19911_4c44c2db/index.m3u8
-死亡飞车 原声(美国动作片）,https://v.cdnlz19.com/20240304/19914_80a919d2/index.m3u8
-死亡飞车 国语(美国动作片）,https://v.cdnlz19.com/20240304/19913_92007689/index.m3u8
-信任2019(美国动作片）,https://v.cdnlz3.com/20220805/10764_c4314dc0/index.m3u8
-英雄与懦夫(其它动作片）,https://v.cdnlz3.com/20220731/10399_b1a38738/index.m3u8
-终极死路(美国动作片）,https://v.cdnlz3.com/20220629/8475_9f57f8b4/index.m3u8
-杀手情(大陆动作片）,https://v1.cdnlz1.com/20220413/1952_6f88ce04/index.m3u8
-苏乞儿(香港动作片）,https://v1.cdnlz1.com/20220409/1373_742cc867/index.m3u8
-重案实录之惊天械劫案(香港动作片）,https://v1.cdnlz1.com/20220408/1250_054f73d6/index.m3u8
-一触即发之除爆(大陆动作片）,https://v1.cdnlz1.com/20220317/190_04b24960/index.m3u8
-反贪风暴 国语(香港动作片）,https://v.cdnlz7.com/20230102/13132_84c60dd9/index.m3u8
-发丘陵冢(大陆动作片）,https://v1.cdnlz1.com/20230814/21811_3d2f53a9/index.m3u8
-龙城谜案(大陆动作片）,https://v.cdnlz12.com/20240302/12283_77747a35/index.m3u8
-除暴安良2024(大陆动作片）,https://v.cdnlz7.com/20240302/16255_e02cc774/index.m3u8
-周处除三害(台湾动作片）,https://v.cdnlz7.com/20240301/16251_b6c0822a/index.m3u8
-8号警报2(美国动作片）,https://v.cdnlz12.com/20240229/12106_61587ad0/index.m3u8
-罪恶名单(大陆动作片）,https://v.cdnlz12.com/20240228/12089_9ba6581c/index.m3u8
-湘西诡事(大陆动作片）,https://v.cdnlz12.com/20240228/12087_ba85e5a5/index.m3u8
-哨兵2023法国(法国动作片）,https://v1.cdnlz1.com/20240225/24659_9dde3ba3/index.m3u8
-狄仁杰之通天玄案(大陆动作片）,https://v.cdnlz12.com/20240224/11861_9c04f722/index.m3u8
-怒潮（大陆动作片）,https://v.cdnlz12.com/20240223/11832_439527ff/index.m3u8
-古楼镇陵宫（大陆动作片）,https://v.cdnlz12.com/20240222/11772_cc17a068/index.m3u8
-通缉犯2024（美国动作片）,https://v.cdnlz19.com/20240220/17915_3992167b/index.m3u8
-仙剑奇侠传前传：酒剑仙（大陆动作片）,https://v.cdnlz12.com/20240220/11674_6ba90e47/index.m3u8
-破战 国语（大陆动作片）,https://v.cdnlz12.com/20240220/11660_702d7e15/index.m3u8
-破战 粤语（大陆动作片）,https://v.cdnlz12.com/20240220/11659_d40f8b37/index.m3u8
-清算人 国语（其它动作片）,https://v.cdnlz12.com/20240220/11658_dde0e055/index.m3u8
-清算人 英语（其它动作片）,https://v.cdnlz12.com/20240220/11657_848a4e4a/index.m3u8
-灭灯军团（美国动作片）,https://v.cdnlz12.com/20240219/11614_749ac72a/index.m3u8
-惊天激战（美国动作片）,https://v.cdnlz19.com/20240219/17331_1e41d0fd/index.m3u8
-末日之战（日本动作片）,https://v.cdnlz12.com/20240218/11605_5cd02af9/index.m3u8
-深渊鲨难（美国动作片）,https://v.cdnlz12.com/20240218/11600_85dd0f71/index.m3u8
-龙与地下城：侠盗荣耀（美国动作片）,https://v.cdnlz3.com/20240216/23029_8f5ad2fa/index.m3u8
-藏品2012（美国动作片）,https://v.cdnlz3.com/20240216/23026_4d280200/index.m3u8
-我呼吸的空气（其它动作片）,https://v.cdnlz12.com/20240214/11567_f9009483/index.m3u8
-幸存者们（法国动作片）,https://v.cdnlz12.com/20240212/11550_49a7189d/index.m3u8
-缉恶（大陆动作片）,https://v.cdnlz12.com/20240212/11546_5b8a206d/index.m3u8
-目中无人2（大陆动作片）,https://v.cdnlz2.com/20240210/28830_5c204b22/index.m3u8
-复仇者联盟 原声（美国动作片）,https://vip.lzcdn2.com/20220402/1938_b629ffbe/index.m3u8
-复仇者联盟 国语（美国动作片）,https://v.cdnlz17.com/20240207/110244_f0396d58/index.m3u8
-复仇者联盟4：终局之战 原声（美国动作片）,https://vip.lzcdn2.com/20220402/1945_f2f055d5/index.m3u8
-复仇者联盟4：终局之战 国语（美国动作片）,https://v.cdnlz17.com/20240207/110243_b4257e36/index.m3u8
-复仇者联盟2：奥创纪元 原声（美国动作片）,https://vip.lzcdn2.com/20220402/1942_5a27df02/index.m3u8
-复仇者联盟2：奥创纪元 国语（美国动作片）,https://v.cdnlz17.com/20240207/110242_80187faa/index.m3u8
-东海龙棺（大陆动作片）,https://v.cdnlz2.com/20240210/28824_bcbfb539/index.m3u8
-爆裂骑士（大陆动作片）,https://v.cdnlz2.com/20240206/28769_f3d89707/index.m3u8
-急冻风暴（美国动作片）,https://v.cdnlz3.com/20240129/22947_fc6cab93/index.m3u8
-萨拉尔（印度动作片）,https://v.cdnlz12.com/20240201/11224_c162bb47/index.m3u8
-养蜂人2024（美国动作片）,https://v.cdnlz12.com/20240201/11221_67c5ad8c/index.m3u8
-基督山伯爵1961（其它动作片）,https://v.cdnlz12.com/20240130/11203_7b0b6d3d/index.m3u8
-大冒险王之金丝玉盘（大陆动作片）,https://v.cdnlz12.com/20240129/11197_eebbfceb/index.m3u8
-疯子老爸（大陆动作片）,https://v.cdnlz12.com/20240128/11175_a56701a8/index.m3u8
-荒野2024（韩国动作片）,https://v.cdnlz2.com/20240126/28294_cdfab943/index.m3u8
-黑带2007（日本动作片）,https://v.cdnlz12.com/20240126/11162_4cc0a6a8/index.m3u8
-圣殿骑士2007（其它动作片）,https://v.cdnlz2.com/20240126/28279_8f2f9822/index.m3u8
-爆裂点 粤语（香港动作片）,https://v.cdnlz3.com/20240126/22925_ab576153/index.m3u8
-爆裂点 国语（香港动作片）,https://v.cdnlz3.com/20240126/22924_311317eb/index.m3u8
-挡马夺刀（大陆动作片）,https://v.cdnlz12.com/20240125/11103_1f417be0/index.m3u8
-血之猎手（美国动作片）,https://v.cdnlz2.com/20240125/28239_2a66154f/index.m3u8
-致命契约2007（其它动作片）,https://v.cdnlz2.com/20240125/28238_718318af/index.m3u8
-江湖情 粤语（香港动作片）,https://v.cdnlz17.com/20240124/99676_6d62f60a/index.m3u8
-江湖情 国语（香港动作片）,https://vip1.lz-cdn1.com/20220404/929_7d669c99/index.m3u8
-星门深渊（大陆动作片）,https://v.cdnlz2.com/20240124/28230_cf0c5218/index.m3u8
-美国最后一宗罪案（美国动作片）,https://v.cdnlz3.com/20240123/22904_88b93bdc/index.m3u8
-捍卫正义（美国动作片）,https://v.cdnlz3.com/20240123/22902_92f55c5d/index.m3u8
-海王2：失落的王国（美国动作片）,https://v.cdnlz12.com/20240123/11056_97ad71a3/index.m3u8
-血战1944（其它动作片）,https://v.cdnlz3.com/20240123/22897_a3986c7d/index.m3u8
-怒战（英国动作片）,https://v.cdnlz3.com/20240123/22894_4997bca6/index.m3u8
-逃亡鳄鱼岛（其它动作片）,https://v.cdnlz3.com/20240122/22887_c611e63d/index.m3u8
-最后的兵团（英国动作片）,https://v.cdnlz3.com/20240122/22884_a51f1eac/index.m3u8
-万鳄巨兽（美国动作片）,https://v.cdnlz3.com/20240120/22853_1bde070a/index.m3u8
-斗阵60分（其它动作片）,https://v.cdnlz3.com/20240119/22851_ba27464b/index.m3u8
-西装暴徒（大陆动作片）,https://v.cdnlz3.com/20240118/22835_82f61c7e/index.m3u8
-狂野时速2007（美国动作片）,https://v.cdnlz3.com/20240117/22812_4d1b36bc/index.m3u8
-神探2007（香港动作片）,https://v.cdnlz3.com/20240117/22810_7536eeac/index.m3u8
-反贪风暴之加密危机 粤语（香港动作片）,https://v.cdnlz3.com/20240116/22807_8e8b7f71/index.m3u8
-反贪风暴之加密危机 国语（香港动作片）,https://v.cdnlz3.com/20240116/22806_9f2148a0/index.m3u8
-搭车人2007（美国动作片）,https://v.cdnlz3.com/20240116/22795_86816c51/index.m3u8
-立体小奇兵（美国动作片）,https://v.cdnlz3.com/20240115/22777_3c27a997/index.m3u8
-东京复仇者2血腥万圣节篇 决战 （日本动作片）,https://v.cdnlz3.com/20240114/22773_dc6f2a1f/index.m3u8
-决战帝国（法国动作片）,https://v.cdnlz3.com/20240114/22767_3b1e936c/index.m3u8
-海的故事2021（印度动作片）,https://v.cdnlz3.com/20240114/22765_d908ef3d/index.m3u8
-代号猛虎行动（印度动作片）,https://v.cdnlz3.com/20240114/22762_b78f819a/index.m3u8
-恐惧暗夜（美国动作片）,https://v.cdnlz12.com/20240112/11002_b29fb062/index.m3u8
-无间毒票（大陆动作片）,https://v.cdnlz3.com/20240113/22757_e3c0e0dd/index.m3u8
-王牌杀姬（法国动作片）,https://v.cdnlz3.com/20240112/22748_128c9220/index.m3u8
-一击2：城市混战（英国动作片）,https://v.cdnlz3.com/20240112/22741_4dec050c/index.m3u8
-画江湖之不良帅（大陆动作片）,https://v.cdnlz11.com/20240111/19241_3af8d963/index.m3u8
-王者天下3（日本动作片）,https://v.cdnlz3.com/20240110/22709_f8687994/index.m3u8
-火线对峙2005（美国动作片）,https://v.cdnlz3.com/20240108/22675_72a1df28/index.m3u8
-最后的空降兵（英国动作片）,https://v.cdnlz3.com/20240108/22672_20f9e2a3/index.m3u8
-罪恶赎金（美国动作片）,https://v.cdnlz3.com/20240108/22670_0deeef75/index.m3u8
-凶铃刺客（美国动作片）,https://v.cdnlz3.com/20240106/22652_ec2fe1a1/index.m3u8
-苏格拉底先生（韩国动作片）,https://v.cdnlz3.com/20240106/22649_6e04ebc6/index.m3u8
-烈日血战（美国动作片）,https://v.cdnlz3.com/20240105/22630_8251f761/index.m3u8
-流感2013 韩语（韩国动作片）,https://vip1.lz-cdn1.com/20220522/6422_cdb38af6/index.m3u8
-流感2013 国语（韩国动作片）,https://v.cdnlz17.com/20240103/89669_b1947c44/index.m3u8
-刀剑乱舞电影版2（日本动作片）,https://v.cdnlz3.com/20231230/22542_e8f298c6/index.m3u8
-四兄弟（美国动作片）,https://v.cdnlz3.com/20231229/22523_12c9af0f/index.m3u8
-机关枪牧师（美国动作片）,https://v.cdnlz3.com/20231229/22516_728ee063/index.m3u8
-黑金古殿（大陆动作片）,https://v.cdnlz2.com/20231228/27703_1740f3a5/index.m3u8
-监控室（美国动作片）,https://v.cdnlz3.com/20231228/22504_887c2dbc/index.m3u8
-毒魔复仇2（美国动作片）,https://v.cdnlz3.com/20231227/22492_ee949d87/index.m3u8
-鳄口逃生（泰国动作片）,https://v.cdnlz3.com/20231227/22488_ae7dfcc5/index.m3u8
-关云长 粤语（大陆动作片）,https://v.cdnlz3.com/20231226/22475_055e7d94/index.m3u8
-关云长 国语（大陆动作片）,https://v.cdnlz3.com/20231226/22474_3eee9a2f/index.m3u8
-吸血莱恩（美国动作片）,https://v.cdnlz3.com/20231226/22470_45a1ed83/index.m3u8
-铁拳2012（美国动作片）,https://v.cdnlz3.com/20231226/22469_e81a05aa/index.m3u8
-东京复仇者2血色万圣节篇 命运 （日本动作片）,https://v.cdnlz11.com/20231225/18853_39d2474f/index.m3u8
-协商2018（韩国动作片）,https://v.cdnlz11.com/20231225/18848_c23726f6/index.m3u8
-兽餐（美国动作片）,https://v.cdnlz11.com/20231223/18814_d355126c/index.m3u8
-心甘情愿2018（印度动作片）,https://v.cdnlz17.com/20231221/87879_afbcf60e/index.m3u8
-七秒钟（美国动作片）,https://v.cdnlz11.com/20231221/18788_f1ee8a09/index.m3u8
-斗破苍穹·止戈（大陆动作片）,https://v.cdnlz4.com/20231221/26255_0c98014d/index.m3u8
-猿猴大战机械猿猴（美国动作片）,https://v.cdnlz4.com/20231220/26245_96e99548/index.m3u8
-拳职人员（台湾动作片）,https://v.cdnlz4.com/20231220/26239_4590e907/index.m3u8
-静夜厮杀（美国动作片）,https://v.cdnlz11.com/20231220/18771_668d9e02/index.m3u8
-特工老爸2020（美国动作片）,https://v.cdnlz11.com/20231220/18766_89a0c817/index.m3u8
-巴德尔和迈因霍夫集团（其它动作片）,https://v.cdnlz11.com/20231219/18751_07d1bee0/index.m3u8
-守夜人2004（俄罗斯动作片）,https://v.cdnlz11.com/20231218/18747_a55c17a6/index.m3u8
-深渊宝藏（大陆动作片）,https://v.cdnlz3.com/20231218/22365_c7902443/index.m3u8
-生死交锋2023（大陆动作片）,https://v.cdnlz3.com/20231218/22362_83b403af/index.m3u8
-笼子里的女孩（韩国动作片）,https://v.cdnlz4.com/20231217/26227_f965dd08/index.m3u8
-长夜危机（美国动作片）,https://v.cdnlz11.com/20231217/18737_5ef774a6/index.m3u8
-宿主（美国动作片）,https://v.cdnlz11.com/20231214/18688_91bf74bd/index.m3u8
-坚如磐石（大陆动作片）,https://v.cdnlz4.com/20231214/26226_81898e11/index.m3u8
-阿修罗1990（香港动作片）,https://v.cdnlz11.com/20231214/18679_ff4dc131/index.m3u8
-冰雪特工（法国动作片）,https://v.cdnlz4.com/20231213/26213_70555c4c/index.m3u8
-亡魂复活（英国动作片）,https://v.cdnlz11.com/20231211/18651_3d516f60/index.m3u8
-饥饿游戏：鸣鸟与蛇之歌（美国动作片）,https://v.cdnlz11.com/20231211/18647_d0c05b0c/index.m3u8
-无法无天2006（美国动作片）,https://v.cdnlz11.com/20231211/18643_f6e638e2/index.m3u8
-怒火追击（大陆动作片）,https://v.cdnlz11.com/20231210/18639_55306264/index.m3u8
-营救野猪队（泰国动作片）,https://v.cdnlz11.com/20231209/18615_da76cb08/index.m3u8
-惊奇队长2（美国动作片）,https://v1.cdnlz1.com/20231208/24476_e5cafe33/index.m3u8
-两个男人（韩国动作片）,https://v.cdnlz11.com/20231208/18597_ad08d1fa/index.m3u8
-忍风战队破里剑者是也！咻咻的20周年（日本动作片）,https://v.cdnlz4.com/20231205/26199_35b2cb7c/index.m3u8
-超级特工2004（法国动作片）,https://v.cdnlz11.com/20231206/18572_7c6ab959/index.m3u8
-喀纳斯水怪（大陆动作片）,https://v.cdnlz11.com/20231205/18552_443a1d21/index.m3u8
-国家宝藏（美国动作片）,https://v.cdnlz11.com/20231205/18548_4bc9d09f/index.m3u8
-威震八方（美国动作片）,https://v.cdnlz11.com/20231204/18541_06c4768c/index.m3u8
-一线声机（美国动作片）,https://v.cdnlz11.com/20231204/18534_04504ec9/index.m3u8
-迎春阁之风波（香港动作片）,https://v.cdnlz11.com/20231204/18531_a7f65ed5/index.m3u8
-仇连环（香港动作片）,https://v.cdnlz11.com/20231204/18527_12fb54e4/index.m3u8
-沙漠骑兵（美国动作片）,https://v.cdnlz11.com/20231203/18518_0fea4f66/index.m3u8
-斯巴达人（美国动作片）,https://v.cdnlz11.com/20231203/18516_dde741e7/index.m3u8
-误入歧途2006（其它动作片）,https://v.cdnlz11.com/20231202/18503_2e612a82/index.m3u8
-汉城大劫案（韩国动作片）,https://v.cdnlz17.com/20231130/63272_4a25428e/index.m3u8
-猫女2004（美国动作片）,https://v.cdnlz11.com/20231201/18493_ad4e14e2/index.m3u8
-困兽（大陆动作片）,https://v.cdnlz11.com/20231130/18487_92815960/index.m3u8
-走到尽头2023（日本动作片）,https://v.cdnlz11.com/20231130/18486_bd41a755/index.m3u8
-超级恶魔人（日本动作片）,https://v.cdnlz11.com/20231130/18480_3b4668f1/index.m3u8
-圣人营救（其它动作片）,https://v.cdnlz11.com/20231129/18479_cf5bdeec/index.m3u8
-血与骨2009（美国动作片）,https://v.cdnlz11.com/20231129/18474_bb9ae538/index.m3u8
-无间交易（其它动作片）,https://v.cdnlz11.com/20231129/18471_ad320a2f/index.m3u8
-以藏（日本动作片）,https://v.cdnlz11.com/20231129/18466_be7f0779/index.m3u8
-热血高速（美国动作片）,https://v.cdnlz11.com/20231129/18462_5b74e1df/index.m3u8
-吉吉历险记（其它动作片）,https://v.cdnlz4.com/20231128/26176_25926ba6/index.m3u8
-霸刀（美国动作片）,https://v.cdnlz2.com/20231127/27061_91a0e5b6/index.m3u8
-冷面赤心（其它动作片）,https://v.cdnlz11.com/20231127/18447_a3309046/index.m3u8
-断肠剑（香港动作片）,https://v.cdnlz11.com/20231125/18423_0089a8ba/index.m3u8
-谍海计中计（美国动作片）,https://v.cdnlz11.com/20231124/18413_6534e3ef/index.m3u8
-93国际列车大劫案：莫斯科行动（大陆动作片）,https://v1.cdnlz1.com/20231123/24109_45c19438/index.m3u8
-破茧杀机2003（美国动作片）,https://v.cdnlz11.com/20231123/18393_76cce196/index.m3u8
-夺命狙击3破晓（大陆动作片）,https://v1.cdnlz1.com/20231122/24051_a993297a/index.m3u8
-咏春1994（香港动作片）,https://v.cdnlz11.com/20231121/18361_1e2e07d7/index.m3u8
-少女杀手阿墨（日本动作片）,https://v1.cdnlz1.com/20231120/23964_8c0ae9ee/index.m3u8
-少女杀手阿墨2（日本动作片）,https://v.cdnlz2.com/20231120/26852_0949b08f/index.m3u8
-绝色保镖（大陆动作片）,https://v.cdnlz2.com/20231119/26830_9465d0ce/index.m3u8
-新木马屠城记（美国动作片）,https://v1.cdnlz1.com/20231119/23940_682471ff/index.m3u8
-日出英烈祠（其它动作片）,https://v1.cdnlz1.com/20231118/23937_ff60d837/index.m3u8
-单刀直入2003（美国动作片）,https://v1.cdnlz1.com/20231118/23931_a77e3eb4/index.m3u8
-铁甲战神 英语（英国动作片）,https://v.cdnlz2.com/20231118/26641_c2a608c3/index.m3u8
-铁甲战神 国语（英国动作片）,https://v.cdnlz2.com/20231118/26639_d9ab5944/index.m3u8
-毒战2（韩国动作片）,https://v.cdnlz4.com/20231117/26156_c60ebe89/index.m3u8
-斗破苍穹·觉醒（大陆动作片）,https://v.cdnlz4.com/20231117/26155_f980682a/index.m3u8
-异形猎手（其它动作片）,https://v.cdnlz11.com/20231116/18335_0126174d/index.m3u8
-血符门（香港动作片）,https://v.cdnlz11.com/20231116/18333_804a562e/index.m3u8
+空军一号坠落(美国动作片),https://v.cdnlz21.com/20240623/702_aa876083/index.m3u8
+狙击精英之纳米危机(大陆动作片),https://v.cdnlz12.com/20240622/15377_f5de5a6d/index.m3u8
+伤痕累累2024(美国动作片),https://v.cdnlz12.com/20240622/15373_c9034b8f/index.m3u8
+触发警报(美国动作片),https://v.cdnlz12.com/20240621/15348_367514f6/index.m3u8
+九龙城寨之围城 国语(香港动作片),https://v.cdnlz3.com/20240621/23931_0923f192/index.m3u8
+九龙城寨之围城 粤语(香港动作片),https://v.cdnlz12.com/20240621/15286_3ea699af/index.m3u8
+狄仁杰之大幻术师(大陆动作片),https://v.cdnlz12.com/20240616/15217_7ae3eaf3/index.m3u8
+战心时刻(大陆动作片),https://v.cdnlz12.com/20240616/15216_66451ef1/index.m3u8
+维和防暴队(大陆动作片),https://v.cdnlz3.com/20240613/23684_2cfccdbc/index.m3u8
+制暴2024(大陆动作片),https://v.cdnlz12.com/20240606/15025_020a279f/index.m3u8
+动作巨星2(美国动作片),https://v.cdnlz12.com/20240604/14951_46e5fadc/index.m3u8
+特技狂人(美国动作片),https://v.cdnlz12.com/20240603/14932_2ee7b764/index.m3u8
+少林僵尸天极(香港动作片),https://v.cdnlz21.com/20240602/380_92fb746a/index.m3u8
+仿生超极限(其它动作片),https://v.cdnlz12.com/20240602/14887_40bbd784/index.m3u8
+西部狂野(大陆动作片),https://v.cdnlz19.com/20240528/34942_aff0e7d0/index.m3u8
+达摩祖师(香港动作片),https://v.cdnlz19.com/20240528/34943_1e06cd0a/index.m3u8
+绝命狙击(大陆动作片),https://v.cdnlz3.com/20240529/23459_8463c348/index.m3u8
+绝杀招式(美国动作片),https://v.cdnlz3.com/20240528/23369_87901ffa/index.m3u8
+风速极战(大陆动作片),https://v.cdnlz3.com/20240526/23287_e7a79ef6/index.m3u8
+变体(大陆动作片),https://v.cdnlz3.com/20240525/23241_d2f854e9/index.m3u8
+美国内战(英国动作片),https://v.cdnlz12.com/20240524/14694_0957b5db/index.m3u8
+异星战境(美国动作片),https://v.cdnlz3.com/20240524/23214_432fde52/index.m3u8
+灭世男孩(其它动作片),https://v.cdnlz12.com/20240523/14628_d8351e19/index.m3u8
+暗影守卫(美国动作片),https://v.cdnlz12.com/20240523/14611_172fdd4e/index.m3u8
+借命人(大陆动作片),https://v.cdnlz3.com/20240522/23187_254af2b0/index.m3u8
+越域重生(美国动作片),https://v.cdnlz12.com/20240515/14253_a3c2602b/index.m3u8
+盟军敢死队(美国动作片),https://v.cdnlz12.com/20240513/14178_b6f0cf61/index.m3u8
+杀杀人、跳跳舞 粤语(香港动作片),https://v.cdnlz19.com/20240510/33314_c55c7a29/index.m3u8
+杀杀人、跳跳舞 国语(香港动作片),https://v.cdnlz19.com/20240510/33311_cc2a1ee6/index.m3u8
+怒火战猴(美国动作片),https://v.cdnlz12.com/20240511/14099_8769a7bc/index.m3u8
+火星特快(法国动作片),https://v.cdnlz12.com/20240510/14027_88e8450d/index.m3u8
+长风万里2024(大陆动作片),https://v.cdnlz12.com/20240505/13800_7647163e/index.m3u8
+嬉笑神功(大陆动作片),https://v.cdnlz19.com/20240430/31854_3a29def4/index.m3u8
+猎毒风云(大陆动作片),https://v.cdnlz2.com/20240428/30676_4e3fad55/index.m3u8
+火之谜(美国动作片),https://v.cdnlz2.com/20240426/30616_455eabf9/index.m3u8
+城市猎人2024(日本动作片),https://v.cdnlz2.com/20240425/30547_d87abc86/index.m3u8
+迷雾刺杀(大陆动作片),https://v.cdnlz2.com/20240424/30484_067831d6/index.m3u8
+铁镖(大陆动作片),https://v.cdnlz2.com/20240424/30483_04745770/index.m3u8
+史前怪兽(大陆动作片),https://v.cdnlz2.com/20240422/30367_59a18f5a/index.m3u8
+摩天楼(韩国动作片),https://v.cdnlz20.com/20240421/4121_9d02307a/index.m3u8
+漫画威龙之大话特务(韩国动作片),https://v.cdnlz20.com/20240421/4120_3dea99c7/index.m3u8
+市民德熙(韩国动作片),https://v.cdnlz2.com/20240421/30310_0da044b0/index.m3u8
+绣春刀：无间炼狱(大陆动作片),https://v.cdnlz2.com/20240420/30251_dfe0d891/index.m3u8
+孤高2023(日本动作片),https://v.cdnlz2.com/20240419/30159_d42b7c43/index.m3u8
+哈奴曼2024(印度动作片),https://v.cdnlz2.com/20240418/30096_f884a9d5/index.m3u8
+米勒上尉(印度动作片),https://v.cdnlz19.com/20240414/27267_a73d4c60/index.m3u8
+一眉归来(大陆动作片),https://v.cdnlz2.com/20240416/30000_5f399dea/index.m3u8
+端溪奇案(大陆动作片),https://v.cdnlz2.com/20240416/29991_4a5d5f7e/index.m3u8
+预知感能 上(韩国动作片),https://vip.lzcdn2.com/20220407/2501_c155dcd3/index.m3u8
+预知感能 下(韩国动作片),https://vip.lzcdn2.com/20220407/2610_8ff9fb5f/index.m3u8
+格杀令(香港动作片),https://vip.lzcdn2.com/20220408/2657_ab1de36e/index.m3u8
+破毒行动(大陆动作片),https://v.cdnlz2.com/20240410/29736_e572e28a/index.m3u8
+危险证据(大陆动作片),https://v.cdnlz2.com/20240410/29735_d7e88df6/index.m3u8
+落花洞新娘(大陆动作片),https://v.cdnlz2.com/20240409/29671_0b44e8db/index.m3u8
+复仇杀神(美国动作片),https://v.cdnlz12.com/20240406/13669_6a7d9960/index.m3u8
+幻影战士2024(英国动作片),https://v.cdnlz12.com/20240406/13668_190f1864/index.m3u8
+三个火枪手：米莱迪(法国动作片),https://v.cdnlz2.com/20240405/29499_8d88d2b1/index.m3u8
+蝶影2024(大陆动作片),https://v.cdnlz12.com/20240402/13644_86b7bcea/index.m3u8
+天坑鹰猎2024(大陆动作片),https://v.cdnlz2.com/20240402/29313_f27ca522/index.m3u8
+猎者之心(其它动作片),https://v.cdnlz2.com/20240401/29261_bfd2c0ae/index.m3u8
+恐惧的代价2024(法国动作片),https://v.cdnlz2.com/20240331/29229_cabf04ea/index.m3u8
+战士2024(印度动作片),https://v.cdnlz12.com/20240327/13505_68c6bce9/index.m3u8
+扫黑行动之黄金(大陆动作片),https://v.cdnlz12.com/20240326/13458_d6285376/index.m3u8
+新威龙杀阵(美国动作片),https://v.cdnlz12.com/20240321/13258_0f96066a/index.m3u8
+龙狱天棺(大陆动作片),https://v.cdnlz12.com/20240321/13255_49b86e1a/index.m3u8
+十三太保之风云再起(大陆动作片),https://v.cdnlz12.com/20240319/13147_43ca2a7e/index.m3u8
+极速阻击(大陆动作片),https://v.cdnlz12.com/20240317/13068_63cc8cc0/index.m3u8
+天启四骑士：世界末日(美国动作片),https://v.cdnlz7.com/20240310/16272_61e5841b/index.m3u8
+牡丹令(大陆动作片),https://v.cdnlz12.com/20240316/12992_fc27d527/index.m3u8
+风车2023(韩国动作片),https://v.cdnlz7.com/20240310/16266_96f0f6fa/index.m3u8
+大漠追云剑(大陆动作片),https://v.cdnlz7.com/20240310/16265_dbcc0e33/index.m3u8
+骆驼客3之弓魂传(大陆动作片),https://v.cdnlz7.com/20240310/16264_4df85533/index.m3u8
+潜行 国语(大陆动作片),https://v.cdnlz12.com/20240314/12846_d75489a8/index.m3u8
+潜行 粤语(大陆动作片),https://v.cdnlz12.com/20240314/12845_fd27a7fd/index.m3u8
+末日战士2024(大陆动作片),https://v.cdnlz12.com/20240313/12834_ce325fe0/index.m3u8
+周公伏妖(大陆动作片),https://v.cdnlz12.com/20240313/12832_28e8b06c/index.m3u8
+怪物来袭(大陆动作片),https://v.cdnlz12.com/20240311/12699_8865f233/index.m3u8
+裂战(大陆动作片),https://v.cdnlz12.com/20240306/12456_ed25978a/index.m3u8
+少女斗恶龙(美国动作片),https://v.cdnlz12.com/20240308/12567_d5565b64/index.m3u8
+陌路狂刀(大陆动作片),https://v.cdnlz12.com/20240308/12526_77ee2ef5/index.m3u8
+极速搏杀(大陆动作片),https://v.cdnlz12.com/20240306/12457_433fa6c3/index.m3u8
+阿盖尔：神秘特工(英国动作片),https://v.cdnlz12.com/20240305/12430_13166b93/index.m3u8
+花千骨电影版(大陆动作片),https://v.cdnlz12.com/20240305/12421_351c4c17/index.m3u8
+九龙笔之神兵觉醒(大陆动作片),https://v.cdnlz10.com/20220525/1610_517d02ef/index.m3u8
+死亡飞车3：地狱烈焰(美国动作片),https://v.cdnlz19.com/20240304/19911_4c44c2db/index.m3u8
+死亡飞车 原声(美国动作片),https://v.cdnlz19.com/20240304/19914_80a919d2/index.m3u8
+死亡飞车 国语(美国动作片),https://v.cdnlz19.com/20240304/19913_92007689/index.m3u8
+信任2019(美国动作片),https://v.cdnlz3.com/20220805/10764_c4314dc0/index.m3u8
+英雄与懦夫(其它动作片),https://v.cdnlz3.com/20220731/10399_b1a38738/index.m3u8
+终极死路(美国动作片),https://v.cdnlz3.com/20220629/8475_9f57f8b4/index.m3u8
+杀手情(大陆动作片),https://v1.cdnlz1.com/20220413/1952_6f88ce04/index.m3u8
+苏乞儿(香港动作片),https://v1.cdnlz1.com/20220409/1373_742cc867/index.m3u8
+重案实录之惊天械劫案(香港动作片),https://v1.cdnlz1.com/20220408/1250_054f73d6/index.m3u8
+一触即发之除爆(大陆动作片),https://v1.cdnlz1.com/20220317/190_04b24960/index.m3u8
+反贪风暴 国语(香港动作片),https://v.cdnlz7.com/20230102/13132_84c60dd9/index.m3u8
+发丘陵冢(大陆动作片),https://v1.cdnlz1.com/20230814/21811_3d2f53a9/index.m3u8
+龙城谜案(大陆动作片),https://v.cdnlz12.com/20240302/12283_77747a35/index.m3u8
+除暴安良2024(大陆动作片),https://v.cdnlz7.com/20240302/16255_e02cc774/index.m3u8
+周处除三害(台湾动作片),https://v.cdnlz7.com/20240301/16251_b6c0822a/index.m3u8
+8号警报2(美国动作片),https://v.cdnlz12.com/20240229/12106_61587ad0/index.m3u8
+罪恶名单(大陆动作片),https://v.cdnlz12.com/20240228/12089_9ba6581c/index.m3u8
+湘西诡事(大陆动作片),https://v.cdnlz12.com/20240228/12087_ba85e5a5/index.m3u8
+哨兵2023法国(法国动作片),https://v1.cdnlz1.com/20240225/24659_9dde3ba3/index.m3u8
+狄仁杰之通天玄案(大陆动作片),https://v.cdnlz12.com/20240224/11861_9c04f722/index.m3u8
+怒潮(大陆动作片),https://v.cdnlz12.com/20240223/11832_439527ff/index.m3u8
+古楼镇陵宫(大陆动作片),https://v.cdnlz12.com/20240222/11772_cc17a068/index.m3u8
+通缉犯2024(美国动作片),https://v.cdnlz19.com/20240220/17915_3992167b/index.m3u8
+仙剑奇侠传前传：酒剑仙(大陆动作片),https://v.cdnlz12.com/20240220/11674_6ba90e47/index.m3u8
+破战 国语(大陆动作片),https://v.cdnlz12.com/20240220/11660_702d7e15/index.m3u8
+破战 粤语(大陆动作片),https://v.cdnlz12.com/20240220/11659_d40f8b37/index.m3u8
+清算人 国语(其它动作片),https://v.cdnlz12.com/20240220/11658_dde0e055/index.m3u8
+清算人 英语(其它动作片),https://v.cdnlz12.com/20240220/11657_848a4e4a/index.m3u8
+灭灯军团(美国动作片),https://v.cdnlz12.com/20240219/11614_749ac72a/index.m3u8
+惊天激战(美国动作片),https://v.cdnlz19.com/20240219/17331_1e41d0fd/index.m3u8
+末日之战(日本动作片),https://v.cdnlz12.com/20240218/11605_5cd02af9/index.m3u8
+深渊鲨难(美国动作片),https://v.cdnlz12.com/20240218/11600_85dd0f71/index.m3u8
+龙与地下城：侠盗荣耀(美国动作片),https://v.cdnlz3.com/20240216/23029_8f5ad2fa/index.m3u8
+藏品2012(美国动作片),https://v.cdnlz3.com/20240216/23026_4d280200/index.m3u8
+我呼吸的空气(其它动作片),https://v.cdnlz12.com/20240214/11567_f9009483/index.m3u8
+幸存者们(法国动作片),https://v.cdnlz12.com/20240212/11550_49a7189d/index.m3u8
+缉恶(大陆动作片),https://v.cdnlz12.com/20240212/11546_5b8a206d/index.m3u8
+目中无人2(大陆动作片),https://v.cdnlz2.com/20240210/28830_5c204b22/index.m3u8
+复仇者联盟 原声(美国动作片),https://vip.lzcdn2.com/20220402/1938_b629ffbe/index.m3u8
+复仇者联盟 国语(美国动作片),https://v.cdnlz17.com/20240207/110244_f0396d58/index.m3u8
+复仇者联盟4：终局之战 原声(美国动作片),https://vip.lzcdn2.com/20220402/1945_f2f055d5/index.m3u8
+复仇者联盟4：终局之战 国语(美国动作片),https://v.cdnlz17.com/20240207/110243_b4257e36/index.m3u8
+复仇者联盟2：奥创纪元 原声(美国动作片),https://vip.lzcdn2.com/20220402/1942_5a27df02/index.m3u8
+复仇者联盟2：奥创纪元 国语(美国动作片),https://v.cdnlz17.com/20240207/110242_80187faa/index.m3u8
+东海龙棺(大陆动作片),https://v.cdnlz2.com/20240210/28824_bcbfb539/index.m3u8
+爆裂骑士(大陆动作片),https://v.cdnlz2.com/20240206/28769_f3d89707/index.m3u8
+急冻风暴(美国动作片),https://v.cdnlz3.com/20240129/22947_fc6cab93/index.m3u8
+萨拉尔(印度动作片),https://v.cdnlz12.com/20240201/11224_c162bb47/index.m3u8
+养蜂人2024(美国动作片),https://v.cdnlz12.com/20240201/11221_67c5ad8c/index.m3u8
+基督山伯爵1961(其它动作片),https://v.cdnlz12.com/20240130/11203_7b0b6d3d/index.m3u8
+大冒险王之金丝玉盘(大陆动作片),https://v.cdnlz12.com/20240129/11197_eebbfceb/index.m3u8
+疯子老爸(大陆动作片),https://v.cdnlz12.com/20240128/11175_a56701a8/index.m3u8
+荒野2024(韩国动作片),https://v.cdnlz2.com/20240126/28294_cdfab943/index.m3u8
+黑带2007(日本动作片),https://v.cdnlz12.com/20240126/11162_4cc0a6a8/index.m3u8
+圣殿骑士2007(其它动作片),https://v.cdnlz2.com/20240126/28279_8f2f9822/index.m3u8
+爆裂点 粤语(香港动作片),https://v.cdnlz3.com/20240126/22925_ab576153/index.m3u8
+爆裂点 国语(香港动作片),https://v.cdnlz3.com/20240126/22924_311317eb/index.m3u8
+挡马夺刀(大陆动作片),https://v.cdnlz12.com/20240125/11103_1f417be0/index.m3u8
+血之猎手(美国动作片),https://v.cdnlz2.com/20240125/28239_2a66154f/index.m3u8
+致命契约2007(其它动作片),https://v.cdnlz2.com/20240125/28238_718318af/index.m3u8
+江湖情 粤语(香港动作片),https://v.cdnlz17.com/20240124/99676_6d62f60a/index.m3u8
+江湖情 国语(香港动作片),https://vip1.lz-cdn1.com/20220404/929_7d669c99/index.m3u8
+星门深渊(大陆动作片),https://v.cdnlz2.com/20240124/28230_cf0c5218/index.m3u8
+美国最后一宗罪案(美国动作片),https://v.cdnlz3.com/20240123/22904_88b93bdc/index.m3u8
+捍卫正义(美国动作片),https://v.cdnlz3.com/20240123/22902_92f55c5d/index.m3u8
+海王2：失落的王国(美国动作片),https://v.cdnlz12.com/20240123/11056_97ad71a3/index.m3u8
+血战1944(其它动作片),https://v.cdnlz3.com/20240123/22897_a3986c7d/index.m3u8
+怒战(英国动作片),https://v.cdnlz3.com/20240123/22894_4997bca6/index.m3u8
+逃亡鳄鱼岛(其它动作片),https://v.cdnlz3.com/20240122/22887_c611e63d/index.m3u8
+最后的兵团(英国动作片),https://v.cdnlz3.com/20240122/22884_a51f1eac/index.m3u8
+万鳄巨兽(美国动作片),https://v.cdnlz3.com/20240120/22853_1bde070a/index.m3u8
+斗阵60分(其它动作片),https://v.cdnlz3.com/20240119/22851_ba27464b/index.m3u8
+西装暴徒(大陆动作片),https://v.cdnlz3.com/20240118/22835_82f61c7e/index.m3u8
+狂野时速2007(美国动作片),https://v.cdnlz3.com/20240117/22812_4d1b36bc/index.m3u8
+神探2007(香港动作片),https://v.cdnlz3.com/20240117/22810_7536eeac/index.m3u8
+反贪风暴之加密危机 粤语(香港动作片),https://v.cdnlz3.com/20240116/22807_8e8b7f71/index.m3u8
+反贪风暴之加密危机 国语(香港动作片),https://v.cdnlz3.com/20240116/22806_9f2148a0/index.m3u8
+搭车人2007(美国动作片),https://v.cdnlz3.com/20240116/22795_86816c51/index.m3u8
+立体小奇兵(美国动作片),https://v.cdnlz3.com/20240115/22777_3c27a997/index.m3u8
+东京复仇者2血腥万圣节篇 决战 (日本动作片),https://v.cdnlz3.com/20240114/22773_dc6f2a1f/index.m3u8
+决战帝国(法国动作片),https://v.cdnlz3.com/20240114/22767_3b1e936c/index.m3u8
+海的故事2021(印度动作片),https://v.cdnlz3.com/20240114/22765_d908ef3d/index.m3u8
+代号猛虎行动(印度动作片),https://v.cdnlz3.com/20240114/22762_b78f819a/index.m3u8
+恐惧暗夜(美国动作片),https://v.cdnlz12.com/20240112/11002_b29fb062/index.m3u8
+无间毒票(大陆动作片),https://v.cdnlz3.com/20240113/22757_e3c0e0dd/index.m3u8
+王牌杀姬(法国动作片),https://v.cdnlz3.com/20240112/22748_128c9220/index.m3u8
+一击2：城市混战(英国动作片),https://v.cdnlz3.com/20240112/22741_4dec050c/index.m3u8
+画江湖之不良帅(大陆动作片),https://v.cdnlz11.com/20240111/19241_3af8d963/index.m3u8
+王者天下3(日本动作片),https://v.cdnlz3.com/20240110/22709_f8687994/index.m3u8
+火线对峙2005(美国动作片),https://v.cdnlz3.com/20240108/22675_72a1df28/index.m3u8
+最后的空降兵(英国动作片),https://v.cdnlz3.com/20240108/22672_20f9e2a3/index.m3u8
+罪恶赎金(美国动作片),https://v.cdnlz3.com/20240108/22670_0deeef75/index.m3u8
+凶铃刺客(美国动作片),https://v.cdnlz3.com/20240106/22652_ec2fe1a1/index.m3u8
+苏格拉底先生(韩国动作片),https://v.cdnlz3.com/20240106/22649_6e04ebc6/index.m3u8
+烈日血战(美国动作片),https://v.cdnlz3.com/20240105/22630_8251f761/index.m3u8
+流感2013 韩语(韩国动作片),https://vip1.lz-cdn1.com/20220522/6422_cdb38af6/index.m3u8
+流感2013 国语(韩国动作片),https://v.cdnlz17.com/20240103/89669_b1947c44/index.m3u8
+刀剑乱舞电影版2(日本动作片),https://v.cdnlz3.com/20231230/22542_e8f298c6/index.m3u8
+四兄弟(美国动作片),https://v.cdnlz3.com/20231229/22523_12c9af0f/index.m3u8
+机关枪牧师(美国动作片),https://v.cdnlz3.com/20231229/22516_728ee063/index.m3u8
+黑金古殿(大陆动作片),https://v.cdnlz2.com/20231228/27703_1740f3a5/index.m3u8
+监控室(美国动作片),https://v.cdnlz3.com/20231228/22504_887c2dbc/index.m3u8
+毒魔复仇2(美国动作片),https://v.cdnlz3.com/20231227/22492_ee949d87/index.m3u8
+鳄口逃生(泰国动作片),https://v.cdnlz3.com/20231227/22488_ae7dfcc5/index.m3u8
+关云长 粤语(大陆动作片),https://v.cdnlz3.com/20231226/22475_055e7d94/index.m3u8
+关云长 国语(大陆动作片),https://v.cdnlz3.com/20231226/22474_3eee9a2f/index.m3u8
+吸血莱恩(美国动作片),https://v.cdnlz3.com/20231226/22470_45a1ed83/index.m3u8
+铁拳2012(美国动作片),https://v.cdnlz3.com/20231226/22469_e81a05aa/index.m3u8
+东京复仇者2血色万圣节篇 命运 (日本动作片),https://v.cdnlz11.com/20231225/18853_39d2474f/index.m3u8
+协商2018(韩国动作片),https://v.cdnlz11.com/20231225/18848_c23726f6/index.m3u8
+兽餐(美国动作片),https://v.cdnlz11.com/20231223/18814_d355126c/index.m3u8
+心甘情愿2018(印度动作片),https://v.cdnlz17.com/20231221/87879_afbcf60e/index.m3u8
+七秒钟(美国动作片),https://v.cdnlz11.com/20231221/18788_f1ee8a09/index.m3u8
+斗破苍穹·止戈(大陆动作片),https://v.cdnlz4.com/20231221/26255_0c98014d/index.m3u8
+猿猴大战机械猿猴(美国动作片),https://v.cdnlz4.com/20231220/26245_96e99548/index.m3u8
+拳职人员(台湾动作片),https://v.cdnlz4.com/20231220/26239_4590e907/index.m3u8
+静夜厮杀(美国动作片),https://v.cdnlz11.com/20231220/18771_668d9e02/index.m3u8
+特工老爸2020(美国动作片),https://v.cdnlz11.com/20231220/18766_89a0c817/index.m3u8
+巴德尔和迈因霍夫集团(其它动作片),https://v.cdnlz11.com/20231219/18751_07d1bee0/index.m3u8
+守夜人2004(俄罗斯动作片),https://v.cdnlz11.com/20231218/18747_a55c17a6/index.m3u8
+深渊宝藏(大陆动作片),https://v.cdnlz3.com/20231218/22365_c7902443/index.m3u8
+生死交锋2023(大陆动作片),https://v.cdnlz3.com/20231218/22362_83b403af/index.m3u8
+笼子里的女孩(韩国动作片),https://v.cdnlz4.com/20231217/26227_f965dd08/index.m3u8
+长夜危机(美国动作片),https://v.cdnlz11.com/20231217/18737_5ef774a6/index.m3u8
+宿主(美国动作片),https://v.cdnlz11.com/20231214/18688_91bf74bd/index.m3u8
+坚如磐石(大陆动作片),https://v.cdnlz4.com/20231214/26226_81898e11/index.m3u8
+阿修罗1990(香港动作片),https://v.cdnlz11.com/20231214/18679_ff4dc131/index.m3u8
+冰雪特工(法国动作片),https://v.cdnlz4.com/20231213/26213_70555c4c/index.m3u8
+亡魂复活(英国动作片),https://v.cdnlz11.com/20231211/18651_3d516f60/index.m3u8
+饥饿游戏：鸣鸟与蛇之歌(美国动作片),https://v.cdnlz11.com/20231211/18647_d0c05b0c/index.m3u8
+无法无天2006(美国动作片),https://v.cdnlz11.com/20231211/18643_f6e638e2/index.m3u8
+怒火追击(大陆动作片),https://v.cdnlz11.com/20231210/18639_55306264/index.m3u8
+营救野猪队(泰国动作片),https://v.cdnlz11.com/20231209/18615_da76cb08/index.m3u8
+惊奇队长2(美国动作片),https://v1.cdnlz1.com/20231208/24476_e5cafe33/index.m3u8
+两个男人(韩国动作片),https://v.cdnlz11.com/20231208/18597_ad08d1fa/index.m3u8
+忍风战队破里剑者是也！咻咻的20周年(日本动作片),https://v.cdnlz4.com/20231205/26199_35b2cb7c/index.m3u8
+超级特工2004(法国动作片),https://v.cdnlz11.com/20231206/18572_7c6ab959/index.m3u8
+喀纳斯水怪(大陆动作片),https://v.cdnlz11.com/20231205/18552_443a1d21/index.m3u8
+国家宝藏(美国动作片),https://v.cdnlz11.com/20231205/18548_4bc9d09f/index.m3u8
+威震八方(美国动作片),https://v.cdnlz11.com/20231204/18541_06c4768c/index.m3u8
+一线声机(美国动作片),https://v.cdnlz11.com/20231204/18534_04504ec9/index.m3u8
+迎春阁之风波(香港动作片),https://v.cdnlz11.com/20231204/18531_a7f65ed5/index.m3u8
+仇连环(香港动作片),https://v.cdnlz11.com/20231204/18527_12fb54e4/index.m3u8
+沙漠骑兵(美国动作片),https://v.cdnlz11.com/20231203/18518_0fea4f66/index.m3u8
+斯巴达人(美国动作片),https://v.cdnlz11.com/20231203/18516_dde741e7/index.m3u8
+误入歧途2006(其它动作片),https://v.cdnlz11.com/20231202/18503_2e612a82/index.m3u8
+汉城大劫案(韩国动作片),https://v.cdnlz17.com/20231130/63272_4a25428e/index.m3u8
+猫女2004(美国动作片),https://v.cdnlz11.com/20231201/18493_ad4e14e2/index.m3u8
+困兽(大陆动作片),https://v.cdnlz11.com/20231130/18487_92815960/index.m3u8
+走到尽头2023(日本动作片),https://v.cdnlz11.com/20231130/18486_bd41a755/index.m3u8
+超级恶魔人(日本动作片),https://v.cdnlz11.com/20231130/18480_3b4668f1/index.m3u8
+圣人营救(其它动作片),https://v.cdnlz11.com/20231129/18479_cf5bdeec/index.m3u8
+血与骨2009(美国动作片),https://v.cdnlz11.com/20231129/18474_bb9ae538/index.m3u8
+无间交易(其它动作片),https://v.cdnlz11.com/20231129/18471_ad320a2f/index.m3u8
+以藏(日本动作片),https://v.cdnlz11.com/20231129/18466_be7f0779/index.m3u8
+热血高速(美国动作片),https://v.cdnlz11.com/20231129/18462_5b74e1df/index.m3u8
+吉吉历险记(其它动作片),https://v.cdnlz4.com/20231128/26176_25926ba6/index.m3u8
+霸刀(美国动作片),https://v.cdnlz2.com/20231127/27061_91a0e5b6/index.m3u8
+冷面赤心(其它动作片),https://v.cdnlz11.com/20231127/18447_a3309046/index.m3u8
+断肠剑(香港动作片),https://v.cdnlz11.com/20231125/18423_0089a8ba/index.m3u8
+谍海计中计(美国动作片),https://v.cdnlz11.com/20231124/18413_6534e3ef/index.m3u8
+93国际列车大劫案：莫斯科行动(大陆动作片),https://v1.cdnlz1.com/20231123/24109_45c19438/index.m3u8
+破茧杀机2003(美国动作片),https://v.cdnlz11.com/20231123/18393_76cce196/index.m3u8
+夺命狙击3破晓(大陆动作片),https://v1.cdnlz1.com/20231122/24051_a993297a/index.m3u8
+咏春1994(香港动作片),https://v.cdnlz11.com/20231121/18361_1e2e07d7/index.m3u8
+少女杀手阿墨(日本动作片),https://v1.cdnlz1.com/20231120/23964_8c0ae9ee/index.m3u8
+少女杀手阿墨2(日本动作片),https://v.cdnlz2.com/20231120/26852_0949b08f/index.m3u8
+绝色保镖(大陆动作片),https://v.cdnlz2.com/20231119/26830_9465d0ce/index.m3u8
+新木马屠城记(美国动作片),https://v1.cdnlz1.com/20231119/23940_682471ff/index.m3u8
+日出英烈祠(其它动作片),https://v1.cdnlz1.com/20231118/23937_ff60d837/index.m3u8
+单刀直入2003(美国动作片),https://v1.cdnlz1.com/20231118/23931_a77e3eb4/index.m3u8
+铁甲战神 英语(英国动作片),https://v.cdnlz2.com/20231118/26641_c2a608c3/index.m3u8
+铁甲战神 国语(英国动作片),https://v.cdnlz2.com/20231118/26639_d9ab5944/index.m3u8
+毒战2(韩国动作片),https://v.cdnlz4.com/20231117/26156_c60ebe89/index.m3u8
+斗破苍穹·觉醒(大陆动作片),https://v.cdnlz4.com/20231117/26155_f980682a/index.m3u8
+异形猎手(其它动作片),https://v.cdnlz11.com/20231116/18335_0126174d/index.m3u8
+血符门(香港动作片),https://v.cdnlz11.com/20231116/18333_804a562e/index.m3u8
 2023-11-16 18:27:17
 
 
@@ -3098,14 +3102,14 @@ CETV4,http://biaozhun114.com/tv/zb/ahctcc.php?id=65
 
 
 魔图(香港恐怖片),https://v.cdnlz21.com/20240709/840_04e7e49c/index.m3u8
-不好意思啊，查理(美国恐怖片),https://v.cdnlz21.com/20240709/835_d0212934/index.m3u8
+不好意思啊查理(美国恐怖片),https://v.cdnlz21.com/20240709/835_d0212934/index.m3u8
 FPS(日本恐怖片),https://v.cdnlz3.com/20240702/24407_783cb97c/index.m3u8
 诡夜迷情(大陆恐怖片),https://v.cdnlz12.com/20240701/15447_9f655396/index.m3u8
 恐怖肉饼(美国恐怖片),https://v.cdnlz12.com/20240630/15433_8fce9825/index.m3u8
 暴力本性(加拿大恐怖片),https://v.cdnlz12.com/20240629/15424_382e32e7/index.m3u8
 Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/index.m3u8
 神秘窥视(美国恐怖片),https://v.cdnlz3.com/20240628/24259_2e2d4f54/index.m3u8
-恶魔之浴(奥地利 / 德国),https://v.cdnlz3.com/20240628/24252_e82e34e9/index.m3u8
+恶魔之浴(奥地利/德国),https://v.cdnlz3.com/20240628/24252_e82e34e9/index.m3u8
 灰姑娘的诅咒(美国恐怖片),https://v.cdnlz3.com/20240627/24225_c97eb3ae/index.m3u8
 黑水巷(美国恐怖片),https://v.cdnlz3.com/20240627/24202_c04e87cd/index.m3u8
 玻璃眼(意大利/西班牙/英国/保加利亚恐怖片),https://v.cdnlz3.com/20240626/24111_2567d380/index.m3u8
@@ -3143,7 +3147,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 致命塔罗(美国恐怖片),https://v.cdnlz21.com/20240528/357_2e53f66a/index.m3u8
 凶兆前传(美国恐怖片),https://v.cdnlz3.com/20240528/23390_7dbed11b/index.m3u8
 地狱少女2019(日本恐怖片),https://v.cdnlz3.com/20240525/23239_204a8836/index.m3u8
-熊熊燃烧(巴基斯坦 / 加拿大恐怖片),https://v.cdnlz12.com/20240523/14638_cf5610cb/index.m3u8
+熊熊燃烧(巴基斯坦/加拿大恐怖片),https://v.cdnlz12.com/20240523/14638_cf5610cb/index.m3u8
 守夜人：恶魔永世同在2023(丹麦恐怖片),https://v.cdnlz12.com/20240523/14637_2138f8ce/index.m3u8
 匹配(日本恐怖片),https://v.cdnlz12.com/20240521/14542_ba0af384/index.m3u8
 撒旦来临(印度恐怖片),https://v.cdnlz12.com/20240516/14314_34cd6b67/index.m3u8
@@ -3157,7 +3161,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 钟声2024(日本恐怖片),https://v.cdnlz12.com/20240507/13848_02d5cbfe/index.m3u8
 斧头狂魔2015(美国恐怖片),https://v.cdnlz19.com/20240506/32780_3784afa8/index.m3u8
 艾米利亚的孩子(葡萄牙恐怖片),https://v.cdnlz2.com/20240502/30893_27cee259/index.m3u8
-世外桃源(爱尔兰 / 美国 / 加拿大恐怖片),https://v.cdnlz2.com/20240502/30892_3b743c28/index.m3u8
+世外桃源(爱尔兰/美国/加拿大恐怖片),https://v.cdnlz2.com/20240502/30892_3b743c28/index.m3u8
 食人神之山(意大利恐怖片),https://v.cdnlz19.com/20240428/31851_65235a03/index.m3u8
 恶魔惩罚者(美国恐怖片),https://v.cdnlz2.com/20240429/30711_2f9078f3/index.m3u8
 地狱折磨(印度尼西亚恐怖片),https://v.cdnlz2.com/20240428/30701_c2ec59c9/index.m3u8
@@ -3170,14 +3174,14 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 鬼肢解(泰国恐怖片),https://v.cdnlz2.com/20240423/30415_846a8632/index.m3u8
 寒山尸变(台湾恐怖片),https://v.cdnlz20.com/20240422/4416_4631175e/index.m3u8
 破墓(韩国恐怖片),https://v.cdnlz2.com/20240422/30332_39611724/index.m3u8
-魔鬼深夜秀(澳大利亚 / 阿联酋恐怖片),https://v.cdnlz2.com/20240420/30250_993f8337/index.m3u8
+魔鬼深夜秀(澳大利亚/阿联酋恐怖片),https://v.cdnlz2.com/20240420/30250_993f8337/index.m3u8
 唱歌的六个女人(日本恐怖片),https://v.cdnlz2.com/20240419/30230_a04f8690/index.m3u8
 丧尸李志2(大陆恐怖片),https://v.cdnlz19.com/20240417/27788_8a8753f5/index.m3u8
 丧尸李志(大陆恐怖片),https://v.cdnlz19.com/20240417/27787_d58690e4/index.m3u8
 化身邪魔(美国恐怖片),https://v.cdnlz2.com/20240418/30095_b8d37863/index.m3u8
-无瑕修女(意大利 / 美国恐怖片),https://v.cdnlz2.com/20240416/30004_4c6d717b/index.m3u8
+无瑕修女(意大利/美国恐怖片),https://v.cdnlz2.com/20240416/30004_4c6d717b/index.m3u8
 黑暗深处2023(法国恐怖片),https://v.cdnlz12.com/20240415/13707_b498d986/index.m3u8
-家庭教育(意大利 / 英国恐怖片),https://v.cdnlz12.com/20240415/13705_7f55710c/index.m3u8
+家庭教育(意大利/英国恐怖片),https://v.cdnlz12.com/20240415/13705_7f55710c/index.m3u8
 三头魔王(台湾恐怖片),https://v.cdnlz19.com/20240410/26921_3ff3d22b/index.m3u8
 猛鬼入侵黑社会【国语】(香港恐怖片),https://v.cdnlz19.com/20240410/26916_a792b2eb/index.m3u8
 猛鬼入侵黑社会【粤语】(香港恐怖片),https://v.cdnlz19.com/20240407/26867_8099d9cf/index.m3u8
@@ -3200,7 +3204,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 西金(印度尼西亚恐怖片),https://v.cdnlz12.com/20240317/13069_e338a197/index.m3u8
 狂野嘻哈梦(波兰恐怖片),https://v.cdnlz7.com/20240310/16273_ebcf1240/index.m3u8
 残虐你，娱乐我(美国恐怖片),https://v.cdnlz19.com/20240313/21166_f60502f5/index.m3u8
-暴怒的格蕾丝(菲律宾 / 英国恐怖片),https://v.cdnlz12.com/20240313/12831_50182408/index.m3u8
+暴怒的格蕾丝(菲律宾/英国恐怖片),https://v.cdnlz12.com/20240313/12831_50182408/index.m3u8
 极道恐怖大剧场(日本恐怖片),https://v.cdnlz19.com/20240310/20607_15a73bf4/index.m3u8
 寻找蛙人(美国恐怖片),https://v.cdnlz12.com/20240312/12766_21a2be38/index.m3u8
 源起黑暗(英国恐怖片),https://v.cdnlz12.com/20240310/12680_575c6344/index.m3u8
@@ -3253,13 +3257,13 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 失真的画(美国恐怖片),https://v.cdnlz3.com/20240122/22890_cf5b556c/index.m3u8
 禁入直播(美国恐怖片),https://v.cdnlz3.com/20240121/22879_801ef104/index.m3u8
 午夜场2024(大陆恐怖片),https://v.cdnlz3.com/20240121/22881_bd9ef284/index.m3u8
-纹身师2007(新西兰 / 新加坡恐怖片),https://v.cdnlz3.com/20240120/22855_3e70b0ac/index.m3u8
+纹身师2007(新西兰/新加坡恐怖片),https://v.cdnlz3.com/20240120/22855_3e70b0ac/index.m3u8
 诡奇村庄(突尼斯恐怖片),https://v.cdnlz3.com/20240119/22849_68947a80/index.m3u8
 异国阴宅(英国恐怖片),https://v.cdnlz3.com/20240119/22847_5ba349bc/index.m3u8
 熄灭的日光(泰国恐怖片),https://v.cdnlz11.com/20240119/19408_41a0c6b6/index.m3u8
 寄人皮下(美国恐怖片),https://v.cdnlz3.com/20240119/22840_8b104d26/index.m3u8
 阴风鬼影(美国恐怖片),https://v.cdnlz3.com/20240118/22833_c9ed77d2/index.m3u8
-死神蘑菇(爱尔兰 / 丹麦 / 英国恐怖片),https://v.cdnlz3.com/20240118/22827_f5cbd802/index.m3u8
+死神蘑菇(爱尔兰/丹麦/英国恐怖片),https://v.cdnlz3.com/20240118/22827_f5cbd802/index.m3u8
 磨到死(澳大利亚恐怖片),https://v.cdnlz3.com/20240117/22817_699a7f46/index.m3u8
 劈头士(美国恐怖片),https://v.cdnlz3.com/20240117/22815_bff5f290/index.m3u8
 迷夜惨遇(英国恐怖片),https://v.cdnlz3.com/20240117/22814_495919af/index.m3u8
@@ -3296,7 +3300,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 不死传说(美国恐怖片),https://v.cdnlz3.com/20240103/22591_48d9283c/index.m3u8
 灰姑娘2006(韩国恐怖片),https://v.cdnlz3.com/20240101/22559_adbb8f93/index.m3u8
 诡摇铃(大陆恐怖片),https://v.cdnlz3.com/20231231/22553_dc7b89eb/index.m3u8
-恶灵空间(德国 / 新西兰 / 美国恐怖片),https://v.cdnlz3.com/20231230/22532_04e84c3a/index.m3u8
+恶灵空间(德国/新西兰/美国恐怖片),https://v.cdnlz3.com/20231230/22532_04e84c3a/index.m3u8
 深居其中(美国恐怖片),https://v.cdnlz3.com/20231230/22529_68155bef/index.m3u8
 失踪者之夜(美国恐怖片),https://v.cdnlz11.com/20231226/18898_e1a38c99/index.m3u8
 噩梦交响曲(意大利恐怖片),https://v.cdnlz3.com/20231226/22478_a0b46fe1/index.m3u8
@@ -3310,7 +3314,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 阿米蒂维尔谋杀案(美国恐怖片),https://v.cdnlz11.com/20231221/18777_b335cc48/index.m3u8
 感恩节2023(美国恐怖片),https://v.cdnlz11.com/20231219/18760_8915ea0b/index.m3u8
 净化之时2019(美国恐怖片),https://v.cdnlz11.com/20231219/18759_1fb10f31/index.m3u8
-驱神(墨西哥 / 委内瑞拉 / 美国恐怖片),https://v.cdnlz11.com/20231219/18756_2aa27649/index.m3u8
+驱神(墨西哥/委内瑞拉/美国恐怖片),https://v.cdnlz11.com/20231219/18756_2aa27649/index.m3u8
 黑色的房间(美国恐怖片),https://v.cdnlz11.com/20231219/18754_0550e892/index.m3u8
 暗流2：末日天使(法国恐怖片),https://v.cdnlz11.com/20231219/18753_f4b069d4/index.m3u8
 粽邪3：鬼门开(台湾恐怖片),https://v.cdnlz11.com/20231218/18749_b54f4ba0/index.m3u8
@@ -3351,7 +3355,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 巫蛊人偶(泰国恐怖片),https://v1.cdnlz1.com/20231129/24249_1b043b66/index.m3u8
 恶之入骨(美国恐怖片),https://v.cdnlz11.com/20231130/18485_85616221/index.m3u8
 新死亡列车(加拿大恐怖片),https://v.cdnlz4.com/20231128/26184_e6390baf/index.m3u8
-死亡低语2019(印度尼西亚 / 韩国恐怖片),https://vip.lzcdn2.com/20220605/8527_4d2c9163/index.m3u8
+死亡低语2019(印度尼西亚/韩国恐怖片),https://vip.lzcdn2.com/20220605/8527_4d2c9163/index.m3u8
 美国黑骇客(美国恐怖片),https://v.cdnlz4.com/20231128/26177_8ff5512f/index.m3u8
 替身纸人(大陆恐怖片),https://v1.cdnlz1.com/20231128/24240_482278ee/index.m3u8
 科学怪鱼(美国恐怖片),https://v.cdnlz11.com/20231128/18456_fad6f751/index.m3u8
@@ -3362,11 +3366,11 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 恐怖新娘(俄罗斯恐怖片),https://v.cdnlz11.com/20231125/18428_8953f395/index.m3u8
 撞邪(大陆恐怖片),https://v.cdnlz2.com/20231125/27021_6009a547/index.m3u8
 死亡笔记4：点亮新世界(日本恐怖片),https://v.cdnlz17.com/20231124/62929_33de76be/index.m3u8
-死亡之屋2003(德国 / 美国 / 加拿大恐怖片),https://v.cdnlz11.com/20231123/18390_cca28a24/index.m3u8
+死亡之屋2003(德国/美国/加拿大恐怖片),https://v.cdnlz11.com/20231123/18390_cca28a24/index.m3u8
 鬼精灵6：灵异入侵(美国恐怖片),https://v1.cdnlz1.com/20231122/24042_d9ac8cb3/index.m3u8
 恶噬力(美国恐怖片),https://v.cdnlz4.com/20231121/26161_9120ebec/index.m3u8
 黄金七令之罗刹风云(大陆恐怖片),https://v1.cdnlz1.com/20231120/23969_d67c72f1/index.m3u8
-病毒32(阿根廷 / 乌拉圭恐怖片),https://v.cdnlz2.com/20231119/26831_d60c9b1c/index.m3u8
+病毒32(阿根廷/乌拉圭恐怖片),https://v.cdnlz2.com/20231119/26831_d60c9b1c/index.m3u8
 忌怪岛(日本恐怖片),https://v1.cdnlz1.com/20231119/23949_e0f1b1b0/index.m3u8
 掠骨者2003(英国恐怖片),https://v1.cdnlz1.com/20231119/23945_69a80ace/index.m3u8
 路西法2021(奥地利恐怖片),https://v.cdnlz2.com/20231118/26667_021114e4/index.m3u8
@@ -3382,7 +3386,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 两居室(日本恐怖片),https://v1.cdnlz1.com/20231108/23476_58098cb8/index.m3u8
 鬼影人2003(美国恐怖片),https://v.cdnlz11.com/20231108/18179_37720bb6/index.m3u8
 失踪2009(韩国恐怖片),https://v.cdnlz17.com/20231107/31457_fc94ba25/index.m3u8
-吸血鬼女王2002(澳大利亚 / 美国恐怖片),https://v.cdnlz11.com/20231107/18158_a2b601be/index.m3u8
+吸血鬼女王2002(澳大利亚/美国恐怖片),https://v.cdnlz11.com/20231107/18158_a2b601be/index.m3u8
 僵尸参将(大陆恐怖片),https://v1.cdnlz1.com/20231107/23465_add1f667/index.m3u8
 夺命小丑(美国恐怖片),https://v.cdnlz11.com/20231107/18155_bae14ca9/index.m3u8
 鲜肉2023(美国恐怖片),https://v1.cdnlz1.com/20231107/23444_4cc41a20/index.m3u8
@@ -3402,7 +3406,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 威尼斯惊魂夜(美国恐怖片),https://v.cdnlz11.com/20231031/18055_44d79cf3/index.m3u8
 南瓜恶灵2：血翼(美国恐怖片),https://v1.cdnlz1.com/20231031/23296_7a8ce184/index.m3u8
 天蛾人的预言(美国恐怖片),https://v1.cdnlz1.com/20231028/23221_e822de62/index.m3u8
-当邪恶潜伏时(阿根廷 / 美国恐怖片),https://v.cdnlz11.com/20231028/17982_0cd23110/index.m3u8
+当邪恶潜伏时(阿根廷/美国恐怖片),https://v.cdnlz11.com/20231028/17982_0cd23110/index.m3u8
 玩具熊的五夜后宫：紫色的泪(美国恐怖片),https://v.cdnlz11.com/20231028/17980_9f97ba71/index.m3u8
 死亡修女(西班牙恐怖片),https://v.cdnlz11.com/20231027/17967_e57765a1/index.m3u8
 饥渴2023(美国恐怖片),https://v.cdnlz11.com/20231025/17928_b1afeea9/index.m3u8
@@ -3448,7 +3452,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 猛鬼诺言(香港恐怖片),https://v.cdnlz17.com/20231014/29614_b8fa41e5/index.m3u8
 猛鬼出笼2艳鬼发狂(香港恐怖片),https://v.cdnlz17.com/20231014/29612_423934b5/index.m3u8
 猛鬼出笼(香港恐怖片),https://v.cdnlz17.com/20231014/29615_8c3ea444/index.m3u8
-美人鱼旅馆(意大利 / 西班牙恐怖片),https://v.cdnlz17.com/20231014/29611_5e3ac67a/index.m3u8
+美人鱼旅馆(意大利/西班牙恐怖片),https://v.cdnlz17.com/20231014/29611_5e3ac67a/index.m3u8
 美国哥特(英国恐怖片),https://v.cdnlz17.com/20231014/29608_21156158/index.m3u8
 灵幻小姐【粤语】(香港恐怖片),https://v.cdnlz17.com/20231014/29609_cb75eda3/index.m3u8
 灵幻小姐【国语】(香港恐怖片),https://v.cdnlz17.com/20231014/29610_227f619f/index.m3u8
@@ -3516,7 +3520,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 富江1999(日本恐怖片),https://v.cdnlz3.com/20230919/21745_208a6d5f/index.m3u8
 禁入鬼门关(美国恐怖片),https://v.cdnlz3.com/20230919/21683_565db468/index.m3u8
 碟仙2019(大陆恐怖片),https://v1.cdnlz1.com/20230918/22201_74b6584d/index.m3u8
-巫蛊之术(墨西哥 / 德国 / 智利恐怖片),https://v.cdnlz12.com/20230916/10482_9ec4792e/index.m3u8
+巫蛊之术(墨西哥/德国/智利恐怖片),https://v.cdnlz12.com/20230916/10482_9ec4792e/index.m3u8
 鬼娃新娘(美国恐怖片),https://v.cdnlz12.com/20230916/10462_e5c0744e/index.m3u8
 异形狂飙(美国恐怖片),https://v1.cdnlz1.com/20230915/22106_ecd3e963/index.m3u8
 禁止尖叫(美国恐怖片),https://v1.cdnlz1.com/20230915/22075_3026f720/index.m3u8
@@ -3527,7 +3531,7 @@ Khanzab(印度尼西亚恐怖),https://v.cdnlz19.com/20240629/38623_31dbcab2/ind
 瘦长鬼影(美国恐怖片),https://v.cdnlz12.com/20230913/10373_29d82056/index.m3u8
 给我讲个恐怖故事(美国恐怖片),https://v.cdnlz12.com/20230913/10364_db40f20c/index.m3u8
 淡季2021(美国恐怖片),https://v.cdnlz12.com/20230913/10348_557034d8/index.m3u8
-回应我(澳大利亚 / 英国恐怖片),https://v.cdnlz12.com/20230912/10299_8072653b/index.m3u8
+回应我(澳大利亚/英国恐怖片),https://v.cdnlz12.com/20230912/10299_8072653b/index.m3u8
 索命咒(美国恐怖片),https://v.cdnlz12.com/20230912/10287_66283cf6/index.m3u8
 僵尸翻生【粤语】(香港恐怖片),https://vip1.lz-cdn6.com/20220410/3281_05ee37d4/index.m3u8
 回溯迷踪2015(西班牙恐怖片),https://v.cdnlz12.com/20230911/10213_f7b22dd2/index.m3u8
@@ -3575,14 +3579,14 @@ X圣治(日本恐怖片),https://v.cdnlz3.com/20230904/21591_14cb8159/index.m3u8
 寂静之声2023(意大利恐怖片),https://vip.lz-cdn12.com/20230828/9640_73561c03/index.m3u8
 不露声色(美国恐怖片),https://vip.lz-cdn12.com/20230828/9588_7ba67555/index.m3u8
 意乱情迷2023(美国恐怖片),https://vip.lz-cdn3.com/20230827/21372_4cec7705/index.m3u8
-暮色渐浓2022(塞尔维亚 / 丹麦 / 保加利亚 / 希腊 / 意大利恐怖片),https://vip.lz-cdn3.com/20230827/21365_23648fab/index.m3u8
+暮色渐浓2022(塞尔维亚/丹麦/保加利亚/希腊/意大利恐怖片),https://vip.lz-cdn3.com/20230827/21365_23648fab/index.m3u8
 倒忌时(美国恐怖片),https://vip.lz-cdn3.com/20230827/21349_5d7487d9/index.m3u8
 原始狂暴：大脚怪传奇(美国恐怖片),https://vip.lz-cdn3.com/20230827/21341_4f41c69c/index.m3u8
 情妇2022(美国恐怖片),https://vip.lz-cdn12.com/20230826/9574_35fe999c/index.m3u8
 爱宠2016(西班牙恐怖片),https://vip.lz-cdn12.com/20230826/9566_661f3e8b/index.m3u8
 犯罪读者俱乐部(西班牙恐怖片),https://vip.lz-cdn12.com/20230825/9552_100cecdf/index.m3u8
 血腥兄弟会(美国恐怖片),https://vip.lz-cdn3.com/20230825/21299_aa4ffc8a/index.m3u8
-恶灵旅店(中国台湾 / 印度尼西亚 / 新加坡恐怖片),https://vip.lz-cdn3.com/20230825/21293_e41c9b4d/index.m3u8
+恶灵旅店(中国台湾/印度尼西亚/新加坡恐怖片),https://vip.lz-cdn3.com/20230825/21293_e41c9b4d/index.m3u8
 毛骨悚然撞鬼经2023夏季特别篇(日本恐怖片),https://vip.lz-cdn16.com/20230822/36466_988e3bac/index.m3u8
 最后的吸血鬼2023(美国恐怖片),https://vip.lz-cdn3.com/20230823/21239_e2cc5df2/index.m3u8
 登帕卡农(泰国恐怖片),https://vip1.lz-cdn1.com/20230824/21971_cab668cf/index.m3u8
@@ -3595,7 +3599,7 @@ X圣治(日本恐怖片),https://v.cdnlz3.com/20230904/21591_14cb8159/index.m3u8
 校园鬼谈(泰国恐怖片),https://vip1.lz-cdn1.com/20230820/21911_7b8c9668/index.m3u8
 酒吧(西班牙恐怖片),https://vip.lz-cdn17.com/20230818/25219_ceea3e4a/index.m3u8
 童使(日本恐怖片),https://vip1.lz-cdn1.com/20230819/21904_81ba9339/index.m3u8
-阴风阵阵2018(意大利 / 美国恐怖片),https://vip1.lz-cdn1.com/20230818/21888_8dd88456/index.m3u8
+阴风阵阵2018(意大利/美国恐怖片),https://vip1.lz-cdn1.com/20230818/21888_8dd88456/index.m3u8
 鬼乱5(泰国恐怖片),https://vip1.lz-cdn1.com/20230818/21882_95ce58e3/index.m3u8
 夺魂(越南恐怖片),https://vip.lz-cdn3.com/20230817/21172_91780438/index.m3u8
 8号展品恐怖片(荷兰恐怖片),https://vip1.lz-cdn1.com/20230817/21876_fdf34278/index.m3u8
@@ -3615,7 +3619,7 @@ X圣治(日本恐怖片),https://v.cdnlz3.com/20230904/21591_14cb8159/index.m3u8
 缪斯2017(美国恐怖片),https://vip1.lz-cdn1.com/20230811/21744_c1ab8794/index.m3u8
 新村丧尸漫画2014(韩国恐怖片),https://vip1.lz-cdn1.com/20230810/21737_a1b5ce22/index.m3u8
 灵异守夜1992(英国恐怖片),https://vip1.lz-cdn1.com/20230810/21734_14847a86/index.m3u8
-亚种5：血起(罗马尼亚 / 美国恐怖片),https://vip1.lz-cdn1.com/20230810/21730_d946628c/index.m3u8
+亚种5：血起(罗马尼亚/美国恐怖片),https://vip1.lz-cdn1.com/20230810/21730_d946628c/index.m3u8
 窃劫复仇2022(美国恐怖片),https://vip1.lz-cdn1.com/20230810/21726_a13042c2/index.m3u8
 二重身2014(日本恐怖片),https://vip1.lz-cdn1.com/20230810/21722_496a97d6/index.m3u8
 解剖学教室2007(韩国恐怖片),https://vip.lz-cdn3.com/20230809/20955_e0494d56/index.m3u8
@@ -3642,13 +3646,13 @@ X圣治(日本恐怖片),https://v.cdnlz3.com/20230904/21591_14cb8159/index.m3u8
 荒岛惊魂2005(美国恐怖片),https://vip1.lz-cdn1.com/20230801/21578_a1221aeb/index.m3u8
 潜伏5：红门(加拿大恐怖片),https://vip1.lz-cdn1.com/20230801/21577_9b847374/index.m3u8
 爱上你杀了你(美国恐怖片),https://vip1.lz-cdn1.com/20230801/21570_61d7260b/index.m3u8
-蜜月屠刀(意大利 / 西班牙怖片),https://vip1.lz-cdn1.com/20230801/21562_6cf3ff88/index.m3u8
+蜜月屠刀(意大利/西班牙怖片),https://vip1.lz-cdn1.com/20230801/21562_6cf3ff88/index.m3u8
 同情恶魔(美国恐怖片),https://vip.lz-cdn12.com/20230731/8962_489ff911/index.m3u8
 话事人(印度恐怖片),https://vip1.lz-cdn1.com/20230731/21539_44aecefc/index.m3u8
 亲属关系(英国恐怖片),https://vip1.lz-cdn1.com/20230731/21538_18bc404c/index.m3u8
 悬案密码4：64号病历(丹麦/德国恐怖片),https://vip1.lz-cdn1.com/20230730/21531_c49c5c81/index.m3u8
 夜幕救援(印度恐怖片),https://vip.lz-cdn12.com/20230726/8880_1b2b6c97/index.m3u8
-催魂黑胶(墨西哥 / 瑞典恐怖片),https://vip.lz-cdn12.com/20230726/8879_be16e3f7/index.m3u8
+催魂黑胶(墨西哥/瑞典恐怖片),https://vip.lz-cdn12.com/20230726/8879_be16e3f7/index.m3u8
 死亡之地(美国恐怖片),https://vip1.lz-cdn1.com/20230729/21514_b50570c3/index.m3u8
 恶魔们2023(韩国恐怖片),https://vip1.lz-cdn1.com/20230729/21502_c6daab96/index.m3u8
 13次驱魔(西班牙恐怖片),https://vip1.lz-cdn1.com/20230728/21464_bf032de3/index.m3u8
@@ -3683,7 +3687,7 @@ X圣治(日本恐怖片),https://v.cdnlz3.com/20230904/21591_14cb8159/index.m3u8
 血色夫妻(美国恐怖片),https://vip.lz-cdn16.com/20230712/31628_4d9dd413/index.m3u8
 失魂记忆(美国恐怖片),https://vip.lz-cdn16.com/20230712/31626_bf51d5d4/index.m3u8
 暗夜鬼叫声(美国恐怖片),https://vip.lz-cdn16.com/20230712/31625_487306fd/index.m3u8
-地狱女子(印度尼西亚 / 韩国 / 美国恐怖片),https://vip.lz-cdn3.com/20230716/20289_7f46a168/index.m3u8
+地狱女子(印度尼西亚/韩国/美国恐怖片),https://vip.lz-cdn3.com/20230716/20289_7f46a168/index.m3u8
 颤栗汪洋3(澳大利亚恐怖片),https://vip.lz-cdn3.com/20230716/20282_c8df7b02/index.m3u8
 圣餐娃娃的诅咒(西班牙恐怖片),https://vip.lz-cdn3.com/20230715/20277_cc1174b4/index.m3u8
 恶魔印记(墨西哥恐怖片),https://vip.lz-cdn3.com/20230715/20260_fad05d87/index.m3u8
@@ -3723,7 +3727,7 @@ X圣治(日本恐怖片),https://v.cdnlz3.com/20230904/21591_14cb8159/index.m3u8
 魔鬼泰坦尼克(美国恐怖片),https://vip1.lz-cdn1.com/20230628/21153_144d5ed3/index.m3u8
 僵尸岛2022(越南恐怖片),https://vip.lz-cdn3.com/20230629/19939_eaab21b6/index.m3u8
 荒野狂兽(美国恐怖片),https://vip.lz-cdn3.com/20230629/19937_073b35db/index.m3u8
-血之轨迹(瑞典 / 美国恐怖片),https://vip.lz-cdn16.com/20230628/29630_051002d6/index.m3u8
+血之轨迹(瑞典/美国恐怖片),https://vip.lz-cdn16.com/20230628/29630_051002d6/index.m3u8
 末日庇护(美国恐怖片),https://vip.lz-cdn16.com/20230628/29620_16520527/index.m3u8
 裂口女2(日本恐怖片),https://vip.lz-cdn16.com/20230628/29734_effa5946/index.m3u8
 恐怖爆发(日本恐怖片),https://vip.lz-cdn16.com/20230628/29616_32d97a9b/index.m3u8
@@ -3751,7 +3755,7 @@ X圣治(日本恐怖片),https://v.cdnlz3.com/20230904/21591_14cb8159/index.m3u8
 一勺糖(美国恐怖片),https://vip1.lz-cdn1.com/20230619/21124_ec6b4100/index.m3u8
 玉米地的小孩2023(美国恐怖片),https://vip1.lz-cdn1.com/20230619/21123_74fea70f/index.m3u8
 黑井(印度恐怖片),https://vip.lz-cdn3.com/20230619/19701_d5d8a8c7/index.m3u8
-恐怖幽灵(新西兰 / 美国恐怖片),https://vip1.lz-cdn1.com/20220417/2360_687634f7/index.m3u8
+恐怖幽灵(新西兰/美国恐怖片),https://vip1.lz-cdn1.com/20220417/2360_687634f7/index.m3u8
 捉鬼有限公司【粤语】(香港恐怖片),https://vip.lz-cdn17.com/20230612/15602_2777bde3/index.m3u8
 捉鬼有限公司【国语】(香港恐怖片),https://vip.lz-cdn17.com/20230612/15599_57ff6b50/index.m3u8
 风流冤鬼【粤语】(香港恐怖片),https://vip.lz-cdn17.com/20230612/15578_f8b9a4a6/index.m3u8
@@ -3786,7 +3790,7 @@ Z-108弃城(台湾恐怖片),https://vip.lz-cdn17.com/20230612/15573_05723da3/in
 哥斯拉决战太空哥斯拉(日本恐怖片),https://vip.lz-cdn3.com/20230606/19362_f595de97/index.m3u8
 夺命网红(美国恐怖片),https://hd.lz-cdn18.com/20230606/3146_00adb841/index.m3u8
 三七日(韩国恐怖片),https://vip1.lz-cdn1.com/20230605/21080_9015876f/index.m3u8
-魔力，魔力( 智利 / 美国恐怖片),https://vip.lz-cdn3.com/20230604/19305_528d573a/index.m3u8
+魔力，魔力( 智利/美国恐怖片),https://vip.lz-cdn3.com/20230604/19305_528d573a/index.m3u8
 荒岛余生2023(美国恐怖片),https://vip1.lz-cdn1.com/20230604/21072_964164c1/index.m3u8
 马鲁姆(美国恐怖片),https://hd.lz-cdn18.com/20230604/3111_1c06ab52/index.m3u8
 亚种3：嗜血(美国恐怖片),https://vip.lz-cdn3.com/20230603/19267_a4f9a1e7/index.m3u8
@@ -3818,7 +3822,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 拍完就杀人(美国恐怖片),https://vip1.lz-cdn7.com/20230519/16062_ea11a3fa/index.m3u8
 小鬼入侵(英国恐怖片),https://vip1.lz-cdn1.com/20230517/21018_6ec4273c/index.m3u8
 恶魔阴谋(捷克恐怖片),https://vip1.lz-cdn1.com/20230517/21014_edd26180/index.m3u8
-快乐时光2019(以色列 / 美国 / 意大利恐怖片),https://vip1.lz-cdn1.com/20230517/21010_5233bbbf/index.m3u8
+快乐时光2019(以色列/美国/意大利恐怖片),https://vip1.lz-cdn1.com/20230517/21010_5233bbbf/index.m3u8
 猛鬼三宝【粤语】(香港恐怖片),https://vip1.lz-cdn1.com/20230516/21004_2382e6d9/index.m3u8
 亡夫与租客(法国恐怖片),https://vip1.lz-cdn1.com/20230514/20999_848cd1cd/index.m3u8
 勾魂降头【国语】(香港恐怖片),https://vip1.lz-cdn7.com/20230514/15973_371cb194/index.m3u8
@@ -3838,7 +3842,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 红木大屠杀：歼灭(美国恐怖片),https://vip.lz-cdn3.com/20230510/18898_dc5c3268/index.m3u8
 夜夜破胆(法国恐怖片),https://vip.lz-cdn3.com/20230510/18893_7b49bfa4/index.m3u8
 绝命小魔星(美国恐怖片),https://vip.lz-cdn3.com/20230510/18883_0e023bbe/index.m3u8
-鬼玩人崛起2023(美国 / 新西兰 / 爱尔兰恐怖片),https://vip.lz-cdn3.com/20230509/18862_3859ed14/index.m3u8
+鬼玩人崛起2023(美国/新西兰/爱尔兰恐怖片),https://vip.lz-cdn3.com/20230509/18862_3859ed14/index.m3u8
 尸袋1993(美国恐怖片),https://vip.lz-cdn3.com/20230509/18858_207fa939/index.m3u8
 亚种2：血石(美国恐怖片),https://vip.lz-cdn3.com/20230508/18844_d3ab3665/index.m3u8
 自虐狂(德国恐怖片),https://vip.lz-cdn3.com/20230508/18843_b3d31b86/index.m3u8
@@ -3846,7 +3850,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 恶魔玩具(美国恐怖片),https://vip.lz-cdn3.com/20230508/18831_fefe5933/index.m3u8
 夺命凶灵3午夜魔瞳(加拿大恐怖片),https://vip.lz-cdn3.com/20230508/18830_98816a6c/index.m3u8
 死灵的陷阱2(日本恐怖片),https://vip.lz-cdn3.com/20230507/18817_96f282a1/index.m3u8
-尘土恶魔1992(南非 / 英国恐怖片),https://vip1.lz-cdn7.com/20230507/15875_e32ed463/index.m3u8
+尘土恶魔1992(南非/英国恐怖片),https://vip1.lz-cdn7.com/20230507/15875_e32ed463/index.m3u8
 危情羔羊1992(美国恐怖片),https://vip1.lz-cdn7.com/20230506/15861_36b7efe5/index.m3u8
 炎月1997(德国恐怖片),https://vip1.lz-cdn7.com/20230506/15851_5e34a7a7/index.m3u8
 心怀恶意(美国恐怖片),https://vip.lz-cdn17.com/20230504/10727_e63288d6/index.m3u8
@@ -3933,7 +3937,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 死循环2019(美国恐怖片),https://vip1.lz-cdn7.com/20230424/15592_df17b249/index.m3u8
 追随者2021(韩国恐怖片),https://vip1.lz-cdn7.com/20230424/15582_24e95285/index.m3u8
 敲2021(瑞典恐怖片),https://vip1.lz-cdn7.com/20230424/15581_f5c7cece/index.m3u8
-娱乐之家(瑞典 / 加拿大恐怖片),https://vip1.lz-cdn7.com/20230424/15579_0e4888ba/index.m3u8
+娱乐之家(瑞典/加拿大恐怖片),https://vip1.lz-cdn7.com/20230424/15579_0e4888ba/index.m3u8
 沃尔科诺戈夫上尉逃亡记(俄罗斯恐怖片),https://vip.lz-cdn4.com/20230423/25656_167d1a19/index.m3u8
 蛇岛狂蟒(大陆恐怖片),https://vip1.lz-cdn7.com/20230423/15562_63f7d47c/index.m3u8
 私人住宅(美国恐怖片),https://vip.lz-cdn4.com/20230422/25650_bcaa16d9/index.m3u8
@@ -3950,7 +3954,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 支离人(美国恐怖片),https://vip1.lz-cdn7.com/20230420/15480_a7497596/index.m3u8
 洗屋大师(大陆恐怖片),https://vip.lz-cdn4.com/20230420/25627_242c38df/index.m3u8
 魔鬼公寓(西班牙恐怖片),https://vip1.lz-cdn7.com/20230420/15471_e099b41b/index.m3u8
-骨灵(秘鲁 / 墨西哥恐怖片),https://vip.lz-cdn4.com/20230419/25623_a15921ec/index.m3u8
+骨灵(秘鲁/墨西哥恐怖片),https://vip.lz-cdn4.com/20230419/25623_a15921ec/index.m3u8
 睡衣晚会大屠杀3(美国恐怖片),https://vip1.lz-cdn7.com/20230419/15457_ec93b5b5/index.m3u8
 猫变【粤语】(台湾恐怖片),https://vip.lz-cdn17.com/20230418/9000_0d7766ce/index.m3u8
 猫变【国语】(台湾恐怖片),https://vip.lz-cdn17.com/20230418/8999_7d708b9c/index.m3u8
@@ -3958,7 +3962,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 恶魔之子(美国恐怖片),https://vip.lz-cdn17.com/20230418/8668_4a21a92d/index.m3u8
 亚种(美国恐怖片),https://vip1.lz-cdn7.com/20230419/15450_d4662ac3/index.m3u8
 血腥死亡营3：贫瘠荒地(美国恐怖片),https://vip1.lz-cdn7.com/20230419/15449_f6cf3e25/index.m3u8
-魔鬼双瞳( 意大利 / 美国恐怖片),https://vip1.lz-cdn7.com/20230417/15441_15ee14cb/index.m3u8
+魔鬼双瞳( 意大利/美国恐怖片),https://vip1.lz-cdn7.com/20230417/15441_15ee14cb/index.m3u8
 魔域异变(美国恐怖片),https://vip1.lz-cdn7.com/20230417/15440_f1515adb/index.m3u8
 反欺辱之夜(美国恐怖片),https://vip1.lz-cdn7.com/20230417/15430_e1ff23b7/index.m3u8
 自杀俱乐部2001(日本恐怖片),https://vip.lz-cdn3.com/20230417/18658_a936b3d7/index.m3u8
@@ -4024,7 +4028,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 厉鬼穿心(美国恐怖片),https://vip1.lz-cdn7.com/20230408/15234_b2ec128a/index.m3u8
 鬼追人3(美国恐怖片),https://vip1.lz-cdn7.com/20230408/15233_cefbb6ca/index.m3u8
 鬼驱人3(美国恐怖片),https://vip1.lz-cdn7.com/20230408/15230_e6491c06/index.m3u8
-鬼屋1988(意大利 / 美国恐怖片),https://vip1.lz-cdn7.com/20230408/15229_1a18560e/index.m3u8
+鬼屋1988(意大利/美国恐怖片),https://vip1.lz-cdn7.com/20230408/15229_1a18560e/index.m3u8
 恶灵稻草人(美国恐怖片),https://vip1.lz-cdn7.com/20230408/15227_15d99a8d/index.m3u8
 蛇与彩虹(美国恐怖片),https://vip1.lz-cdn7.com/20230407/15212_7c7331f8/index.m3u8
 东北五仙(大陆恐怖片),https://vip1.lz-cdn1.com/20230407/20851_15047394/index.m3u8
@@ -4038,7 +4042,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 鬼船2001(美国恐怖片),https://vip.lz-cdn16.com/20230406/15683_2cc36028/index.m3u8
 怪从底出(加拿大恐怖片),https://vip.lz-cdn16.com/20230406/15883_04cb5d50/index.m3u8
 生人回避5(意大利恐怖片),https://vip1.lz-cdn7.com/20230407/15198_5c481596/index.m3u8
-原始的愤怒(意大利 / 美国恐怖片),https://vip.lz-cdn3.com/20230406/18573_08ae2c19/index.m3u8
+原始的愤怒(意大利/美国恐怖片),https://vip.lz-cdn3.com/20230406/18573_08ae2c19/index.m3u8
 凶眼1987(西班牙恐怖片),https://vip.lz-cdn3.com/20230406/18572_9a1c5239/index.m3u8
 鬼哭魔嚎(西班牙恐怖片),https://vip.lz-cdn3.com/20230406/18566_eaf93ca6/index.m3u8
 继父1987(英国恐怖片),https://vip.lz-cdn3.com/20230405/18550_74e56aee/index.m3u8
@@ -4074,7 +4078,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 邪恶发生3(美国恐怖片),https://vip.lz-cdn16.com/20230330/15035_e5cf3ab2/index.m3u8
 邪恶发生2(美国恐怖片),https://vip.lz-cdn16.com/20230330/15032_00f0eeee/index.m3u8
 邪恶发生(美国恐怖片),https://vip.lz-cdn16.com/20230330/15029_54d845de/index.m3u8
-嗜血恶魔1971(菲律宾 / 美国恐怖片),https://vip.lz-cdn16.com/20230330/15105_90b5cd73/index.m3u8
+嗜血恶魔1971(菲律宾/美国恐怖片),https://vip.lz-cdn16.com/20230330/15105_90b5cd73/index.m3u8
 恐怖魔柜1988(英国恐怖片),https://vip.lz-cdn16.com/20230330/15031_bed65765/index.m3u8
 惊世猛兽2002(美国恐怖片),https://vip.lz-cdn16.com/20230330/15033_4c6b29db/index.m3u8
 禁域魔怪1987(美国恐怖片),https://vip.lz-cdn16.com/20230330/15030_77c77728/index.m3u8
@@ -4087,7 +4091,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 魔鬼碟仙3(加拿大恐怖片),https://vip.lz-cdn3.com/20230330/18436_421ea04e/index.m3u8
 桃色谎言(英国恐怖片),https://vip1.lz-cdn1.com/20230329/20799_aec5de86/index.m3u8
 血魂(大陆恐怖片),https://vip.lz-cdn16.com/20230329/14972_75cf0781/index.m3u8
-魔鬼碟仙(英国 / 美国恐怖片),https://vip.lz-cdn3.com/20230329/18423_1503ec44/index.m3u8
+魔鬼碟仙(英国/美国恐怖片),https://vip.lz-cdn3.com/20230329/18423_1503ec44/index.m3u8
 魔鬼碟仙2(美国恐怖片),https://vip.lz-cdn3.com/20230329/18421_fef41fec/index.m3u8
 公寓恶魔(美国恐怖片),https://vip.lz-cdn3.com/20230329/18415_bb859a49/index.m3u8
 活活生吞(美国恐怖片),https://vip.lz-cdn3.com/20230329/18406_2d3d1749/index.m3u8
@@ -4112,10 +4116,10 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 夜半鬼敲门2(美国恐怖片),https://vip1.lz-cdn7.com/20230325/15097_b51280b9/index.m3u8
 夜半鬼敲门3(美国恐怖片),https://vip1.lz-cdn7.com/20230325/15096_90ede6aa/index.m3u8
 魔偶奇谭2(美国恐怖片),https://vip1.lz-cdn7.com/20230325/15088_00f27f67/index.m3u8
-魔偶奇谭1985(西德 / 美国恐怖片),https://vip1.lz-cdn7.com/20230325/15087_2f31f52f/index.m3u8
+魔偶奇谭1985(西德/美国恐怖片),https://vip1.lz-cdn7.com/20230325/15087_2f31f52f/index.m3u8
 魔偶奇谭1989(美国恐怖片),https://vip1.lz-cdn7.com/20230325/15086_c783e8f5/index.m3u8
 真心话大冒险2017(美国恐怖片),https://vip1.lz-cdn1.com/20230323/20757_40f97a98/index.m3u8
-神话1985(意大利 / 瑞士恐怖片),https://vip.lz-cdn3.com/20230324/18309_959b98de/index.m3u8
+神话1985(意大利/瑞士恐怖片),https://vip.lz-cdn3.com/20230324/18309_959b98de/index.m3u8
 魔茧复活1998(英国恐怖片),https://vip.lz-cdn3.com/20230324/18307_9c654296/index.m3u8
 恐怖夜车(美国恐怖片),https://vip.lz-cdn3.com/20230324/18301_32decceb/index.m3u8
 活死人之日(美国恐怖片),https://vip.lz-cdn3.com/20230324/18299_cd152a17/index.m3u8
@@ -4166,7 +4170,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 恐怖欢乐屋(美国恐怖片),https://vip.lz-cdn3.com/20230314/18116_8ae878d5/index.m3u8
 活死人少女(法国恐怖片),https://vip.lz-cdn3.com/20230314/18114_00f38fbe/index.m3u8
 食人坑(加拿大恐怖片),https://vip.lz-cdn3.com/20230314/18113_659127ba/index.m3u8
-热衷谋杀(意大利 / 法国恐怖片),https://vip.lz-cdn3.com/20230314/18112_c8b4c507/index.m3u8
+热衷谋杀(意大利/法国恐怖片),https://vip.lz-cdn3.com/20230314/18112_c8b4c507/index.m3u8
 罗斯玛丽的杀手(美国恐怖片),https://vip.lz-cdn3.com/20230314/18106_edcbda6f/index.m3u8
 黎明之前1981(美国恐怖片),https://vip.lz-cdn3.com/20230314/18103_781cf66c/index.m3u8
 篮子里的恶魔(美国恐怖片),https://vip.lz-cdn3.com/20230314/18101_d253958e/index.m3u8
@@ -4226,7 +4230,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 死不瞑目(美国恐怖片),https://vip1.lz-cdn7.com/20230309/14846_c935a8b8/index.m3u8
 牛头人2006(英国/卢森堡/德国/法国/西班牙/意大利/美国恐怖片),https://vip1.lz-cdn7.com/20230309/14844_6d628534/index.m3u8
 南瓜恶灵3：安息(美国恐怖片),https://vip1.lz-cdn7.com/20230309/14843_221d01f3/index.m3u8
-劳琳：死亡之旅(西德 / 匈牙利恐怖片),https://vip1.lz-cdn7.com/20230309/14842_1efa4f2e/index.m3u8
+劳琳：死亡之旅(西德/匈牙利恐怖片),https://vip1.lz-cdn7.com/20230309/14842_1efa4f2e/index.m3u8
 恐怖休息站2：别回头(美国恐怖片),https://vip1.lz-cdn7.com/20230309/14841_2653e989/index.m3u8
 南瓜恶灵(美国恐怖片),https://vip1.lz-cdn7.com/20230309/14840_c45f22b1/index.m3u8
 绝命休息站(美国恐怖片),https://vip1.lz-cdn7.com/20230309/14839_86fcc1c3/index.m3u8
@@ -4262,7 +4266,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 异形再现(美国恐怖片),https://vip.lz-cdn16.com/20230305/11629_e243b073/index.m3u8
 杀死恶龙(阿根廷恐怖片),https://vip1.lz-cdn1.com/20230304/20688_d4511770/index.m3u8
 血腥蜡笔(菲律宾恐怖片),https://vip1.lz-cdn1.com/20230304/20687_26647df9/index.m3u8
-非礼勿言(丹麦 / 荷兰恐怖片),https://vip.lz15uu.com/20230305/894_880fa46a/index.m3u8
+非礼勿言(丹麦/荷兰恐怖片),https://vip.lz15uu.com/20230305/894_880fa46a/index.m3u8
 死亡暴动(美国恐怖片),https://vip1.lz-cdn7.com/20230304/14738_25760976/index.m3u8
 魔蝎女杀手(加拿大恐怖片),https://vip1.lz-cdn7.com/20230304/14733_9c9af994/index.m3u8
 异形人魔(英国恐怖片),https://vip.lz-cdn17.com/20230303/4954_d5faec24/index.m3u8
@@ -4280,7 +4284,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 变形金刚5：最后的骑士【英语】(美国恐怖片),https://vip.lzcdn2.com/20220416/3604_f65a2240/index.m3u8
 变形金刚5：最后的骑士【国语】(美国恐怖片),https://vip.lz-cdn17.com/20230303/4933_18ac7779/index.m3u8
 午夜凶铃3(美国恐怖片),https://vip1.lz-cdn7.com/20230303/14705_94fc5f0f/index.m3u8
-黑暗魔法书(罗马尼亚 / 美国恐怖片),https://vip1.lz-cdn7.com/20230303/14699_ae7ed51a/index.m3u8
+黑暗魔法书(罗马尼亚/美国恐怖片),https://vip1.lz-cdn7.com/20230303/14699_ae7ed51a/index.m3u8
 非礼勿视2006(美国恐怖片),https://vip1.lz-cdn7.com/20230303/14687_3f47748d/index.m3u8
 恶灵春梦(日本恐怖片),https://vip1.lz-cdn7.com/20230303/14685_9170afbe/index.m3u8
 雪山惊魂(挪威恐怖片),https://vip1.lz-cdn7.com/20230303/14683_f630c817/index.m3u8
@@ -4302,8 +4306,8 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 糖果区域(美国恐怖片),https://vip1.lz-cdn7.com/20230228/14622_31ebce46/index.m3u8
 惹鬼回路(美国恐怖片),https://vip1.lz-cdn7.com/20230228/14619_f93b65ef/index.m3u8
 目标1968(美国恐怖片),https://vip.lz-cdn16.com/20230226/10896_3e8688d2/index.m3u8
-生化危机5：惩罚【国语】(德国 / 加拿大 / 美国 / 法国恐怖片),https://vip.lz-cdn16.com/20230227/11177_ca1ce35b/index.m3u8
-树篱女巫(德国 / 奥地利恐怖片),https://vip1.lz-cdn7.com/20230228/14600_0cfa0612/index.m3u8
+生化危机5：惩罚【国语】(德国/加拿大/美国/法国恐怖片),https://vip.lz-cdn16.com/20230227/11177_ca1ce35b/index.m3u8
+树篱女巫(德国/奥地利恐怖片),https://vip1.lz-cdn7.com/20230228/14600_0cfa0612/index.m3u8
 咒怨2(美国恐怖片),https://vip1.lz-cdn7.com/20230227/14597_9100c914/index.m3u8
 异教徒2(英国恐怖片),https://vip1.lz-cdn7.com/20230227/14593_f8880a43/index.m3u8
 异教徒2017(加拿大恐怖片),https://vip1.lz-cdn7.com/20230227/14591_0ba8c996/index.m3u8
@@ -4335,7 +4339,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 安妮的脸(泰国恐怖片),https://vip1.lz-cdn1.com/20230222/20655_f0dffef8/index.m3u8
 绝望之桥(美国恐怖片),https://vip1.lz-cdn7.com/20230222/14448_4e519217/index.m3u8
 疯子1980(美国恐怖片),https://vip1.lz-cdn7.com/20230222/14438_dec1a45f/index.m3u8
-杀人鳄鱼潭2(意大利 / 美国恐怖片),https://vip1.lz-cdn7.com/20230220/14421_9c67d29c/index.m3u8
+杀人鳄鱼潭2(意大利/美国恐怖片),https://vip1.lz-cdn7.com/20230220/14421_9c67d29c/index.m3u8
 十三号星期五5(美国恐怖片),https://vip.lzcdn2.com/20230220/24079_52ec02a3/index.m3u8
 花容劫(西班牙恐怖片),https://vip1.lz-cdn7.com/20230219/14411_3b57d178/index.m3u8
 无边泳池(加拿大恐怖片),https://vip.lz-cdn3.com/20230219/17788_8b3e3c74/index.m3u8
@@ -4357,14 +4361,14 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 羔羊医生【国语】(香港恐怖片),https://vip1.lz-cdn7.com/20230214/14236_6d95cf6b/index.m3u8
 摩洛克(荷兰恐怖片),https://vip1.lz-cdn7.com/20230214/14224_ea266b6a/index.m3u8
 极冻邪恶(美国恐怖片),https://vip1.lz-cdn1.com/20230208/20632_262381ad/index.m3u8
-魔宫石女(意大利 / 法国恐怖片),https://vip1.lz-cdn7.com/20230213/14205_c175a717/index.m3u8
+魔宫石女(意大利/法国恐怖片),https://vip1.lz-cdn7.com/20230213/14205_c175a717/index.m3u8
 杀人鳄鱼潭(意大利恐怖片),https://vip1.lz-cdn7.com/20230212/14184_1f78419c/index.m3u8
 月光光心慌慌8(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14182_122c1ecb/index.m3u8
 鬼哭神嚎1996(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14178_63edf34f/index.m3u8
 鬼哭神嚎1979(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14177_b17cea3d/index.m3u8
 鬼哭神嚎2005(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14176_b5a8315b/index.m3u8
 鬼哭神嚎：觉醒(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14175_baf2b4c9/index.m3u8
-鬼哭神嚎2之入魔(墨西哥 / 美国恐怖片),https://vip1.lz-cdn7.com/20230212/14174_2154663e/index.m3u8
+鬼哭神嚎2之入魔(墨西哥/美国恐怖片),https://vip1.lz-cdn7.com/20230212/14174_2154663e/index.m3u8
 鬼哭神嚎3(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14173_f0c15453/index.m3u8
 鬼哭神嚎7(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14172_c5d7d721/index.m3u8
 鬼哭神嚎8：灵异鬼现(美国恐怖片),https://vip1.lz-cdn7.com/20230212/14171_e738fead/index.m3u8
@@ -4377,7 +4381,7 @@ CCTV杀人案件(韩国恐怖片),https://vip1.lz-cdn1.com/20230527/21048_9f507e
 月光光心慌慌5(美国恐怖片),https://vip1.lz-cdn7.com/20230211/14156_83803cec/index.m3u8
 月光光心慌慌6(美国恐怖片),https://vip1.lz-cdn7.com/20230211/14155_bc162e37/index.m3u8
 月光光心慌慌7(美国恐怖片),https://vip1.lz-cdn7.com/20230211/14154_48051bc5/index.m3u8
-活魔人(美国 / 意大利恐怖片),https://vip1.lz-cdn7.com/20230209/14093_f3aa575b/index.m3u8
+活魔人(美国/意大利恐怖片),https://vip1.lz-cdn7.com/20230209/14093_f3aa575b/index.m3u8
 焚尸人1969(捷克斯洛伐克恐怖片),https://vip1.lz-cdn7.com/20230209/14091_fe89c4c8/index.m3u8
 入棺(大陆恐怖片),https://vip.lz-cdn3.com/20230209/17579_b34b61fa/index.m3u8
 七月十四【国语】(香港恐怖片),https://vip1.lz-cdn7.com/20230209/14074_3dfb4709/index.m3u8
@@ -4448,7 +4452,7 @@ V字猎杀令(美国恐怖片),https://vip.lz-cdn3.com/20230126/17322_85a58eda/i
 1303大厦2013(美国恐怖片),https://vip1.lz-cdn7.com/20230108/13291_2091eda6/index.m3u8
 魔发2020(美国恐怖片),https://vip.lzcdn2.com/20221229/23019_c74f2e6e/index.m3u8
 绿夜2021(韩国恐怖片),https://vip.lzcdn2.com/20221229/23018_42d52179/index.m3u8
-第三个妈妈(意大利 / 美国恐怖片),https://vip1.lz-cdn7.com/20230107/13284_09fd109a/index.m3u8
+第三个妈妈(意大利/美国恐怖片),https://vip1.lz-cdn7.com/20230107/13284_09fd109a/index.m3u8
 妈妈2013(西班牙恐怖片),https://vip1.lz-cdn7.com/20230107/13275_e8115064/index.m3u8
 魔女嘉莉2013(美国恐怖片),https://vip1.lz-cdn7.com/20230107/13261_c7f12a8c/index.m3u8
 撒旦之子2020(巴西恐怖片),https://vip.lzcdn2.com/20221229/23011_0a437193/index.m3u8
@@ -4459,7 +4463,7 @@ V字猎杀令(美国恐怖片),https://vip.lz-cdn3.com/20230126/17322_85a58eda/i
 纸人回魂(大陆恐怖片),https://vip.lz-cdn3.com/20230106/16985_4fd12bd8/index.m3u8
 梅根2023(美国恐怖片),https://vip1.lz-cdn7.com/20230106/13251_a469facb/index.m3u8
 大学新生的秘密生活(美国恐怖片),https://vip.lzcdn2.com/20221229/23005_835a1cfc/index.m3u8
-潜艇2020(哥伦比亚 / 厄瓜多尔恐怖片),https://vip.lzcdn2.com/20221229/23002_2dc7bd85/index.m3u8
+潜艇2020(哥伦比亚/厄瓜多尔恐怖片),https://vip.lzcdn2.com/20221229/23002_2dc7bd85/index.m3u8
 幽长周末【粤语】(泰国恐怖片),https://vip1.lz-cdn7.com/20230105/13236_0b111ffe/index.m3u8
 幽长周末【原声】(泰国恐怖片),https://vip1.lz-cdn7.com/20230105/13235_2f991f38/index.m3u8
 影子人(美国恐怖片),https://vip1.lz-cdn7.com/20230105/13232_830a45ae/index.m3u8
@@ -4480,7 +4484,7 @@ V字猎杀令(美国恐怖片),https://vip.lz-cdn3.com/20230126/17322_85a58eda/i
 摇篮曲2022(美国恐怖片),https://vip.lz-cdn3.com/20221231/16908_4f1ed611/index.m3u8
 访客2022(美国恐怖片),https://vip.lzcdn2.com/20221229/22964_8c09b2e8/index.m3u8
 恐怖劫持(印度恐怖片),https://vip.lzcdn2.com/20221229/22961_f2ae42bf/index.m3u8
-隔离巢(意大利 / 阿根廷恐怖片),https://vip.lzcdn2.com/20221229/22953_4cf70aed/index.m3u8
+隔离巢(意大利/阿根廷恐怖片),https://vip.lzcdn2.com/20221229/22953_4cf70aed/index.m3u8
 开夜车(新加坡恐怖片),https://vip.lz-cdn3.com/20221229/16894_4806f828/index.m3u8
 受伤的小鹿(美国恐怖片),https://vip.lzcdn2.com/20221208/22926_c1779972/index.m3u8
 女孩闺房(加拿大恐怖片),https://vip1.lz-cdn7.com/20221228/12987_f9246fda/index.m3u8
@@ -4524,7 +4528,7 @@ V字猎杀令(美国恐怖片),https://vip.lz-cdn3.com/20230126/17322_85a58eda/i
 怪谈1964(日本恐怖片),https://vip1.lz-cdn7.com/20221218/12717_f5d7de9f/index.m3u8
 恶魔的光火(美国恐怖片),https://vip1.lz-cdn10.com/20221216/3092_154cb4ff/index.m3u8
 移民保姆(美国恐怖片),https://vip.lz-cdn3.com/20221216/16743_4194ff08/index.m3u8
-骨及所有(意大利 / 美国恐怖片),https://vip.lz-cdn3.com/20221214/16709_412d12b6/index.m3u8
+骨及所有(意大利/美国恐怖片),https://vip.lz-cdn3.com/20221214/16709_412d12b6/index.m3u8
 绿色房间(美国恐怖片),https://vip1.lz-cdn7.com/20221213/12678_4f916ed6/index.m3u8
 猛鬼街7(美国恐怖片),https://vip1.lz-cdn7.com/20221213/12674_0c61a382/index.m3u8
 猛鬼街6(美国恐怖片),https://vip1.lz-cdn7.com/20221213/12673_e4b797b7/index.m3u8
@@ -4577,7 +4581,7 @@ V字猎杀令(美国恐怖片),https://vip.lz-cdn3.com/20230126/17322_85a58eda/i
 纹身室(美国恐怖片),https://vip.lz-cdn3.com/20221128/16383_fa3444ac/index.m3u8
 他们发现了地狱(美国恐怖片),https://vip.lz-cdn3.com/20221128/16381_a2f14883/index.m3u8
 红色夏天(西班牙恐怖片),https://vip1.lz-cdn8.com/20221126/31853_f51b215f/index.m3u8
-邪魔2015(波兰 / 以色列恐怖片),https://vip.lz-cdn3.com/20221128/16379_8ce29360/index.m3u8
+邪魔2015(波兰/以色列恐怖片),https://vip.lz-cdn3.com/20221128/16379_8ce29360/index.m3u8
 战前童年(英国恐怖片),https://vip.lz-cdn3.com/20221128/16374_d366fc0e/index.m3u8
 玛歌2022(美国恐怖片),https://vip1.lz-cdn10.com/20221121/3012_9aeec326/index.m3u8
 神秘感染：第二阶段(美国恐怖片),https://vip.lz-cdn3.com/20221127/16334_8990c060/index.m3u8
@@ -4642,7 +4646,7 @@ X2022(美国恐怖片),https://vip1.lz-cdn1.com/20220614/8691_308929ec/index.m3u
 修女乔安娜(波兰恐怖片),https://vip.lz-cdn3.com/20221108/15622_317a5db3/index.m3u8
 刀的哲学(俄罗斯恐怖片),https://vip.lz-cdn3.com/20221107/15589_2fb22b42/index.m3u8
 器官(日本恐怖片),https://vip.lz-cdn3.com/20221106/15551_b59cb8a7/index.m3u8
-撒旦的奴隶(印度尼西亚 / 韩国恐怖片),https://vip.lz-cdn3.com/20221106/15544_821a35dd/index.m3u8
+撒旦的奴隶(印度尼西亚/韩国恐怖片),https://vip.lz-cdn3.com/20221106/15544_821a35dd/index.m3u8
 勾魂令(大陆恐怖片),https://vip.lz-cdn3.com/20221106/15544_821a35dd/index.m3u8
 欲念浮动(法国恐怖片),https://vip.lz-cdn3.com/20221105/15520_fd9615da/index.m3u8
 重启之深渊疑冢(大陆恐怖片),https://vip1.lz-cdn7.com/20221104/12017_6df510d2/index.m3u8
@@ -4694,7 +4698,7 @@ X2022(美国恐怖片),https://vip1.lz-cdn1.com/20220614/8691_308929ec/index.m3u
 养鬼吃人4(美国恐怖片),https://vip1.lz-cdn.com/20221015/35349_744a8610/index.m3u8
 鬼娃回魂2019(美国恐怖片),https://vip1.lz-cdn1.com/20221018/17502_a59eefdb/index.m3u8
 黑暗意识(英国恐怖片),https://vip1.lz-cdn1.com/20221018/17500_c7d273be/index.m3u8
-小镇惊魂(印度尼西亚 / 韩国 / 新加坡恐怖片),https://vip1.lz-cdn1.com/20221018/17495_53bd6e89/index.m3u8
+小镇惊魂(印度尼西亚/韩国/新加坡恐怖片),https://vip1.lz-cdn1.com/20221018/17495_53bd6e89/index.m3u8
 惊悚之夜(美国恐怖片),https://vip1.lz-cdn1.com/20221018/17492_72c64040/index.m3u8
 邻家怪男孩(美国恐怖片),https://vip1.lz-cdn10.com/20221017/2828_bdf1507a/index.m3u8
 死亡链接(美国恐怖片),https://vip1.lz-cdn10.com/20221017/2823_af389da8/index.m3u8
@@ -4708,7 +4712,7 @@ X2022(美国恐怖片),https://vip1.lz-cdn1.com/20220614/8691_308929ec/index.m3u
 危险性直播(美国恐怖片),https://vip1.lz-cdn1.com/20221016/17413_8819585b/index.m3u8
 鬼婆(日本恐怖片),https://vip1.lz-cdn1.com/20221016/17398_d009a330/index.m3u8
 波登湖2016(芬兰恐怖片),https://vip1.lz-cdn1.com/20221016/17394_070e000f/index.m3u8
-马可效应(丹麦 / 德国恐怖片),https://vip1.lz-cdn10.com/20221015/2799_29f144b0/index.m3u8
+马可效应(丹麦/德国恐怖片),https://vip1.lz-cdn10.com/20221015/2799_29f144b0/index.m3u8
 附身2021(澳大利亚恐怖片),https://vip.lzcdn2.com/20221015/21797_855f2c6f/index.m3u8
 堕入地狱2009(美国恐怖片),https://vip1.lz-cdn1.com/20221015/17360_366d1226/index.m3u8
 無限密室2016(美国恐怖片),https://vip1.lz-cdn1.com/20221015/17336_18e8f0f1/index.m3u8
@@ -4719,7 +4723,7 @@ X2022(美国恐怖片),https://vip1.lz-cdn1.com/20220614/8691_308929ec/index.m3u
 午夜人魔2016(美国恐怖片),https://vip1.lz-cdn1.com/20221014/17274_783b4475/index.m3u8
 窥视之眸(日本恐怖片),https://vip1.lz-cdn1.com/20221014/17268_2f84b427/index.m3u8
 贞子大战伽椰子(日本恐怖片),https://vip1.lz-cdn1.com/20221014/17265_5313422a/index.m3u8
-鬼书(澳大利亚 / 加拿大恐怖片),https://vip.lz-cdn3.com/20221012/14757_c87a11cb/index.m3u8
+鬼书(澳大利亚/加拿大恐怖片),https://vip.lz-cdn3.com/20221012/14757_c87a11cb/index.m3u8
 医级复仇(加拿大恐怖片),https://vip1.lz-cdn10.com/20221011/2726_5495d88c/index.m3u8
 爹地的完美女孩(加拿大恐怖片),https://vip1.lz-cdn10.com/20221011/2723_b99b707a/index.m3u8
 运囚生死斗(加拿大恐怖片),https://vip1.lz-cdn10.com/20221011/2719_bc38cd4a/index.m3u8
@@ -4758,12 +4762,12 @@ X2022(美国恐怖片),https://vip1.lz-cdn1.com/20220614/8691_308929ec/index.m3u
 玩命贴图(台湾恐怖片),https://vip.lz-cdn3.com/20221002/14405_4c6adee4/index.m3u8
 我最好的朋友会驱魔(美国恐怖片),https://vip1.lz-cdn10.com/20220930/2623_b7578f6d/index.m3u8
 坠入深渊(美国恐怖片),https://vip1.lz-cdn10.com/20220930/2616_4cc55623/index.m3u8
-庇护：扭曲的恐怖和幻想故事(阿根廷 / 新西兰恐怖片),https://vip.lz-cdn3.com/20220930/14376_03a9220c/index.m3u8
+庇护：扭曲的恐怖和幻想故事(阿根廷/新西兰恐怖片),https://vip.lz-cdn3.com/20220930/14376_03a9220c/index.m3u8
 N号栋(日本恐怖片),https://vip.lz-cdn3.com/20220930/14369_5a0a5c84/index.m3u8
 暗战2019(韩国恐怖片),https://vip.lz-cdn3.com/20220930/14361_8cb24b20/index.m3u8
 凶榜【粤语】(香港恐怖片),https://vip1.lz-cdn8.com/20220929/28002_4ef69f70/index.m3u8
 凶榜【国语】(香港恐怖片),https://vip1.lz-cdn8.com/20220929/28001_ea6d68f4/index.m3u8
-黑暗之歌(爱尔兰 / 英国恐怖片),https://vip.lz-cdn3.com/20220930/14355_38e48015/index.m3u8
+黑暗之歌(爱尔兰/英国恐怖片),https://vip.lz-cdn3.com/20220930/14355_38e48015/index.m3u8
 卧底罗密欧(印度恐怖片),https://vip.lz-cdn3.com/20220930/14324_d153d4aa/index.m3u8
 炼狱机器(美国恐怖片),https://vip1.lz-cdn1.com/20220930/16914_6e9b349b/index.m3u8
 五音不全(美国恐怖片),https://vip.lz-cdn3.com/20220929/14284_ced17417/index.m3u8
@@ -4834,14 +4838,14 @@ N号栋(日本恐怖片),https://vip.lz-cdn3.com/20220930/14369_5a0a5c84/index.m
 亡界之门(印度恐怖片),https://vip.lz-cdn3.com/20220917/13724_fd262d80/index.m3u8
 无声夜(美国恐怖片),https://vip.lz-cdn3.com/20220917/13723_c6e2c0ee/index.m3u8
 安娜华特的离奇命运(美国恐怖片),https://vip.lz-cdn3.com/20220917/13711_7404e92e/index.m3u8
-巴斯金(土耳其 / 美国恐怖片),https://vip.lz-cdn3.com/20220917/13710_382af123/index.m3u8
+巴斯金(土耳其/美国恐怖片),https://vip.lz-cdn3.com/20220917/13710_382af123/index.m3u8
 公路游戏(英国恐怖片),https://vip.lz-cdn3.com/20220917/13703_80bb936b/index.m3u8
 致命邻居(美国恐怖片),https://vip.lz-cdn3.com/20220916/13617_42d265f5/index.m3u8
 堕落2019(美国恐怖片),https://vip.lz-cdn3.com/20220916/13586_77f40d4e/index.m3u8
 利用我(美国恐怖片),https://vip.lz-cdn3.com/20220916/13581_e4427f93/index.m3u8
 曼森家庭大屠杀(美国恐怖片),https://vip1.lz-cdn6.com/20220914/27791_72b48110/index.m3u8
 危险乘客(西班牙恐怖片),https://vip1.lz-cdn10.com/20220915/2497_02f4e23a/index.m3u8
-死寂逃亡(德国 / 美国恐怖片),https://vip.lz-cdn3.com/20220915/13575_1984292f/index.m3u8
+死寂逃亡(德国/美国恐怖片),https://vip.lz-cdn3.com/20220915/13575_1984292f/index.m3u8
 我的守护天使(美国恐怖片),https://vip.lz-cdn3.com/20220915/13557_d123bef3/index.m3u8
 母亲的双眼(美国恐怖片),https://vip.lz-cdn3.com/20220915/13525_2c0b9f54/index.m3u8
 杀戮旅店(意大利恐怖片),https://vip.lz15uu.com/20220914/100_2bdce4c7/index.m3u8
@@ -4857,7 +4861,7 @@ N号栋(日本恐怖片),https://vip.lz-cdn3.com/20220930/14369_5a0a5c84/index.m
 地狱：亡灵栖所(美国恐怖片),https://vip.lz-cdn3.com/20220913/13327_2593a0eb/index.m3u8
 面对邪恶(美国恐怖片),https://vip.lz-cdn3.com/20220913/13313_f8ad6b8d/index.m3u8
 尸奶俱乐部(美国恐怖片),https://vip.lz-cdn3.com/20220913/13307_605694b7/index.m3u8
-谢丽2016(丹麦 / 瑞典恐怖片),https://vip.lz-cdn3.com/20220913/13285_50f50660/index.m3u8
+谢丽2016(丹麦/瑞典恐怖片),https://vip.lz-cdn3.com/20220913/13285_50f50660/index.m3u8
 马德琳·柯林斯(法国恐怖片),https://vip1.lz-cdn10.com/20220912/2471_e12b6fb9/index.m3u8
 野兽2022(美国恐怖片),https://vip.lz-cdn3.com/20220912/13263_1add3146/index.m3u8
 失恋杀人(日本恐怖片),https://vip.lz15uu.com/20220910/22_b8565e1c/index.m3u8
@@ -4865,7 +4869,7 @@ N号栋(日本恐怖片),https://vip.lz-cdn3.com/20220930/14369_5a0a5c84/index.m
 掉头即死(印度恐怖片),https://vip.lz-cdn3.com/20220911/13184_9fa78707/index.m3u8
 关灯后(美国恐怖片),https://vip.lz-cdn3.com/20220911/13164_9acf454a/index.m3u8
 恐吓运动2016(澳大利亚恐怖片),https://vip.lz-cdn3.com/20220910/13149_b905d04e/index.m3u8
-我不是连环杀手2016(爱尔兰 / 英国恐怖片),https://vip.lz-cdn3.com/20220910/13103_c76ce95a/index.m3u8
+我不是连环杀手2016(爱尔兰/英国恐怖片),https://vip.lz-cdn3.com/20220910/13103_c76ce95a/index.m3u8
 幽暗哈瓦那(美国恐怖片),https://vip.lz-cdn3.com/20220910/13094_8b25187f/index.m3u8
 自杀森林(美国恐怖片),https://vip.lz-cdn3.com/20220910/13088_567b58ed/index.m3u8
 黄龙之村(日本恐怖片),https://vip1.lz-cdn10.com/20220909/2449_eba75a8d/index.m3u8
@@ -4909,7 +4913,7 @@ N号栋(日本恐怖片),https://vip.lz-cdn3.com/20220930/14369_5a0a5c84/index.m
 恐怖面纱(美国恐怖片),https://vip.lz-cdn3.com/20220904/12667_8cb26b15/index.m3u8
 屏住呼吸2016(美国恐怖片),https://vip.lz-cdn3.com/20220904/12644_d85a839f/index.m3u8
 研究院(美国恐怖片),https://vip.lz-cdn3.com/20220903/12606_0b7e4961/index.m3u8
-不是每件事都很有趣(阿根廷 / 西班牙恐怖片),https://vip.lz-cdn3.com/20220903/12599_0a11c0da/index.m3u8
+不是每件事都很有趣(阿根廷/西班牙恐怖片),https://vip.lz-cdn3.com/20220903/12599_0a11c0da/index.m3u8
 鬼庙(美国恐怖片),https://vip.lz-cdn3.com/20220903/12572_5dee1b2b/index.m3u8
 湖深之处(香港恐怖片),https://vip1.lz-cdn10.com/20220902/2372_be8ac095/index.m3u8
 蜗牛之家(西班牙恐怖片),https://vip.lz-cdn3.com/20220902/12555_e2e10707/index.m3u8
@@ -4949,10 +4953,10 @@ N号栋(日本恐怖片),https://vip.lz-cdn3.com/20220930/14369_5a0a5c84/index.m
 吞咽(法国恐怖片),https://vip.lz-cdn3.com/20220829/12233_d96f48fb/index.m3u8
 靶场(美国恐怖片),https://vip1.lz-cdn.com/20220825/29417_1db8fac3/index.m3u8
 堕落人鱼(美国恐怖片),https://vip.lz-cdn3.com/20220828/12183_d2107ed4/index.m3u8
-恐怖之夜：噩梦电台2019(阿根廷 / 新西兰 / 英国恐怖片),https://vip.lz-cdn3.com/20220827/12088_ac3b847c/index.m3u8
+恐怖之夜：噩梦电台2019(阿根廷/新西兰/英国恐怖片),https://vip.lz-cdn3.com/20220827/12088_ac3b847c/index.m3u8
 深海蛇难(大陆恐怖片),https://vip.lz-cdn3.com/20220827/12103_3a502017/index.m3u8
 不2022(美国恐怖片),https://vip1.lz-cdn10.com/20220826/2322_f75ea801/index.m3u8
-大白鲨之夺命鲨口2021(澳大利亚 / 美国 / 英国恐怖片),https://vip1.lz-cdn10.com/20220825/2318_2d62563b/index.m3u8
+大白鲨之夺命鲨口2021(澳大利亚/美国/英国恐怖片),https://vip1.lz-cdn10.com/20220825/2318_2d62563b/index.m3u8
 被埋葬了(挪威恐怖片),https://vip1.lz-cdn10.com/20220825/2314_8a39bfcd/index.m3u8
 我有毒2019( 阿根廷恐怖片),https://vip1.lz-cdn10.com/20220825/2313_01168d5a/index.m3u8
 闺怨2021( 爱尔兰恐怖片),https://vip1.lz-cdn10.com/20220825/2312_cfb78994/index.m3u8
@@ -4980,7 +4984,7 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 毛骨悚然撞鬼经2021特别篇(日本恐怖片),https://vip1.lz-cdn1.com/20220325/517_7c49fdd8/index.m3u8
 乒乓2017(台湾恐怖片),https://vip.lz-cdn3.com/20220821/11861_6f405923/index.m3u8
 谋杀游戏2017(韩国恐怖片),https://vip1.lz-cdn10.com/20220823/2289_bcf71c64/index.m3u8
-红书召魔(新西兰 / 阿根廷恐怖片),https://vip1.lz-cdn10.com/20220823/2290_89b79328/index.m3u8
+红书召魔(新西兰/阿根廷恐怖片),https://vip1.lz-cdn10.com/20220823/2290_89b79328/index.m3u8
 童年恶灵(澳大利亚恐怖片),https://vip1.lz-cdn10.com/20220823/2293_b1f6fe66/index.m3u8
 恶灵再临(巴西恐怖片),https://vip1.lz-cdn7.com/20220823/9814_f998244b/index.m3u8
 时尚地狱(日本恐怖片),https://vip1.lz-cdn8.com/20220821/22468_22040fbc/index.m3u8
@@ -5059,9 +5063,9 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 玉米田的小孩4(美国恐怖片),https://vip1.lz-cdn.com/20220811/27958_34d6fa53/index.m3u8
 玉米田的小孩2(美国恐怖片),https://vip1.lz-cdn.com/20220811/27956_5b3a8bb7/index.m3u8
 玉米田的小孩(美国恐怖片),https://vip1.lz-cdn.com/20220811/27955_17e97401/index.m3u8
-潜伏4：锁命亡灵(美国 / 加拿大恐怖片),https://vip1.lz-cdn.com/20220810/27945_08645bf3/index.m3u8
-潜伏3(加拿大 / 英国 / 美国恐怖片),https://vip1.lz-cdn.com/20220810/27944_d012b5a9/index.m3u8
-潜伏2(美国 / 加拿大恐怖片),https://vip1.lz-cdn.com/20220810/27943_f4166cdd/index.m3u8
+潜伏4：锁命亡灵(美国/加拿大恐怖片),https://vip1.lz-cdn.com/20220810/27945_08645bf3/index.m3u8
+潜伏3(加拿大/英国/美国恐怖片),https://vip1.lz-cdn.com/20220810/27944_d012b5a9/index.m3u8
+潜伏2(美国/加拿大恐怖片),https://vip1.lz-cdn.com/20220810/27943_f4166cdd/index.m3u8
 惊心食人族(美国恐怖片),https://vip1.lz-cdn.com/20220810/27941_130f5728/index.m3u8
 鬼娃回魂7(美国恐怖片),https://vip1.lz-cdn.com/20220810/27940_3176deb9/index.m3u8
 鬼娃回魂2(美国恐怖片),https://vip1.lz-cdn.com/20220810/27939_7f09f14b/index.m3u8
@@ -5072,7 +5076,7 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 切肤之爱(日本恐怖片),https://vip1.lz-cdn6.com/20220810/21427_16b153ca/index.m3u8
 鬼作秀(美国恐怖片),https://vip1.lz-cdn6.com/20220810/21421_04ed83a0/index.m3u8
 找到你了(美国恐怖片),https://vip.lz-cdn3.com/20220810/11118_1fe87f19/index.m3u8
-鬼母2019(缅甸 / 越南恐怖片),https://vip.lz-cdn3.com/20220810/11099_c326b512/index.m3u8
+鬼母2019(缅甸/越南恐怖片),https://vip.lz-cdn3.com/20220810/11099_c326b512/index.m3u8
 海滨别墅(美国恐怖片),https://vip.lz-cdn3.com/20220810/11097_a5713784/index.m3u8
 禁闭男童(美国恐怖片),https://vip.lz-cdn3.com/20220810/11083_7561a048/index.m3u8
 疑神(美国恐怖片),https://vip1.lz-cdn10.com/20220809/2196_dc959071/index.m3u8
@@ -5083,7 +5087,7 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 索命停尸房(巴拉圭恐怖片),https://vip.lz-cdn3.com/20220809/11036_33d44208/index.m3u8
 杀手阿一(日本恐怖片),https://vip1.lz-cdn6.com/20220808/21420_86c33dcb/index.m3u8
 陌生人2(美国恐怖片),https://vip1.lz-cdn6.com/20220808/21419_26b7dee7/index.m3u8
-绝命孤帆(马耳他 / 英国恐怖片),https://vip.lz-cdn3.com/20220808/10971_abb5b30e/index.m3u8
+绝命孤帆(马耳他/英国恐怖片),https://vip.lz-cdn3.com/20220808/10971_abb5b30e/index.m3u8
 恐怖小说家(大陆恐怖片),https://vip1.lz-cdn5.com/20220807/39415_25623f29/index.m3u8
 恐惧回声(美国恐怖片),https://vip1.lz-cdn10.com/20220808/2187_e58b9d3a/index.m3u8
 乔赛亚见闻(美国恐怖片),https://vip1.lz-cdn10.com/20220808/2186_b2ea41b0/index.m3u8
@@ -5094,9 +5098,9 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 僵尸战士2019(韩国恐怖片),https://vip.lz-cdn3.com/20220806/10852_95138287/index.m3u8
 莎朗·塔特闹鬼事件(美国恐怖片),https://vip.lz-cdn3.com/20220806/10841_f710e481/index.m3u8
 三层楼的女孩(美国恐怖片),https://vip.lz-cdn3.com/20220806/10840_ba3c26f6/index.m3u8
-吵闹鬼日记(匈牙利 / 美国 / 英国 / 挪威恐怖片),https://vip1.lz-cdn10.com/20220805/2144_82153b68/index.m3u8
+吵闹鬼日记(匈牙利/美国/英国/挪威恐怖片),https://vip1.lz-cdn10.com/20220805/2144_82153b68/index.m3u8
 特别2020(美国恐怖片),https://vip1.lz-cdn10.com/20220805/2148_db1664fc/index.m3u8
-天堂高速(德国 / 美国恐怖片),https://vip1.lz-cdn10.com/20220805/2151_40447beb/index.m3u8
+天堂高速(德国/美国恐怖片),https://vip1.lz-cdn10.com/20220805/2151_40447beb/index.m3u8
 身后事2020(匈牙利恐怖片),https://vip.lz-cdn3.com/20220805/10768_2f902da9/index.m3u8
 惊魂鬼屋(美国恐怖片),https://vip.lz-cdn3.com/20220805/10741_843b48b2/index.m3u8
 黑楼孤魂(大陆恐怖片),https://vip1.lz-cdn.com/20220804/27162_9bd5e5dd/index.m3u8
@@ -5115,7 +5119,7 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 让我来给你收尸(加拿大恐怖片),https://vip.lz-cdn3.com/20220802/10534_dd4f94ec/index.m3u8
 完美琴仇(美国恐怖片),https://vip.lz-cdn3.com/20220801/10510_9c31469d/index.m3u8
 灯塔2019(加拿大恐怖片),https://vip.lz-cdn3.com/20220731/10432_f2b25f1f/index.m3u8
-感染2019(委内瑞拉 / 墨西哥恐怖片),https://vip.lz-cdn3.com/20220731/10431_e0a02965/index.m3u8
+感染2019(委内瑞拉/墨西哥恐怖片),https://vip.lz-cdn3.com/20220731/10431_e0a02965/index.m3u8
 死二月2019(德国恐怖片),https://vip.lz-cdn3.com/20220731/10420_8b942b69/index.m3u8
 医怨2019(印度尼西亚恐怖片),https://vip.lz-cdn3.com/20220731/10398_a7afadcc/index.m3u8
 血腥十字架(印度恐怖片),https://vip.lz-cdn3.com/20220731/10408_52f87a11/index.m3u8
@@ -5137,8 +5141,8 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 骷髅头：面具(恐怖片),https://vip.lz-cdn3.com/20220728/10226_12f01d5d/index.m3u8
 猎人气候(美国恐怖片),https://vip.lz-cdn3.com/20220728/10220_bdb614e8/index.m3u8
 银瀑2：重现(美国恐怖片),https://vip.lz-cdn3.com/20220728/10217_c02bc196/index.m3u8
-最后的吸血鬼2009(法国 / 中国香港 / 中国大陆恐怖片),https://vip1.lz-cdn.com/20220727/25781_6369cb7e/index.m3u8
-此房是我造(丹麦 / 法国 / 瑞典 / 德国 / 比利时 / 突尼斯恐怖片),https://vip.lz-cdn3.com/20220727/10193_8a8c6c8c/index.m3u8
+最后的吸血鬼2009(法国/中国香港/中国大陆恐怖片),https://vip1.lz-cdn.com/20220727/25781_6369cb7e/index.m3u8
+此房是我造(丹麦/法国/瑞典/德国/比利时/突尼斯恐怖片),https://vip.lz-cdn3.com/20220727/10193_8a8c6c8c/index.m3u8
 林屋惊魂(美国恐怖片),https://vip.lz-cdn3.com/20220727/10173_e1f42531/index.m3u8
 命运改变者(加拿大恐怖片),https://vip.lz-cdn3.com/20220727/10153_f6c7e489/index.m3u8
 失心病狂(美国恐怖片),https://vip.lz-cdn3.com/20220727/10146_784e5653/index.m3u8
@@ -5203,14 +5207,14 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 格蕾特和韩塞尔(加拿大恐怖片),https://vip.lz-cdn3.com/20220718/9610_aee5819d/index.m3u8
 常跟你左右(大陆恐怖片),https://vip.lz-cdn3.com/20220717/9530_6dafe2d5/index.m3u8
 赎罪巷(美国恐怖片),https://vip.lz-cdn3.com/20220717/9518_0c0f424c/index.m3u8
-遗落家庭(澳大利亚 / 美国恐怖片),https://vip.lz-cdn3.com/20220716/9491_d00c49ad/index.m3u8
+遗落家庭(澳大利亚/美国恐怖片),https://vip.lz-cdn3.com/20220716/9491_d00c49ad/index.m3u8
 狄仁杰之九层妖楼(大陆恐怖片),https://vip1.lz-cdn10.com/20220716/2021_2a6095cf/index.m3u8
 黑色电话(美国恐怖片),https://vip1.lz-cdn10.com/20220716/2039_90ab8c1d/index.m3u8
 解锁鬼应用(印度恐怖片),https://vip.lz-cdn3.com/20220715/9439_fb96644b/index.m3u8
 女鬼桥(台湾恐怖片),https://vip.lz-cdn3.com/20220715/9432_ae31c964/index.m3u8
 童养媳之谜(印度恐怖片),https://vip.lz-cdn3.com/20220715/9414_9a8e635f/index.m3u8
 信号100(日本恐怖片),https://vip.lz-cdn3.com/20220715/9406_f172fa02/index.m3u8
-致命弯道7(德国 / 美国 / 英国恐怖片),https://vip1.lz-cdn6.com/20220714/18627_3da51fc4/index.m3u8
+致命弯道7(德国/美国/英国恐怖片),https://vip1.lz-cdn6.com/20220714/18627_3da51fc4/index.m3u8
 致命弯道5：血族(美国恐怖片),https://vip1.lz-cdn6.com/20220714/18626_2d47bff2/index.m3u8
 致命弯道4：血腥起源(美国恐怖片),https://vip1.lz-cdn6.com/20220714/18625_3523ccaf/index.m3u8
 致命弯道2(美国恐怖片),https://vip1.lz-cdn6.com/20220714/18624_b37c4ead/index.m3u8
@@ -5231,7 +5235,7 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 护身符(英国恐怖片),https://vip.lz-cdn3.com/20220710/9135_ae558df0/index.m3u8
 世界奇妙物语2020秋季特别篇(日本恐怖片),https://vip.lz-cdn3.com/20220710/9124_3408cbed/index.m3u8
 租房惊魂2020(美国恐怖片),https://vip.lz-cdn3.com/20220710/9121_78abf66f/index.m3u8
-今夜林中无人入睡(波兰 / 法国 / 意大利恐怖片),https://vip.lz-cdn3.com/20220710/9111_c454b0a2/index.m3u8
+今夜林中无人入睡(波兰/法国/意大利恐怖片),https://vip.lz-cdn3.com/20220710/9111_c454b0a2/index.m3u8
 恶魔的请柬：第二章(印度尼西亚恐怖片),https://vip.lz-cdn3.com/20220710/9110_50cdc549/index.m3u8
 本人之死(美国恐怖片),https://vip.lz-cdn3.com/20220709/9097_b1ddb6d7/index.m3u8
 哈蜜(美国恐怖片),https://vip.lz-cdn3.com/20220709/9092_bedba039/index.m3u8
@@ -5255,13 +5259,13 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 诡秘阴宅(奥地利恐怖片),https://vip.lz-cdn3.com/20220704/8737_d693315a/index.m3u8
 声音控制(美国恐怖片),https://vip.lz-cdn3.com/20220704/8730_191b23d7/index.m3u8
 灵体盛宴(英国恐怖片),https://vip1.lz-cdn7.com/20220704/4903_c44ad452/index.m3u8
-凶恶谢幕(乌拉圭 / 阿根廷恐怖片),https://vip.lz-cdn3.com/20220704/8719_b42348bc/index.m3u8
+凶恶谢幕(乌拉圭/阿根廷恐怖片),https://vip.lz-cdn3.com/20220704/8719_b42348bc/index.m3u8
 降灵日历(法国恐怖片),https://vip.lz-cdn3.com/20220703/8700_f7ed5580/index.m3u8
 被侵犯的人(加拿大恐怖片),https://vip.lz-cdn3.com/20220703/8694_e3774554/index.m3u8
 杀戮开始(美国恐怖片),https://vip.lz-cdn3.com/20220703/8691_ea0c1bd4/index.m3u8
 驱魔古法(美国恐怖片),https://vip.lz-cdn3.com/20220703/8689_0be0d301/index.m3u8
 切除2020(美国恐怖片),https://vip.lz-cdn3.com/20220703/8688_ec6cf3bd/index.m3u8
-异教夜谈(阿根廷 / 墨西哥恐怖片),https://vip.lz-cdn3.com/20220702/8636_2b111027/index.m3u8
+异教夜谈(阿根廷/墨西哥恐怖片),https://vip.lz-cdn3.com/20220702/8636_2b111027/index.m3u8
 最终仪式2020(英国恐怖片),https://vip.lz-cdn3.com/20220702/8616_aaad09f5/index.m3u8
 13骇人游戏2014(美国恐怖片),https://vip.lz-cdn3.com/20220702/8614_b8a34e99/index.m3u8
 佛莱迪大战杰森(加拿大恐怖片),https://vip.lz-cdn3.com/20220702/8609_6e67b949/index.m3u8
@@ -5285,14 +5289,14 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 油鬼子【国语】(香港恐怖片),https://vip1.lz-cdn7.com/20220628/4349_a9115257/index.m3u8
 骨肉2021(爱尔兰恐怖片),https://vip.lz-cdn3.com/20220627/8436_88166797/index.m3u8
 蜜月期(美国恐怖片),https://vip1.lz-cdn10.com/20220627/1961_ddb699eb/index.m3u8
-恶魔的尾巴2021(阿根廷 / 新西兰恐怖片),https://vip.lzcdn2.com/20220626/14057_2990085d/index.m3u8
+恶魔的尾巴2021(阿根廷/新西兰恐怖片),https://vip.lzcdn2.com/20220626/14057_2990085d/index.m3u8
 断电惊魂(英国恐怖片),https://vip.lz-cdn3.com/20220625/8364_72307de8/index.m3u8
 中间的房子(美国恐怖片),https://vip.lz-cdn3.com/20220625/8355_68a92ac2/index.m3u8
 灵魂停留(美国恐怖片),https://vip1.lz-cdn10.com/20220623/1953_d9b5d7e6/index.m3u8
 女高怪谈重启：母校(韩国恐怖片),https://vip.lz-cdn3.com/20220624/8318_b8f83623/index.m3u8
 假阳性(美国恐怖片),https://vip.lz-cdn3.com/20220624/8313_8c08e209/index.m3u8
 喷火龙2021(美国恐怖片),https://vip.lz-cdn3.com/20220624/8310_074e06b8/index.m3u8
-未命名恐怖片(UHM）(美国恐怖片),https://vip.lz-cdn3.com/20220624/8308_87e8bc7f/index.m3u8
+未命名恐怖片(UHM)(美国恐怖片),https://vip.lz-cdn3.com/20220624/8308_87e8bc7f/index.m3u8
 一个经典的恐怖故事2021(意大利恐怖片),https://vip.lz-cdn3.com/20220623/8276_81737ae8/index.m3u8
 恶灵(加拿大恐怖片),https://vip.lz-cdn3.com/20220622/8217_2c5bee9e/index.m3u8
 二的梦魇(西班牙恐怖片),https://vip.lz-cdn3.com/20220622/8214_b94d024f/index.m3u8
@@ -5307,7 +5311,7 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 你将不再孤单(英国恐怖片),https://vip1.lz-cdn1.com/20220617/9050_009e7a1f/index.m3u8
 猎战2022(美国恐怖片),https://vip1.lz-cdn1.com/20220617/9049_b38be135/index.m3u8
 鬼压床2022(越南恐怖片),https://vip1.lz-cdn1.com/20220617/9027_751e958b/index.m3u8
-诡祭2021(荷兰 / 台湾恐怖片),https://vip1.lz-cdn1.com/20220616/9000_cdd65498/index.m3u8
+诡祭2021(荷兰/台湾恐怖片),https://vip1.lz-cdn1.com/20220616/9000_cdd65498/index.m3u8
 丛林求生2020(越南恐怖片),https://vip1.lz-cdn1.com/20220616/8976_32e1f64a/index.m3u8
 死亡游戏(美国恐怖片),https://vip1.lz-cdn1.com/20220616/8969_2121eeb8/index.m3u8
 民间怪谈：水猴子(大陆恐怖片),https://vip1.lz-cdn1.com/20220615/8783_9429e63a/index.m3u8
@@ -5320,11 +5324,11 @@ X频道之怪奇物语(美国恐怖片),https://vip1.lz-cdn10.com/20220825/2308_
 在黑暗中回家2021(新西兰恐怖片),https://vip1.lz-cdn10.com/20220612/1830_cc80b9e4/index.m3u8
 恐怖循环(英国恐怖片),https://vip1.lz-cdn1.com/20220613/8621_e893c504/index.m3u8
 恐惧街3(美国恐怖片),https://vip1.lz-cdn1.com/20220611/8541_fb2d512a/index.m3u8
-血色天劫2021(德国 / 美国恐怖片),https://vip1.lz-cdn1.com/20220611/8528_5b84a9d4/index.m3u8
+血色天劫2021(德国/美国恐怖片),https://vip1.lz-cdn1.com/20220611/8528_5b84a9d4/index.m3u8
 行车记录仪(英国恐怖片),https://vip1.lz-cdn10.com/20220610/1822_c8c3f6c2/index.m3u8
 老房之秘(美国恐怖片),https://vip1.lz-cdn10.com/20220610/1823_cc9cccfa/index.m3u8
 Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7d/index.m3u8
-无辜者2021(挪威 / 瑞典 / 丹麦 / 英国 / 法国 / 芬兰恐怖片),https://vip1.lz-cdn1.com/20220610/8484_ff96b7af/index.m3u8
+无辜者2021(挪威/瑞典/丹麦/英国/法国/芬兰恐怖片),https://vip1.lz-cdn1.com/20220610/8484_ff96b7af/index.m3u8
 疯神(美国恐怖片),https://vip1.lz-cdn1.com/20220610/8438_31ed9143/index.m3u8
 休赛期(美国恐怖片),https://vip1.lz-cdn10.com/20220609/1752_032c56c3/index.m3u8
 巨蛇闯女校(大陆恐怖片),https://vip.lzcdn2.com/20220609/9832_4bdc333b/index.m3u8
@@ -5343,7 +5347,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 谤法：在此矣(韩国恐怖片),https://vip.lzcdn2.com/20220605/8597_c07e7f8a/index.m3u8
 粉红色高跟鞋(韩国恐怖片),https://vip.lzcdn2.com/20220605/8590_7b712905/index.m3u8
 怪奇宅(韩国恐怖片),https://vip.lzcdn2.com/20220605/8586_3d817f7f/index.m3u8
-黑眼镜2022(意大利 / 法国恐怖片),https://vip1.lz-cdn10.com/20220525/1574_bf31e244/index.m3u8
+黑眼镜2022(意大利/法国恐怖片),https://vip1.lz-cdn10.com/20220525/1574_bf31e244/index.m3u8
 食人鱼3DD(美国恐怖片),https://vip1.lz-cdn1.com/20220605/7418_de4bcbdf/index.m3u8
 黑色之家(韩国恐怖片),https://vip.lzcdn2.com/20220605/8579_c206cfb7/index.m3u8
 恐怖故事(韩国恐怖片),https://vip.lzcdn2.com/20220605/8565_7955cf7a/index.m3u8
@@ -5351,7 +5355,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 牛首村(日本恐怖片),https://vip1.lz-cdn10.com/20220525/1611_a9822183/index.m3u8
 首尔怪谈(韩国恐怖片),https://vip.lzcdn2.com/20220605/8533_d8244eb8/index.m3u8
 王国：北方的阿信(韩国恐怖片),https://vip.lzcdn2.com/20220605/8522_e794523d/index.m3u8
-孵化(芬兰 / 瑞典恐怖片),https://vip1.lz-cdn10.com/20220525/1568_c827204c/index.m3u8
+孵化(芬兰/瑞典恐怖片),https://vip1.lz-cdn10.com/20220525/1568_c827204c/index.m3u8
 致命录像带2(美国恐怖片),https://vip1.lz-cdn1.com/20220605/7396_75870651/index.m3u8
 衣橱(韩国恐怖片),https://vip.lzcdn2.com/20220605/8503_3ca9df3d/index.m3u8
 阴曹使者(韩国恐怖片),https://vip.lzcdn2.com/20220605/8501_99e76fc8/index.m3u8
@@ -5380,7 +5384,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 血腥地狱2020(澳大利亚恐怖片),https://vip1.lz-cdn1.com/20220601/7193_aecbcc6e/index.m3u8
 孤寂2021(美国恐怖片),https://vip1.lz-cdn1.com/20220531/7162_1b9d6eec/index.m3u8
 鬼故事2021(泰国恐怖片),https://vip1.lz-cdn1.com/20220531/7157_78d0ffa2/index.m3u8
-鬼门关3(意大利 / 南斯拉夫 / 美国恐怖片),https://vip1.lz-cdn1.com/20220531/7156_47c0fb88/index.m3u8
+鬼门关3(意大利/南斯拉夫/美国恐怖片),https://vip1.lz-cdn1.com/20220531/7156_47c0fb88/index.m3u8
 电玩古咒(英国恐怖片),https://vip1.lz-cdn1.com/20220531/7136_5625f248/index.m3u8
 坏本(美国恐怖片),https://vip1.lz-cdn1.com/20220531/7145_c2b7b54b/index.m3u8
 鬼娃回魂4(美国恐怖片),https://vip1.lz-cdn1.com/20220531/7129_07d86c02/index.m3u8
@@ -5404,8 +5408,8 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 夜半无人尸语时【粤语】(香港恐怖片),https://vip.lzcdn2.com/20220530/7947_d7ba655f/index.m3u8
 夜瘾(美国恐怖片),https://vip.lzcdn2.com/20220530/7946_447c1e80/index.m3u8
 爱神2015(美国恐怖片),https://vip.lzcdn2.com/20220530/7937_3d3e4b14/index.m3u8
-女巫1922(瑞典 / 丹麦恐怖片),https://vip.lzcdn2.com/20220530/7896_6237751b/index.m3u8
-披着娘皮的蜥蜴(意大利 / 法国 / 西班牙 / 英国恐怖片),https://vip.lzcdn2.com/20220530/7895_066a827c/index.m3u8
+女巫1922(瑞典/丹麦恐怖片),https://vip.lzcdn2.com/20220530/7896_6237751b/index.m3u8
+披着娘皮的蜥蜴(意大利/法国/西班牙/英国恐怖片),https://vip.lzcdn2.com/20220530/7895_066a827c/index.m3u8
 谁能杀死孩子？(西班牙恐怖片),https://vip1.lz-cdn1.com/20220529/6999_799dd12c/index.m3u8
 舞台惊魂1987(意大利恐怖片),https://vip1.lz-cdn1.com/20220529/6985_f638a2c7/index.m3u8
 逃出绝命镇(美国恐怖片),https://vip1.lz-cdn1.com/20220529/6981_0ed5a52a/index.m3u8
@@ -5432,8 +5436,8 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 恐怖热线之大头怪婴【国语】(香港恐怖片),https://vip.lzcdn2.com/20220525/7680_16895699/index.m3u8
 魕【粤语】(香港恐怖片),https://vip.lzcdn2.com/20220525/7658_8ca4e980/index.m3u8
 撒旦的面具(意大利恐怖片),https://vip.lzcdn2.com/20220525/7627_39b39843/index.m3u8
-吸血鬼1932(德国 / 法国恐怖片),https://vip.lzcdn2.com/20220525/7587_c4491562/index.m3u8
-圣血1989(墨西哥 / 意大利恐怖片),https://vip.lzcdn2.com/20220525/7586_cb4c3092/index.m3u8
+吸血鬼1932(德国/法国恐怖片),https://vip.lzcdn2.com/20220525/7587_c4491562/index.m3u8
+圣血1989(墨西哥/意大利恐怖片),https://vip.lzcdn2.com/20220525/7586_cb4c3092/index.m3u8
 罗斯玛丽的婴儿(美国恐怖片),https://vip.lzcdn2.com/20220525/7575_02755948/index.m3u8
 冷血惊魂(英国恐怖片),https://vip.lzcdn2.com/20220525/7574_14a9caf5/index.m3u8
 最后一班(美国恐怖片),https://vip.lzcdn2.com/20220525/7557_bb47cadc/index.m3u8
@@ -5441,8 +5445,8 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 钟馗伏妖(大陆恐怖片),https://vip1.lz-cdn10.com/20220426/1550_3047ea0c/index.m3u8
 盟约(美国恐怖片),https://vip1.lz-cdn10.com/20220426/1544_e991c26a/index.m3u8
 人类2021(美国恐怖片),https://vip1.lz-cdn10.com/20220426/1540_477ef07f/index.m3u8
-上帝的驱魔2021(墨西哥 / 委内瑞拉 / 美国恐怖片),https://vip1.lz-cdn10.com/20220426/1539_0609fc72/index.m3u8
-恐怖地窖2022(爱尔兰 / 比利时 / 美国恐怖片),https://vip1.lz-cdn10.com/20220426/1534_e493e9a8/index.m3u8
+上帝的驱魔2021(墨西哥/委内瑞拉/美国恐怖片),https://vip1.lz-cdn10.com/20220426/1539_0609fc72/index.m3u8
+恐怖地窖2022(爱尔兰/比利时/美国恐怖片),https://vip1.lz-cdn10.com/20220426/1534_e493e9a8/index.m3u8
 大弑之日2019(加拿大恐怖片),https://vip1.lz-cdn10.com/20220426/1532_3da9bd18/index.m3u8
 肉罢不能(法国恐怖片),https://vip1.lz-cdn10.com/20220426/1528_9d0af424/index.m3u8
 狂鳄(大陆恐怖片),https://vip1.lz-cdn10.com/20220426/1526_ba3b010c/index.m3u8
@@ -5486,7 +5490,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 木偶人的攻击(美国恐怖片),https://vip.lzcdn2.com/20220521/7224_239afb93/index.m3u8
 瓦莱莉和她的奇迹一周1970(捷克斯洛伐克恐怖片),https://vip.lzcdn2.com/20220521/7215_96fd23a6/index.m3u8
 再见二十世纪1998(马其顿共和国恐怖片),https://vip.lzcdn2.com/20220521/7208_8d0e9dc5/index.m3u8
-凶手必再犯案1975(意大利 / 法国恐怖片),https://vip.lzcdn2.com/20220521/7162_d1b27646/index.m3u8
+凶手必再犯案1975(意大利/法国恐怖片),https://vip.lzcdn2.com/20220521/7162_d1b27646/index.m3u8
 着魔1981(法国恐怖片),https://vip.lzcdn2.com/20220521/7118_d4f8c9a3/index.m3u8
 准备好了没(加拿大恐怖片),https://vip.lzcdn2.com/20220521/7113_6d3cf6c6/index.m3u8
 张震讲故事之洗脸女生的传说(大陆恐怖片),https://vip.lzcdn2.com/20220520/7105_fb44b906/index.m3u8
@@ -5508,7 +5512,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 生吃(法国恐怖片),https://vip1.lz-cdn1.com/20220518/6111_545dc25a/index.m3u8
 隔墙有眼1977(意大利恐怖片),https://vip1.lz-cdn1.com/20220518/6055_29f92eac/index.m3u8
 绞刑架(美国恐怖片),https://vip1.lz-cdn1.com/20220518/6050_11b3fd6b/index.m3u8
-迷之血红1978(意大利 / 西德 / 西班牙恐怖片),https://vip1.lz-cdn1.com/20220518/6036_a8cf25e3/index.m3u8
+迷之血红1978(意大利/西德/西班牙恐怖片),https://vip1.lz-cdn1.com/20220518/6036_a8cf25e3/index.m3u8
 魔女嘉莉1976(美国恐怖片),https://vip1.lz-cdn1.com/20220518/6032_b487bd7d/index.m3u8
 衰落的城堡(美国恐怖片),https://vip1.lz-cdn1.com/20220518/6006_799f5cb3/index.m3u8
 邪【国语】(香港恐怖片),https://vip1.lz-cdn1.com/20220518/5983_f72120d8/index.m3u8
@@ -5517,9 +5521,9 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 恐吓包裹(美国恐怖片),https://vip.lzcdn2.com/20220517/6750_2d459226/index.m3u8
 异形魔怪(美国恐怖片),https://vip.lzcdn2.com/20220517/6759_4d70da85/index.m3u8
 独自夜归的女孩(美国恐怖片),https://vip.lzcdn2.com/20220517/6695_b803bb61/index.m3u8
-鬼男爵1972(意大利 / 西德恐怖片),https://vip.lzcdn2.com/20220517/6692_a63e2bb8/index.m3u8
+鬼男爵1972(意大利/西德恐怖片),https://vip.lzcdn2.com/20220517/6692_a63e2bb8/index.m3u8
 拉斯普廷：魔僧(英国恐怖片),https://vip.lzcdn2.com/20220517/6672_e29cc1ad/index.m3u8
-迷宮眼1972(意大利 / 摩纳哥恐怖片),https://vip.lzcdn2.com/20220517/6668_98ee977e/index.m3u8
+迷宮眼1972(意大利/摩纳哥恐怖片),https://vip.lzcdn2.com/20220517/6668_98ee977e/index.m3u8
 死神的长发1964(意大利恐怖片),https://vip.lzcdn2.com/20220517/6641_56b92dd1/index.m3u8
 亡灵故事(美国恐怖片),https://vip.lzcdn2.com/20220517/6637_7a43d079/index.m3u8
 异教徒(英国恐怖片),https://vip.lzcdn2.com/20220517/6611_b160d5df/index.m3u8
@@ -5528,7 +5532,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 死国(日本恐怖片),https://vip1.lz-cdn1.com/20220516/5865_4d77e489/index.m3u8
 魔鬼银爪(恐怖片),https://vip1.lz-cdn1.com/20220516/5835_75329fe6/index.m3u8
 吸血鬼猎人林肯(美国恐怖片),https://vip1.lz-cdn1.com/20220516/5825_1bacb80f/index.m3u8
-韩赛尔与格蕾特：女巫猎人2013(德国 / 美国恐怖片),https://vip1.lz-cdn1.com/20220516/5812_3482d77a/index.m3u8
+韩赛尔与格蕾特：女巫猎人2013(德国/美国恐怖片),https://vip1.lz-cdn1.com/20220516/5812_3482d77a/index.m3u8
 咒怨2录像带版(日本恐怖片),https://vip1.lz-cdn1.com/20220516/5763_7ba3501f/index.m3u8
 咒怨录像带版(日本恐怖片),https://vip1.lz-cdn1.com/20220516/5760_12073e87/index.m3u8
 喋血之影1978(意大利恐怖片),https://vip1.lz-cdn1.com/20220516/5752_ab2743ce/index.m3u8
@@ -5546,7 +5550,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 招魂2(加拿大恐怖片),https://vip1.lz-cdn1.com/20220514/5631_26b95f69/index.m3u8
 招魂(美国恐怖片),https://vip1.lz-cdn1.com/20220514/5628_b11a9afd/index.m3u8
 招魂3(美国恐怖片),https://vip1.lz-cdn1.com/20220514/5599_e4b0e418/index.m3u8
-血蝶1971(意大利 / 西德恐怖片),https://vip1.lz-cdn1.com/20220514/5582_1190832d/index.m3u8
+血蝶1971(意大利/西德恐怖片),https://vip1.lz-cdn1.com/20220514/5582_1190832d/index.m3u8
 鬼三惊2(泰国恐怖片),https://vip1.lz-cdn1.com/20220514/5520_936f45c8/index.m3u8
 恶魔之夜(英国恐怖片),https://vip.lzcdn2.com/20220513/6332_e3c7bdc6/index.m3u8
 回路2001(日本恐怖片),https://vip.lzcdn2.com/20220513/6316_eeb9e005/index.m3u8
@@ -5554,7 +5558,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 双生儿1999(日本恐怖片),https://vip.lzcdn2.com/20220513/6274_591749f3/index.m3u8
 北平会馆(大陆恐怖片),https://vip1.lz-cdn1.com/20220513/5441_26b4440e/index.m3u8
 死亡船1980(英国恐怖片),https://vip.lzcdn2.com/20220513/6270_d5d4364e/index.m3u8
-蝎尾谋杀案1971(意大利 / 西班牙恐怖片),https://vip.lzcdn2.com/20220513/6254_5f3ba190/index.m3u8
+蝎尾谋杀案1971(意大利/西班牙恐怖片),https://vip.lzcdn2.com/20220513/6254_5f3ba190/index.m3u8
 异魔禁区(西班牙恐怖片),https://vip.lzcdn2.com/20220513/6249_6e813e7e/index.m3u8
 浴血凶宅(英国恐怖片),https://vip.lzcdn2.com/20220513/6246_78339f1a/index.m3u8
 长梦(日本恐怖片),https://vip.lzcdn2.com/20220513/6245_71a10f5a/index.m3u8
@@ -5578,7 +5582,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 科学怪人之子(美国恐怖片),https://vip.lzcdn2.com/20220511/6138_2f3f6054/index.m3u8
 雪谷之狼(美国恐怖片),https://vip.lzcdn2.com/20220511/6174_2659cdd8/index.m3u8
 女优灵(日本恐怖片),https://vip.lzcdn2.com/20220511/6124_9b9dc551/index.m3u8
-暗夜之女1971(比利时 / 法国 / 西德恐怖片),https://vip.lzcdn2.com/20220511/6166_4714f0ee/index.m3u8
+暗夜之女1971(比利时/法国/西德恐怖片),https://vip.lzcdn2.com/20220511/6166_4714f0ee/index.m3u8
 本阵杀人事件(日本恐怖片),https://vip.lzcdn2.com/20220511/6163_14726caa/index.m3u8
 尸体防腐员(日本恐怖片),https://vip.lzcdn2.com/20220511/6114_e4372002/index.m3u8
 死亡之雪2009( 挪威恐怖片),https://vip.lzcdn2.com/20220511/6215_6ef57d1a/index.m3u8
@@ -5586,7 +5590,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 舞会惊魂2(美国恐怖片),https://vip.lzcdn2.com/20220511/6068_ab06ec01/index.m3u8
 吸血鬼的印记(美国恐怖片),https://vip.lzcdn2.com/20220511/6058_612563d7/index.m3u8
 症状(英国恐怖片),https://vip.lzcdn2.com/20220511/6027_66fe6719/index.m3u8
-追忆往事1987(南斯拉夫 / 英国恐怖片),https://vip.lzcdn2.com/20220511/6019_59191855/index.m3u8
+追忆往事1987(南斯拉夫/英国恐怖片),https://vip.lzcdn2.com/20220511/6019_59191855/index.m3u8
 杀人鲸(美国恐怖片),https://vip1.lz-cdn1.com/20220510/5090_2c0c5fb8/index.m3u8
 精神病人(英国恐怖片),https://vip1.lz-cdn1.com/20220510/5125_e7500dd3/index.m3u8
 巨鱼(美国恐怖片),https://vip1.lz-cdn1.com/20220510/5124_017d9075/index.m3u8
@@ -5633,7 +5637,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 地球大战蜘蛛(美国恐怖片),https://vip1.lz-cdn1.com/20220506/4693_55b99518/index.m3u8
 复出(英国恐怖片),https://vip1.lz-cdn1.com/20220506/4686_2bcbc542/index.m3u8
 鬼哭山河(美国恐怖片),https://vip1.lz-cdn1.com/20220506/4682_9115fd81/index.m3u8
-创伤1993(意大利 / 美国恐怖片),https://vip1.lz-cdn1.com/20220506/4702_3121bf2c/index.m3u8
+创伤1993(意大利/美国恐怖片),https://vip1.lz-cdn1.com/20220506/4702_3121bf2c/index.m3u8
 鬼面公仆3(美国恐怖片),https://vip1.lz-cdn1.com/20220506/4681_e7904a84/index.m3u8
 鬼镇1988(美国恐怖片),https://vip1.lz-cdn1.com/20220506/4678_5231b5a8/index.m3u8
 黑暗迷失(加拿大恐怖片),https://vip1.lz-cdn1.com/20220506/4675_adce06f6/index.m3u8
@@ -5655,7 +5659,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 死而复生(美国恐怖片),https://vip1.lz-cdn1.com/20220506/4559_f518c141/index.m3u8
 女巫1966(英国恐怖片),https://vip1.lz-cdn1.com/20220506/4539_47b75b36/index.m3u8
 孟买的杀手(英国恐怖片),https://vip1.lz-cdn1.com/20220506/4533_7881b5eb/index.m3u8
-噩梦城市1980(意大利 / 墨西哥 / 西班牙恐怖片),https://vip1.lz-cdn1.com/20220506/4532_2ad05dc1/index.m3u8
+噩梦城市1980(意大利/墨西哥/西班牙恐怖片),https://vip1.lz-cdn1.com/20220506/4532_2ad05dc1/index.m3u8
 招魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220506/4524_b5cf6e46/index.m3u8
 永生劫难(美国恐怖片),https://vip1.lz-cdn1.com/20220506/4522_41f21895/index.m3u8
 蟑螂杀手(美国恐怖片),https://vip1.lz-cdn1.com/20220506/4521_f1e26d33/index.m3u8
@@ -5680,10 +5684,10 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 笔仙咒怨(大陆恐怖片),https://vip.lzcdn2.com/20220505/5550_7beff45b/index.m3u8
 爱伦坡怪谈(美国恐怖片),https://vip.lzcdn2.com/20220505/5524_f46c8c14/index.m3u8
 大鳄鱼(美国恐怖片),https://vip.lzcdn2.com/20220505/5518_68304949/index.m3u8
-恶魔之爪1981(墨西哥 / 美国恐怖片),https://vip.lzcdn2.com/20220505/5514_d19a2236/index.m3u8
+恶魔之爪1981(墨西哥/美国恐怖片),https://vip.lzcdn2.com/20220505/5514_d19a2236/index.m3u8
 黑湖妖复仇记(美国恐怖片),https://vip.lzcdn2.com/20220505/5511_9618b5a5/index.m3u8
 绘图人(美国恐怖片),https://vip.lzcdn2.com/20220505/5508_cce84ea4/index.m3u8
-离魂鬼巫1988(意大利 / 美国恐怖片),https://vip.lzcdn2.com/20220505/5503_137e5547/index.m3u8
+离魂鬼巫1988(意大利/美国恐怖片),https://vip.lzcdn2.com/20220505/5503_137e5547/index.m3u8
 矩形箱子(英国恐怖片),https://vip.lzcdn2.com/20220505/5502_04ab0911/index.m3u8
 幕布背后(加拿大恐怖片),https://vip.lzcdn2.com/20220505/5498_da92863f/index.m3u8
 尸坑(美国恐怖片),https://vip.lzcdn2.com/20220505/5483_7696b46b/index.m3u8
@@ -5694,7 +5698,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 白魔鬼1932(美国恐怖片),https://vip.lzcdn2.com/20220504/5469_737b6e69/index.m3u8
 穿梭猛鬼城(美国恐怖片),https://vip.lzcdn2.com/20220504/5467_005f5c10/index.m3u8
 德古拉之夜(西班牙恐怖片),https://vip.lzcdn2.com/20220504/5459_7d7fffd6/index.m3u8
-复仇之谜1987(意大利 / 南斯拉夫恐怖片),https://vip.lzcdn2.com/20220504/5454_ef230e4e/index.m3u8
+复仇之谜1987(意大利/南斯拉夫恐怖片),https://vip.lzcdn2.com/20220504/5454_ef230e4e/index.m3u8
 恶夜飞魔(美国恐怖片),https://vip.lzcdn2.com/20220504/5453_47ec9a55/index.m3u8
 惊悚小说(大陆恐怖片),https://vip1.lz-cdn1.com/20220504/4461_6b87a668/index.m3u8
 墨玉太极(大陆恐怖片),https://vip1.lz-cdn1.com/20220504/4480_5cf24e75/index.m3u8
@@ -5708,7 +5712,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 通灵姐妹(大陆恐怖片),https://vip1.lz-cdn1.com/20220504/4403_8da67206/index.m3u8
 开错鬼门关(加拿大恐怖片),https://vip1.lz-cdn1.com/20220504/4450_d4642d95/index.m3u8
 午夜惊魂路(大陆恐怖片),https://vip1.lz-cdn1.com/20220504/4407_94736bb3/index.m3u8
-灰天鹅绒上的四只苍蝇1971(意大利 / 法国恐怖片),https://vip1.lz-cdn1.com/20220504/4456_3d09458b/index.m3u8
+灰天鹅绒上的四只苍蝇1971(意大利/法国恐怖片),https://vip1.lz-cdn1.com/20220504/4456_3d09458b/index.m3u8
 猛鬼爱情故事【国语】2011(香港恐怖片),https://vip1.lz-cdn1.com/20220504/4317_4043ea47/index.m3u8
 黑暗深渊2015(爱尔兰恐怖片),https://vip.lzcdn2.com/20220503/5409_3538a1f2/index.m3u8
 碟仙之毕业照(大陆恐怖片),https://vip.lzcdn2.com/20220503/5419_1df02093/index.m3u8
@@ -5720,7 +5724,7 @@ Soho区惊魂夜(英国恐怖片),https://vip1.lz-cdn1.com/20220610/8510_b98b7f7
 诡井(大陆恐怖片),https://vip.lzcdn2.com/20220503/5290_1310915e/index.m3u8
 教堂幽灵1989(意大利恐怖片),https://vip.lzcdn2.com/20220503/5262_c5dfdd6a/index.m3u8
 死神的呼唤(英国恐怖片),https://vip.lzcdn2.com/20220503/5238_006ce565/index.m3u8
-故事的故事2015(意大利 / 法国 / 英国恐怖片),https://vip1.lz-cdn1.com/20220502/4157_7d704b06/index.m3u8
+故事的故事2015(意大利/法国/英国恐怖片),https://vip1.lz-cdn1.com/20220502/4157_7d704b06/index.m3u8
 鬼故事2017(英国恐怖片),https://vip1.lz-cdn1.com/20220502/4153_b4108384/index.m3u8
 核能浩劫后1984(意大利恐怖片),https://vip1.lz-cdn1.com/20220502/4202_7dfbecde/index.m3u8
 深海恐龙(法国恐怖片),https://vip1.lz-cdn1.com/20220502/4090_d404bb34/index.m3u8
@@ -5817,8 +5821,8 @@ M博士的黑洞1959(墨西哥恐怖片),https://vip.lzcdn2.com/20220429/5033_8f
 笔仙惊魂3(大陆恐怖片),https://vip1.lz-cdn1.com/20220425/3333_904d3d2c/index.m3u8
 不死之魔(美国恐怖片),https://vip.lzcdn2.com/20220425/4548_e970f123/index.m3u8
 午夜凶铃(美版)(美国恐怖片),https://vip.lzcdn2.com/20220425/4523_2869ffd5/index.m3u8
-返回从前的漫长旅程2019(老挝 / 新加坡 / 西班牙恐怖片),https://vip1.lz-cdn10.com/20220423/1506_a4a6996c/index.m3u8
-三更【韩/泰/国/粤语】2002(中国香港 / 韩国 / 泰国恐怖片),https://vip.lzcdn2.com/20220425/4484_780df1f9/index.m3u8
+返回从前的漫长旅程2019(老挝/新加坡/西班牙恐怖片),https://vip1.lz-cdn10.com/20220423/1506_a4a6996c/index.m3u8
+三更【韩/泰/国/粤语】2002(中国香港/韩国/泰国恐怖片),https://vip.lzcdn2.com/20220425/4484_780df1f9/index.m3u8
 鬼玩人4(美国恐怖片),https://vip.lzcdn2.com/20220425/4459_04473c18/index.m3u8
 蜡人馆1924(德国恐怖片),https://vip.lzcdn2.com/20220425/4435_d481cb3c/index.m3u8
 迷雾之外1972(英国恐怖片),https://vip.lzcdn2.com/20220425/4432_fa63c1ec/index.m3u8
@@ -5840,7 +5844,7 @@ M博士的黑洞1959(墨西哥恐怖片),https://vip.lzcdn2.com/20220429/5033_8f
 魔界妖姬(美国恐怖片),https://vip1.lz-cdn1.com/20220424/3143_2da521e9/index.m3u8
 嗜血狂魔(美国恐怖片),https://vip1.lz-cdn1.com/20220424/3128_f19076be/index.m3u8
 死灵的陷阱(日本恐怖片),https://vip1.lz-cdn1.com/20220424/3122_d07cd9e0/index.m3u8
-死亡之雪2(挪威 / 冰岛恐怖片),https://vip1.lz-cdn1.com/20220424/3120_581d7d0d/index.m3u8
+死亡之雪2(挪威/冰岛恐怖片),https://vip1.lz-cdn1.com/20220424/3120_581d7d0d/index.m3u8
 我知道你去年夏天干了什么(美国恐怖片),https://vip1.lz-cdn1.com/20220424/3114_014bb6b5/index.m3u8
 午夜索魂1964(巴西恐怖片),https://vip1.lz-cdn1.com/20220424/3110_22b722f9/index.m3u8
 欲仙欲死(英国恐怖片),https://vip1.lz-cdn1.com/20220424/3095_35019148/index.m3u8
@@ -5855,7 +5859,7 @@ M博士的黑洞1959(墨西哥恐怖片),https://vip.lzcdn2.com/20220429/5033_8f
 血色研究站2013(奥地利恐怖片),https://vip.lzcdn2.com/20220423/4122_34cb3054/index.m3u8
 学校怪谈-言灵的诅咒2014(日本恐怖片),https://vip.lzcdn2.com/20220423/4120_2db6025f/index.m3u8
 我仍然知道你去年夏天干了什么(美国恐怖片),https://vip.lzcdn2.com/20220423/4116_e4149c3e/index.m3u8
-鞭子与肉体1963(意大利 / 法国恐怖片),https://vip1.lz-cdn1.com/20220422/3045_6e2e849c/index.m3u8
+鞭子与肉体1963(意大利/法国恐怖片),https://vip1.lz-cdn1.com/20220422/3045_6e2e849c/index.m3u8
 帝都大战(日本恐怖片),https://vip1.lz-cdn1.com/20220422/3013_a18cc020/index.m3u8
 黑色安息日1963(法国恐怖片),https://vip1.lz-cdn1.com/20220422/3002_fafd4942/index.m3u8
 B区32号(大陆恐怖片),https://vip1.lz-cdn1.com/20220422/2919_2904e656/index.m3u8
@@ -5897,11 +5901,11 @@ X博士(美国恐怖片),https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index.m3u
 你是下一个(美国恐怖片),https://vip1.lz-cdn1.com/20220418/2534_5490981d/index.m3u8
 恐惧之巅(英国恐怖片),https://vip1.lz-cdn1.com/20220418/2499_bbc70580/index.m3u8
 尖叫的女妖(美国恐怖片),https://vip1.lz-cdn1.com/20220418/2489_02e4bd47/index.m3u8
-等着你回来2010【国语】(香港 / 大陆恐怖片),https://vip1.lz-cdn1.com/20220418/2435_a6db95ca/index.m3u8
+等着你回来2010【国语】(香港/大陆恐怖片),https://vip1.lz-cdn1.com/20220418/2435_a6db95ca/index.m3u8
 9号谋杀案(美国恐怖片),https://vip1.lz-cdn1.com/20220418/2408_edff5101/index.m3u8
 荒村客栈(大陆恐怖片),https://vip1.lz-cdn1.com/20220418/2405_1287600f/index.m3u8
 恶魔总是悄悄来(美国恐怖片),https://vip1.lz-cdn1.com/20220417/2334_57e5eb93/index.m3u8
-百烛游戏2020(新西兰 / 阿根廷恐怖片),https://vip1.lz-cdn1.com/20220417/2312_015c9c40/index.m3u8
+百烛游戏2020(新西兰/阿根廷恐怖片),https://vip1.lz-cdn1.com/20220417/2312_015c9c40/index.m3u8
 木乃伊之手(美国恐怖片),https://vip1.lz-cdn1.com/20220417/2305_df3a60b8/index.m3u8
 世界奇妙物语2021夏季特别篇(日本恐怖片),https://vip1.lz-cdn10.com/20220413/1374_e86477df/index.m3u8
 逝者难眠(美国恐怖片),https://vip1.lz-cdn10.com/20220413/1370_5b50d641/index.m3u8
@@ -5912,7 +5916,7 @@ X博士(美国恐怖片),https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index.m3u
 1920：邪灵重现(印度恐怖片),https://vip1.lz-cdn1.com/20220417/2253_c83706bb/index.m3u8
 传真人(日本恐怖片),https://vip1.lz-cdn1.com/20220417/2237_9e7e9d0c/index.m3u8
 鬼请你睇戏【粤语】(香港恐怖片),https://vip1.lz-cdn1.com/20220417/2235_659e00bb/index.m3u8
-摧花手(意大利 / 西德恐怖片),https://vip1.lz-cdn1.com/20220417/2231_5dc12194/index.m3u8
+摧花手(意大利/西德恐怖片),https://vip1.lz-cdn1.com/20220417/2231_5dc12194/index.m3u8
 躲藏2015(美国恐怖片),https://vip1.lz-cdn1.com/20220417/2226_8023b650/index.m3u8
 尖叫圣诞(美国恐怖片),https://vip1.lz-cdn1.com/20220417/2214_8f424f78/index.m3u8
 美女与液体人(日本恐怖片),https://vip.lzcdn2.com/20220416/3637_434a192d/index.m3u8
@@ -5942,7 +5946,7 @@ X博士(美国恐怖片),https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index.m3u
 大脑中的猫(意大利恐怖片),https://vip1.lz-cdn1.com/20220415/2132_f54caede/index.m3u8
 怪談雪女郎(日本恐怖片),https://vip1.lz-cdn1.com/20220415/2124_3753a90f/index.m3u8
 诅咒2005(大陆恐怖片),https://vip1.lz-cdn1.com/20220415/2121_5ccba5c8/index.m3u8
-饮血恶魔(菲律宾 / 美国恐怖片),https://vip1.lz-cdn1.com/20220415/2193_114bbaec/index.m3u8
+饮血恶魔(菲律宾/美国恐怖片),https://vip1.lz-cdn1.com/20220415/2193_114bbaec/index.m3u8
 复仇之心1914(美国恐怖片),https://vip1.lz-cdn1.com/20220415/2110_cd324692/index.m3u8
 工具箱杀手2004(美国恐怖片),https://vip1.lz-cdn1.com/20220415/2101_127c2cf0/index.m3u8
 怪人(美国恐怖片),https://vip1.lz-cdn1.com/20220415/2096_41f31931/index.m3u8
@@ -5980,7 +5984,7 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 夺命生死咒【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3092_b6838bed/index.m3u8
 肢解迷情【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3159_cb0f1357/index.m3u8
 家宅凶灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3074_dbc15ee0/index.m3u8
-地狱活死人1980(意大利 / 西班牙恐怖片),https://vip.lzcdn2.com/20220412/3068_8f7a09b8/index.m3u8
+地狱活死人1980(意大利/西班牙恐怖片),https://vip.lzcdn2.com/20220412/3068_8f7a09b8/index.m3u8
 工具箱杀手1978(美国恐怖片),https://vip.lzcdn2.com/20220412/3065_7cf44518/index.m3u8
 千年血后(英国恐怖片),https://vip.lzcdn2.com/20220412/3049_f2911d70/index.m3u8
 活死人之夜(美国恐怖片),https://vip.lzcdn2.com/20220412/3047_5b084dc0/index.m3u8
@@ -6047,7 +6051,7 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 甩皮鬼【国语】(香港恐怖片),https://vip.lzcdn2.com/20220407/2540_c95aba91/index.m3u8
 脆弱(西班牙恐怖片),https://vip.lzcdn2.com/20220407/2523_2ba9893d/index.m3u8
 灵异咒(日本恐怖片),https://vip.lzcdn2.com/20220407/2472_b5b7cb08/index.m3u8
-你喜欢希区柯克吗？(意大利 / 西班牙恐怖片),https://vip.lzcdn2.com/20220407/2463_f0a17dbd/index.m3u8
+你喜欢希区柯克吗？(意大利/西班牙恐怖片),https://vip.lzcdn2.com/20220407/2463_f0a17dbd/index.m3u8
 午夜凶铃2(美版)(美国恐怖片),https://vip.lzcdn2.com/20220407/2432_c14b3ab1/index.m3u8
 养鬼吃人8：地狱世界(美国恐怖片),https://vip.lzcdn2.com/20220407/2426_f23a16e7/index.m3u8
 血衣天使【国语】(香港恐怖片),https://vip.lzcdn2.com/20220406/2305_eb105134/index.m3u8
@@ -6081,7 +6085,7 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 谁是鬼【国语】(香港恐怖片),https://vip1.lz-cdn1.com/20220404/847_6b018411/index.m3u8
 卡里加利博士的小屋(美国恐怖片),https://vip1.lz-cdn1.com/20220403/819_9e97369e/index.m3u8
 当你熟睡2011(西班牙恐怖片),https://vip1.lz-cdn1.com/20220403/802_506923f1/index.m3u8
-神秘群岛2006(德国 / 英国 / 美国恐怖片),https://vip.lzcdn2.com/20220403/2226_9219204e/index.m3u8
+神秘群岛2006(德国/英国/美国恐怖片),https://vip.lzcdn2.com/20220403/2226_9219204e/index.m3u8
 凶兆2006(美国恐怖片),https://vip1.lz-cdn1.com/20220403/759_c2988953/index.m3u8
 旧日噩梦(美国恐怖片),https://vip.lzcdn2.com/20220402/2037_f7ae8fd3/index.m3u8
 波基普西录像带(美国恐怖片),https://vip.lzcdn2.com/20220402/2035_0007b20b/index.m3u8
@@ -6122,12 +6126,12 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 魔婴少女(日本恐怖片),https://vip.lzcdn2.com/20220330/1267_2b91aaae/index.m3u8
 诊所惊魂2010(澳大利亚恐怖片),https://dow1.lzidw.com/20220330/1256_4d6e0d9e/诊所惊魂2010.mp4
 巡楼人之舞灵(大陆恐怖片),https://vip.lzcdn2.com/20220329/1240_a68b2462/index.m3u8
-生化危机：终章(美国 / 德国 / 法国 / 加拿大 / 南非 / 澳大利亚 / 英国 / 日本 / 中国大陆恐怖片),https://vip.lzcdn2.com/20220329/1198_7afc6c2f/index.m3u8
-生化危机5：惩罚(德国 / 加拿大 / 美国 / 法国恐怖片),https://vip.lzcdn2.com/20220329/1197_5930fcfe/index.m3u8
-生化危机4：战神再生(德国 / 法国 / 美国 / 加拿大恐怖片),https://vip.lzcdn2.com/20220329/1196_e004e33f/index.m3u8
-生化危机3：灭绝(美国 / 法国 / 澳大利亚 / 德国 / 英国恐怖片),https://vip.lzcdn2.com/20220329/1195_7902374c/index.m3u8
-生化危机2：启示录(德国 / 法国 / 英国 / 加拿大 / 美国恐怖片),https://vip.lzcdn2.com/20220329/1194_aa95f76a/index.m3u8
-生化危机(英国 / 德国 / 法国 / 美国 / 加拿大恐怖片),https://vip.lzcdn2.com/20220329/1193_15a5c101/index.m3u8
+生化危机：终章(美国/德国/法国/加拿大/南非/澳大利亚/英国/日本/中国大陆恐怖片),https://vip.lzcdn2.com/20220329/1198_7afc6c2f/index.m3u8
+生化危机5：惩罚(德国/加拿大/美国/法国恐怖片),https://vip.lzcdn2.com/20220329/1197_5930fcfe/index.m3u8
+生化危机4：战神再生(德国/法国/美国/加拿大恐怖片),https://vip.lzcdn2.com/20220329/1196_e004e33f/index.m3u8
+生化危机3：灭绝(美国/法国/澳大利亚/德国/英国恐怖片),https://vip.lzcdn2.com/20220329/1195_7902374c/index.m3u8
+生化危机2：启示录(德国/法国/英国/加拿大/美国恐怖片),https://vip.lzcdn2.com/20220329/1194_aa95f76a/index.m3u8
+生化危机(英国/德国/法国/美国/加拿大恐怖片),https://vip.lzcdn2.com/20220329/1193_15a5c101/index.m3u8
 橡皮轮胎杀手(法国恐怖片),https://vip.lzcdn2.com/20220329/1187_53e92a53/index.m3u8
 雪怪(大陆恐怖片),https://vip.lzcdn2.com/20220329/1161_c6affef0/index.m3u8
 画壁之消失的校花(大陆恐怖片),https://vip.lzcdn2.com/20220329/1131_8898c56f/index.m3u8
@@ -6292,7 +6296,7 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 吕正操1942(大陆战争片),https://v.cdnlz20.com/20240505/6847_814f3501/index.m3u8
 卡尔巴拉(波兰战争片),https://v.cdnlz19.com/20240426/31196_71cd9c51/index.m3u8
 天空2023(俄罗斯战争片),https://v.cdnlz2.com/20240424/30444_56a3b118/index.m3u8
-战火中的小狐狸2022(德国 / 奥地利战争片),https://v.cdnlz2.com/20240423/30429_9ac232f9/index.m3u8
+战火中的小狐狸2022(德国/奥地利战争片),https://v.cdnlz2.com/20240423/30429_9ac232f9/index.m3u8
 谢尔沙(印度战争片),https://v.cdnlz19.com/20240414/27279_da7735c3/index.m3u8
 热血地雷战2024(大陆战争片),https://v.cdnlz12.com/20240302/12284_9df31a2d/index.m3u8
 伊丽莎白2：黄金时代(英国战争片),https://v.cdnlz12.com/20240222/11733_c6dcd584/index.m3u8
@@ -6301,31 +6305,31 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 盟军夺宝队(美国战争片),https://v.cdnlz2.com/20240207/28784_15125e45/index.m3u8
 希特勒最后的秘密武器(德国战争片),https://v.cdnlz2.com/20240207/28782_0930ecb6/index.m3u8
 露梁海战(韩国战争片),https://v.cdnlz19.com/20240205/13018_c311202b/index.m3u8
-逃离金边(柬埔寨 / 新加坡 / 澳大利亚战争片),https://v.cdnlz12.com/20240204/11361_aef0abf3/index.m3u8
+逃离金边(柬埔寨/新加坡/澳大利亚战争片),https://v.cdnlz12.com/20240204/11361_aef0abf3/index.m3u8
 与恶魔携手(加拿大战争片),https://v.cdnlz12.com/20240202/11255_2580c26a/index.m3u8
 花岗岩(俄罗斯战争片),https://v.cdnlz17.com/20240128/106802_75c91385/index.m3u8
 坚强的心2007(美国战争片),https://v.cdnlz12.com/20240130/11198_f76de230/index.m3u8
 赤色天使(日本战争片),https://v.cdnlz2.com/20240127/28332_4af92a0f/index.m3u8
 拿破仑2023(英国战争片),https://v.cdnlz2.com/20240120/28127_4ad9f5bb/index.m3u8
-艾希曼(匈牙利 / 英国战争片),https://v.cdnlz3.com/20240117/22808_c1660c70/index.m3u8
+艾希曼(匈牙利/英国战争片),https://v.cdnlz3.com/20240117/22808_c1660c70/index.m3u8
 游牧战神(法国战争片),https://v.cdnlz3.com/20240114/22763_47078246/index.m3u8
 开国将帅授衔1955(大陆战争片),https://v.cdnlz3.com/20240113/22760_c4dff67b/index.m3u8
 势不可挡2020(大陆战争片),https://v.cdnlz17.com/20240109/90003_dcb2b607/index.m3u8
 科蒂兹堡大逃亡(英国战争片),https://v.cdnlz3.com/20240111/22722_99cef6fb/index.m3u8
 柏林之翼(俄罗斯战争片),https://v.cdnlz3.com/20240110/22716_ab004ffc/index.m3u8
 谁开的枪(大陆战争片),https://v.cdnlz12.com/20240109/10982_9850b899/index.m3u8
-命运无常(匈牙利 / 德国 / 英国战争片),https://v.cdnlz3.com/20240108/22679_87238b34/index.m3u8
-烈日灼人2(上)：逃难(德国 / 法国 / 俄罗斯战争片),https://v.cdnlz17.com/20240104/89675_c174b270/index.m3u8
+命运无常(匈牙利/德国/英国战争片),https://v.cdnlz3.com/20240108/22679_87238b34/index.m3u8
+烈日灼人2(上)：逃难(德国/法国/俄罗斯战争片),https://v.cdnlz17.com/20240104/89675_c174b270/index.m3u8
 远东特遣队之初试锋芒(大陆战争片),https://v.cdnlz17.com/20231231/88827_9adcb0db/index.m3u8
 战地之狼(英国战争片),https://v.cdnlz3.com/20231231/22546_01025c66/index.m3u8
 终极胜利(大陆战争片),https://v.cdnlz11.com/20231225/18845_25b2c94f/index.m3u8
 无路可退2022(乌克兰战争片),https://v.cdnlz4.com/20231213/26222_58f45044/index.m3u8
 雪绒花海盗2005(德国/瑞士/荷兰/卢森堡战争片),https://v.cdnlz11.com/20231216/18722_5bfca72b/index.m3u8
 浴血突围1942(大陆战争片),https://v.cdnlz2.com/20231215/27423_fb885e63/index.m3u8
-超越前线(瑞典语 / 芬兰语 / 俄语战争片),https://v.cdnlz11.com/20231214/18680_cdaa533e/index.m3u8
+超越前线(瑞典语/芬兰语/俄语战争片),https://v.cdnlz11.com/20231214/18680_cdaa533e/index.m3u8
 边城英烈传(美国战争片),https://v.cdnlz11.com/20231206/18574_8614e0e4/index.m3u8
 高贵的夫妇(英国战争片),https://v.cdnlz11.com/20231206/18571_6b3a005d/index.m3u8
-无知的声音(墨西哥 / 美国 / 波多黎各战争片),https://v.cdnlz11.com/20231202/18501_e09eeaba/index.m3u8
+无知的声音(墨西哥/美国/波多黎各战争片),https://v.cdnlz11.com/20231202/18501_e09eeaba/index.m3u8
 志愿军：雄兵出击(大陆战争片),https://v.cdnlz4.com/20231201/26186_1cd3ed6c/index.m3u8
 处死国王(英国战争片),https://v1.cdnlz1.com/20231122/24049_3b77585b/index.m3u8
 战马一号(美国战争片),https://v.cdnlz11.com/20231111/18236_dbc0048f/index.m3u8
@@ -6349,7 +6353,7 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 安娜的战争(俄罗斯战争片),https://v.cdnlz12.com/20230905/9870_b374b826/index.m3u8
 小王国的爱情2019(斯洛伐克战争片),https://v.cdnlz3.com/20230904/21604_ff658246/index.m3u8
 一条军裤(法国战争片),https://vip.lz-cdn12.com/20230901/9731_8ae767b9/index.m3u8
-浴火鸟2021(爱沙尼亚 / 英国战争片),https://vip.lz-cdn12.com/20230828/9610_f353f791/index.m3u8
+浴火鸟2021(爱沙尼亚/英国战争片),https://vip.lz-cdn12.com/20230828/9610_f353f791/index.m3u8
 灰烬1965(波兰战争片),https://vip.lz-cdn12.com/20230828/9589_c2238bd5/index.m3u8
 帕斯尚尔战役(加拿大战争片),https://vip.lz-cdn12.com/20230826/9553_c103a29c/index.m3u8
 神探坤潘3(泰国战争片),https://vip.lz-cdn3.com/20230815/21117_2caf4fad/index.m3u8
@@ -6390,9 +6394,9 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 蓝与黑续集【国语】(香港战争片),https://vip.lz-cdn3.com/20230612/19507_c1e1f1ad/index.m3u8
 树屋上的童真(美国战争片),https://vip.lz-cdn3.com/20230605/19340_72e8a3c8/index.m3u8
 南京东1937(大陆战争片),https://vip.lz-cdn3.com/20230604/19306_4716f2a0/index.m3u8
-英勇的民族(葡萄牙 / 法国 / 安哥拉战争片),https://vip.lz-cdn3.com/20230604/19298_3b577f07/index.m3u8
+英勇的民族(葡萄牙/法国/安哥拉战争片),https://vip.lz-cdn3.com/20230604/19298_3b577f07/index.m3u8
 失鞋战场(美国战争片),https://vip.lz-cdn3.com/20230527/19108_4f0e158f/index.m3u8
-克朗代克2022(乌克兰 / 土耳其战争片),https://vip.lz-cdn3.com/20230527/19095_17bb0ada/index.m3u8
+克朗代克2022(乌克兰/土耳其战争片),https://vip.lz-cdn3.com/20230527/19095_17bb0ada/index.m3u8
 玻璃房(德国战争片),https://vip1.lz-cdn1.com/20230525/21034_c7737285/index.m3u8
 永远的0(日本战争片),https://vip1.lz-cdn7.com/20230523/16136_3fd5246f/index.m3u8
 偷书贼(美国战争片),https://vip1.lz-cdn7.com/20230522/16118_477c8484/index.m3u8
@@ -6402,27 +6406,27 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 斯大林格勒战役1993(德国战争片),https://vip.lz-cdn3.com/20230509/18860_bfb7c120/index.m3u8
 皇牌空战(哈萨克斯坦战争片),https://vip1.lz-cdn1.com/20230505/20970_b14d9ec3/index.m3u8
 隆美尔2012(德国战争片),https://vip1.lz-cdn7.com/20230504/15789_14b554b2/index.m3u8
-战争与和平1956(意大利 / 美国意大利 / 美国战争片),https://vip1.lz-cdn7.com/20230503/15783_791af66e/index.m3u8
+战争与和平1956(意大利/美国意大利/美国战争片),https://vip1.lz-cdn7.com/20230503/15783_791af66e/index.m3u8
 南部军(韩国战争片),https://vip.lzcdn2.com/20220517/6663_6a0bb7a1/index.m3u8
-验伤(爱尔兰 / 西班牙 / 比利时 / 法国战争片),https://vip1.lz-cdn7.com/20230430/15724_a5582c8b/index.m3u8
+验伤(爱尔兰/西班牙/比利时/法国战争片),https://vip1.lz-cdn7.com/20230430/15724_a5582c8b/index.m3u8
 空中的天使(南非战争片),https://vip1.lz-cdn7.com/20230428/15679_72631d8b/index.m3u8
 鬣狗之路(加拿大战争片),https://vip1.lz-cdn7.com/20221202/12274_429d87cc/index.m3u8
 兄弟2009(美国战争片),https://vip1.lz-cdn7.com/20230427/15654_500ae107/index.m3u8
 漠北十八勇士(大陆战争片),https://vip1.lz-cdn7.com/20230426/15620_247dda49/index.m3u8
-彼得一世2018(塞尔维亚 / 希腊战争片),https://vip1.lz-cdn7.com/20230425/15607_a3254cd8/index.m3u8
-欧洲特快车1991(丹麦 / 法国 / 德国 / 瑞典 / 瑞士战争片),https://vip1.lz-cdn7.com/20230421/15495_ca2fbba8/index.m3u8
+彼得一世2018(塞尔维亚/希腊战争片),https://vip1.lz-cdn7.com/20230425/15607_a3254cd8/index.m3u8
+欧洲特快车1991(丹麦/法国/德国/瑞典/瑞士战争片),https://vip1.lz-cdn7.com/20230421/15495_ca2fbba8/index.m3u8
 天与地1990(日本战争片),https://vip1.lz-cdn7.com/20230417/15429_76879cb1/index.m3u8
 法国大革命1989上(法国战争片),https://vip1.lz-cdn7.com/20230414/15382_3d9c4d61/index.m3u8
 法国大革命1989下(法国战争片),https://vip1.lz-cdn7.com/20230414/15383_8efe9af8/index.m3u8
 逃出桂河(英国战争片),https://vip1.lz-cdn7.com/20230414/15372_a1f259ad/index.m3u8
-斯大林格勒大血战上(苏联 / 美国 / 捷克斯洛伐克 / 东德战争片),https://vip1.lz-cdn7.com/20230414/15369_58fbcac8/index.m3u8
-斯大林格勒大血战下(苏联 / 美国 / 捷克斯洛伐克 / 东德战争片),https://vip1.lz-cdn7.com/20230414/15368_46e399b9/index.m3u8
+斯大林格勒大血战上(苏联/美国/捷克斯洛伐克/东德战争片),https://vip1.lz-cdn7.com/20230414/15369_58fbcac8/index.m3u8
+斯大林格勒大血战下(苏联/美国/捷克斯洛伐克/东德战争片),https://vip1.lz-cdn7.com/20230414/15368_46e399b9/index.m3u8
 战争安魂曲(英国战争片),https://vip1.lz-cdn7.com/20230413/15340_92465df9/index.m3u8
 生于七月四日(美国战争片),https://vip1.lz-cdn7.com/20230411/15304_b3ab32fa/index.m3u8
 入侵阿富汗(美国战争片),https://vip1.lz-cdn7.com/20230409/15251_39b45000/index.m3u8
 轻骑兵1987(澳大利亚战争片),https://vip.lz-cdn3.com/20230404/18518_e1e04329/index.m3u8
-莫斯科保卫战上(苏联 / 捷克斯洛伐克 / 东德 / 越南战争片),https://vip.lz-cdn16.com/20230402/15143_b44a557c/index.m3u8
-莫斯科保卫战下(苏联 / 捷克斯洛伐克 / 东德 / 越南战争片),https://vip.lz-cdn16.com/20230402/15145_334ba704/index.m3u8
+莫斯科保卫战上(苏联/捷克斯洛伐克/东德/越南战争片),https://vip.lz-cdn16.com/20230402/15143_b44a557c/index.m3u8
+莫斯科保卫战下(苏联/捷克斯洛伐克/东德/越南战争片),https://vip.lz-cdn16.com/20230402/15145_334ba704/index.m3u8
 敦刻尔克原声(英国战争片),https://vip.lz-cdn3.com/20220730/10363_5affa88f/index.m3u8
 敦刻尔克【国语】(英国战争片),https://vip.lz-cdn16.com/20230403/15407_f7878b75/index.m3u8
 海与毒药(日本战争片),https://vip1.lz-cdn7.com/20230402/15151_fed474f8/index.m3u8
@@ -6433,22 +6437,22 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 东游记1983(美国战争片),https://vip.lz-cdn3.com/20230320/18221_d57bd38a/index.m3u8
 杀戮战场1984(英国战争片),https://vip1.lz-cdn7.com/20230320/15024_a3d079b0/index.m3u8
 战火下(美国战争片),https://vip1.lz-cdn7.com/20230320/15022_694c39bd/index.m3u8
-撒哈拉(澳大利亚 / 美国战争片),https://vip1.lz-cdn7.com/20230318/15017_b07bb0c9/index.m3u8
-靡菲斯特(西德 / 匈牙利 / 奥地利战争片),https://vip1.lz-cdn7.com/20230312/14918_a8c18b17/index.m3u8
+撒哈拉(澳大利亚/美国战争片),https://vip1.lz-cdn7.com/20230318/15017_b07bb0c9/index.m3u8
+靡菲斯特(西德/匈牙利/奥地利战争片),https://vip1.lz-cdn7.com/20230312/14918_a8c18b17/index.m3u8
 地堡(法国战争片),https://vip.lz-cdn3.com/20230311/18077_4940d566/index.m3u8
 伊拉克碎片(美国战争片),https://vip.lz-cdn3.com/20230311/18074_cfdf9d7c/index.m3u8
-海狼1980(瑞士 / 英国 / 美国战争片),https://vip.lz-cdn3.com/20230311/18055_d33d387d/index.m3u8
+海狼1980(瑞士/英国/美国战争片),https://vip.lz-cdn3.com/20230311/18055_d33d387d/index.m3u8
 夺命狂花2023(大陆战争片),https://vip.lz-cdn3.com/20230309/18035_28b38290/index.m3u8
-A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4064bc2f/index.m3u8
+A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4064bc2f/index.m3u8
 战地童子(俄罗斯战争片),https://vip.lz-cdn3.com/20230307/18008_682131c9/index.m3u8
 弗朗德勒(法国战争片),https://vip1.lz-cdn7.com/20230306/14786_60d41113/index.m3u8
 童话2022(俄罗斯战争片),https://vip1.lz-cdn7.com/20230302/14660_a3d89bd9/index.m3u8
 没有出口的海(日本战争片),https://vip1.lz-cdn7.com/20230301/14640_efc51d38/index.m3u8
 勇敢的人2006(美国战争片),https://vip1.lz-cdn7.com/20230226/14570_22d202cd/index.m3u8
 佣兵传奇(西班牙战争片),https://vip1.lz-cdn7.com/20230224/14519_3f817cf2/index.m3u8
-兵临城下【国语】(爱尔兰 / 英国 / 法国 / 德国 / 美国战争片),https://vip.lz-cdn17.com/20230224/4019_c4eca03a/index.m3u8
+兵临城下【国语】(爱尔兰/英国/法国/德国/美国战争片),https://vip.lz-cdn17.com/20230224/4019_c4eca03a/index.m3u8
 希望与荣耀(英国战争片),https://vip1.lz-cdn7.com/20230224/14508_99780348/index.m3u8
-光荣岁月2006( 阿尔及利亚 / 法国 / 摩洛哥 / 比利时战争片),https://vip1.lz-cdn7.com/20230224/14502_0c14135c/index.m3u8
+光荣岁月2006( 阿尔及利亚/法国/摩洛哥/比利时战争片),https://vip1.lz-cdn7.com/20230224/14502_0c14135c/index.m3u8
 戈雅之魂(美国战争片),https://vip1.lz-cdn7.com/20230224/14500_fcefaacd/index.m3u8
 战火赤子心(美国战争片),https://vip.lz-cdn3.com/20230221/17840_db2d3181/index.m3u8
 渡江侦察记1954(大陆战争片),https://vip.lz-cdn3.com/20230221/17823_16eda6fb/index.m3u8
@@ -6473,16 +6477,16 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 开国大典(大陆战争片),https://vip1.lz-cdn7.com/20230210/14102_acfeab3c/index.m3u8
 中国女兵(台湾战争片),https://vip1.lz-cdn7.com/20230209/14081_f6fb3477/index.m3u8
 老虎连(美国战争片),https://vip1.lz-cdn7.com/20230209/14067_91dea02c/index.m3u8
-暴雨将至(马其顿 / 法国 / 英国战争片),https://vip1.lz-cdn7.com/20230208/14025_9b7714cd/index.m3u8
+暴雨将至(马其顿/法国/英国战争片),https://vip1.lz-cdn7.com/20230208/14025_9b7714cd/index.m3u8
 怒海追逐战(美国战争片),https://vip1.lz-cdn7.com/20230207/14018_84b296d4/index.m3u8
 日本海大海战：海行兮(日本战争片),https://vip.lz-cdn3.com/20230205/17540_0a520403/index.m3u8
 跨过鸭绿江2021(大陆战争片),https://vip1.lz-cdn1.com/20230117/20596_74f62b7f/index.m3u8
 北京55日(美国战争片),https://vip.lz-cdn3.com/20230131/17360_e8980c14/index.m3u8
-烽火母女泪(意大利 / 法国战争片),https://vip.lz-cdn3.com/20230131/17357_c80e0a18/index.m3u8
+烽火母女泪(意大利/法国战争片),https://vip.lz-cdn3.com/20230131/17357_c80e0a18/index.m3u8
 恐惧与欲望(美国战争片),https://vip1.lz-cdn7.com/20230130/13892_97c7e8d9/index.m3u8
 猎鹿人【英语】(美国战争片),https://vip1.lz-cdn7.com/20230128/13846_6dd606fa/index.m3u8
 猎鹿人【国语】(美国战争片),https://vip1.lz-cdn7.com/20230128/13845_789b5db8/index.m3u8
-黑太阳731(中国香港 / 中国大陆战争片),https://vip1.lz-cdn7.com/20230128/13837_04374c6c/index.m3u8
+黑太阳731(中国香港/中国大陆战争片),https://vip1.lz-cdn7.com/20230128/13837_04374c6c/index.m3u8
 白昼进攻(美国战争片),https://vip1.lz-cdn7.com/20230128/13828_183d92ad/index.m3u8
 风语者【英语】(美国战争片),https://vip1.lz-cdn7.com/20230127/13814_517584c1/index.m3u8
 风语者【国语】(美国战争片),https://vip1.lz-cdn7.com/20230127/13813_17246333/index.m3u8
@@ -6490,7 +6494,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 闪闪的红星(大陆战争片),https://vip.lz-cdn16.com/20230123/7487_16319e90/index.m3u8
 红色机尾(美国战争片),https://vip1.lz-cdn7.com/20230125/13759_3b2cfd03/index.m3u8
 战地钟声(美国战争片),https://vip1.lz-cdn7.com/20230123/13720_0daf043d/index.m3u8
-无主之地2001(波黑 / 斯洛文尼亚 / 意大利 / 法国 / 英国 / 比利时战争片),https://vip1.lz-cdn7.com/20230123/13719_5f0f441c/index.m3u8
+无主之地2001(波黑/斯洛文尼亚/意大利/法国/英国/比利时战争片),https://vip1.lz-cdn7.com/20230123/13719_5f0f441c/index.m3u8
 血战纳尔维克(挪威战争片),https://vip.lz-cdn3.com/20230123/17298_f86fe972/index.m3u8
 深入敌后(美国战争片),https://vip1.lz-cdn7.com/20230121/13648_2842ab23/index.m3u8
 深入敌后：危险营救(英国战争片),https://vip1.lz-cdn7.com/20230121/13647_4bf899f9/index.m3u8
@@ -6508,23 +6512,23 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 顶层楼房(美国战争片),https://vip1.lz-cdn7.com/20230115/13506_ac2d4667/index.m3u8
 上甘岭(大陆战争片),https://vip1.lz-cdn7.com/20230114/13496_8346eeec/index.m3u8
 高山下的花环1985(大陆战争片),https://vip1.lz-cdn7.com/20230113/13467_09cee196/index.m3u8
-永别了傻瓜(罗马尼亚 / 德国 / 比利时战争片),https://vip1.lz-cdn7.com/20230112/13423_01b4225f/index.m3u8
+永别了傻瓜(罗马尼亚/德国/比利时战争片),https://vip1.lz-cdn7.com/20230112/13423_01b4225f/index.m3u8
 我的战争2016(大陆战争片),https://vip1.lz-cdn7.com/20230104/13186_b88f56b4/index.m3u8
 神话2013(越南战争片),https://vip1.lz-cdn7.com/20230103/13162_4e78198f/index.m3u8
 五月五之战(墨西哥战争片),https://vip1.lz-cdn7.com/20230102/13140_a990a38e/index.m3u8
-萨拉热窝事件2014(奥地利 / 捷克战争片),https://vip1.lz-cdn7.com/20221227/12959_6bccce73/index.m3u8
-豹1963(意大利 / 法国战争片),https://vip1.lz-cdn7.com/20221226/12915_edfebdc5/index.m3u8
+萨拉热窝事件2014(奥地利/捷克战争片),https://vip1.lz-cdn7.com/20221227/12959_6bccce73/index.m3u8
+豹1963(意大利/法国战争片),https://vip1.lz-cdn7.com/20221226/12915_edfebdc5/index.m3u8
 凯撒大帝2002(美国/德国/意大利/荷兰战争片),https://vip.lz-cdn17.com/20221224/130_31af7550/index.m3u8
-阿尔及尔之战(意大利 / 阿尔及利亚战争片),https://vip1.lz-cdn7.com/20221225/12889_8e5468cb/index.m3u8
+阿尔及尔之战(意大利/阿尔及利亚战争片),https://vip1.lz-cdn7.com/20221225/12889_8e5468cb/index.m3u8
 随心所欲的五月2015(法国战争片),https://vip1.lz-cdn7.com/20221222/12807_bb56e9cf/index.m3u8
 万里归途(大陆战争片),https://vip1.lz-cdn1.com/20221216/19236_87dc300b/index.m3u8
-代号玛利亚(哥伦比亚 / 阿根廷 / 法国战争片),https://vip1.lz-cdn7.com/20221211/12578_fb38ff5b/index.m3u8
+代号玛利亚(哥伦比亚/阿根廷/法国战争片),https://vip1.lz-cdn7.com/20221211/12578_fb38ff5b/index.m3u8
 战争2015(丹麦战争片),https://vip1.lz-cdn7.com/20221201/12205_307013f9/index.m3u8
 战猪(美国战争片),https://vip1.lz-cdn7.com/20221201/12204_25033037/index.m3u8
-再见仍是朋友(塞尔维亚 / 德国战争片),https://vip1.lz-cdn7.com/20221130/12182_297346dd/index.m3u8
+再见仍是朋友(塞尔维亚/德国战争片),https://vip1.lz-cdn7.com/20221130/12182_297346dd/index.m3u8
 雪路(韩国战争片),https://vip.lz-cdn3.com/20221128/16359_c0491fdb/index.m3u8
 裸露在狼群(德国战争片),https://vip.lz-cdn3.com/20221127/16342_6e92e48e/index.m3u8
-一九四四(爱沙尼亚 / 芬兰战争片),https://vip.lz-cdn3.com/20221127/16329_4b505d71/index.m3u8
+一九四四(爱沙尼亚/芬兰战争片),https://vip.lz-cdn3.com/20221127/16329_4b505d71/index.m3u8
 美好的一天2015(西班牙战争片),https://vip1.lz-cdn7.com/20221126/12070_f4834360/index.m3u8
 第一小分队(俄罗斯战争片),https://vip1.lz-cdn7.com/20221126/12054_db9b98c0/index.m3u8
 二二六(日本战争片),https://vip.lz-cdn3.com/20221123/16219_32634b8c/index.m3u8
@@ -6537,19 +6541,19 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 乌里：外科手术式打击(印度战争片),https://vip.lz-cdn3.com/20221115/15930_6c2dc0fa/index.m3u8
 山2(土耳其战争片),https://vip.lzcdn2.com/20221113/22463_cd456d2a/index.m3u8
 宝物招领(美国战争片),https://vip.lz-cdn3.com/20221109/15682_c1c0c6c4/index.m3u8
-乌龟也会飞(伊朗 / 法国 / 伊拉克战争片),https://vip.lz-cdn3.com/20221109/15669_a3e0aa06/index.m3u8
+乌龟也会飞(伊朗/法国/伊拉克战争片),https://vip.lz-cdn3.com/20221109/15669_a3e0aa06/index.m3u8
 300勇士：帝国崛起(美国战争片),https://vip.lz-cdn3.com/20221109/15668_fac1c565/index.m3u8
-决战中途岛【英语】(中国大陆 / 中国香港 / 加拿大 / 美国战争片),https://vip.lz-cdn3.com/20220916/13587_43a2e395/index.m3u8
-决战中途岛【国语】(中国大陆 / 中国香港 / 加拿大 / 美国战争片),https://vip.lz-cdn3.com/20221107/15558_8a40c9b5/index.m3u8
-尤里西斯的凝视(希腊 / 法国 / 意大利 / 德国 / 英国 / 南斯拉夫 / 罗马尼亚 / 阿尔巴尼亚 / 波黑战争片),https://vip.lz-cdn3.com/20221105/15524_f38cc71c/index.m3u8
+决战中途岛【英语】(中国大陆/中国香港/加拿大/美国战争片),https://vip.lz-cdn3.com/20220916/13587_43a2e395/index.m3u8
+决战中途岛【国语】(中国大陆/中国香港/加拿大/美国战争片),https://vip.lz-cdn3.com/20221107/15558_8a40c9b5/index.m3u8
+尤里西斯的凝视(希腊/法国/意大利/德国/英国/南斯拉夫/罗马尼亚/阿尔巴尼亚/波黑战争片),https://vip.lz-cdn3.com/20221105/15524_f38cc71c/index.m3u8
 步步惊心2010(大陆战争片),https://vip1.lz-cdn1.com/20220418/2370_7ac30919/index.m3u8
-红男爵(德国 / 英国战争片),https://vip1.lz-cdn1.com/20221031/17985_b8458f97/index.m3u8
+红男爵(德国/英国战争片),https://vip1.lz-cdn1.com/20221031/17985_b8458f97/index.m3u8
 血染雪山堡【国语】(英国战争片),https://vip.lz-cdn3.com/20221030/15332_0bc86739/index.m3u8
 血染雪山堡【英语】(英国战争片),https://vip.lz-cdn3.com/20221030/15330_f10d89ee/index.m3u8
 永远的记忆之血战黎明前(大陆战争片),https://vip1.lz-cdn10.com/20221029/2886_4da60332/index.m3u8
-西线无战事2022(德国 / 美国 / 英国战争片),https://vip.lzcdn2.com/20221028/22014_c41c1b6e/index.m3u8
+西线无战事2022(德国/美国/英国战争片),https://vip.lzcdn2.com/20221028/22014_c41c1b6e/index.m3u8
 辛迪斯(格鲁吉亚战争片),https://vip.lzcdn2.com/20221027/21961_7076e9d0/index.m3u8
-石头不会忘记(德国 / 伊拉克战争片),https://vip.lz-cdn3.com/20221024/15102_92ce609d/index.m3u8
+石头不会忘记(德国/伊拉克战争片),https://vip.lz-cdn3.com/20221024/15102_92ce609d/index.m3u8
 地狱尖兵(俄罗斯战争片),https://vip.lzcdn2.com/20221022/21882_72953567/index.m3u8
 科利奥兰纳斯(英国战争片),https://vip1.lz-cdn1.com/20221021/17638_ea4f68f3/index.m3u8
 士兵的荣耀(大陆战争片),https://vip1.lz-cdn1.com/20221017/17473_f6ceb112/index.m3u8
@@ -6559,7 +6563,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 布里斯堡(美国战争片),https://vip.lz-cdn3.com/20221010/14651_0dd4697d/index.m3u8
 代号55(克罗地亚战争片),https://vip.lz-cdn3.com/20221010/14650_fc022ac7/index.m3u8
 绝地营救(大陆战争片),https://vip.lz-cdn3.com/20221007/14529_5b082dfc/index.m3u8
-柏林孤影(德国 / 法国 / 英国战争片),https://vip.lz-cdn3.com/20221004/14507_c70b1e9d/index.m3u8
+柏林孤影(德国/法国/英国战争片),https://vip.lz-cdn3.com/20221004/14507_c70b1e9d/index.m3u8
 特级英雄黄继光(大陆战争片),https://vip1.lz-cdn1.com/20221002/16965_333905a3/index.m3u8
 有史以来最棒的啤酒运送(美国战争片),https://vip.lz-cdn3.com/20220930/14370_d347edfd/index.m3u8
 信使2019(波兰战争片),https://vip.lz-cdn3.com/20220928/14256_87e86502/index.m3u8
@@ -6577,13 +6581,13 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 印第安纳波利斯号：勇者无惧(美国战争片),https://vip.lz-cdn3.com/20220919/13836_f5c62fca/index.m3u8
 英雄时代2011(英国战争片),https://vip.lz-cdn3.com/20220919/13825_bb2c663e/index.m3u8
 威士忌、探戈、狐步舞(美国战争片),https://vip.lz-cdn3.com/20220916/13635_2f1f80ea/index.m3u8
-国王的选择(挪威 / 瑞典 / 丹麦 / 爱尔兰战争片),https://vip.lz-cdn3.com/20220915/13536_9220fe66/index.m3u8
-铁皮鼓(西德 / 波兰 / 法国 / 南斯拉夫战争片),https://vip.lz15uu.com/20220914/94_ccc1fdfa/index.m3u8
+国王的选择(挪威/瑞典/丹麦/爱尔兰战争片),https://vip.lz-cdn3.com/20220915/13536_9220fe66/index.m3u8
+铁皮鼓(西德/波兰/法国/南斯拉夫战争片),https://vip.lz15uu.com/20220914/94_ccc1fdfa/index.m3u8
 亡命雷区(美国战争片),https://vip.lz-cdn3.com/20220914/13384_47f251cc/index.m3u8
 想念哥哥(韩国战争片),https://vip.lz-cdn3.com/20220913/13276_a41dd956/index.m3u8
 例外(英国战争片),https://vip.lz-cdn3.com/20220912/13229_a36eeef6/index.m3u8
 比利·林恩的中场战事(美国战争片),https://vip.lz-cdn3.com/20220911/13188_42f78b0e/index.m3u8
-雅多维尔围城战(爱尔兰 / 南非战争片),https://vip.lz-cdn3.com/20220910/13102_d27f512c/index.m3u8
+雅多维尔围城战(爱尔兰/南非战争片),https://vip.lz-cdn3.com/20220910/13102_d27f512c/index.m3u8
 斯大林格勒【原声】(俄罗斯战争片),https://vip1.lz-cdn.com/20220908/32099_91140917/index.m3u8
 斯大林格勒【国语】(俄罗斯战争片),https://vip1.lz-cdn.com/20220908/32098_7ec28390/index.m3u8
 瓦尔特保卫萨拉热窝1972(南斯拉夫战争片),https://vip1.lz-cdn.com/20220907/32072_363bd4ac/index.m3u8
@@ -6601,24 +6605,24 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 杀戮部队(美国战争片),https://vip.lz-cdn3.com/20220828/12165_db035aa9/index.m3u8
 那一天的管风琴(日本战争片),https://vip.lz-cdn3.com/20220828/12155_542a4cda/index.m3u8
 贞德(法国战争片),https://vip.lz-cdn3.com/20220826/12027_6e66f069/index.m3u8
-艾拉(土耳其 / 韩国战争片),https://vip.lz-cdn3.com/20220822/11889_cb15e2fd/index.m3u8
+艾拉(土耳其/韩国战争片),https://vip.lz-cdn3.com/20220822/11889_cb15e2fd/index.m3u8
 霍姆斯之雨(叙利亚 战争片),https://vip.lz-cdn3.com/20220821/11870_f70ea2fa/index.m3u8
 最后一个音符(希腊战争片),https://vip.lz-cdn3.com/20220822/11900_eda719fe/index.m3u8
 喀秋莎行动(俄罗斯战争片),https://vip1.lz-cdn1.com/20220820/14876_ee3b8aec/index.m3u8
 隐形同盟(德国战争片),https://vip.lz-cdn3.com/20220820/11796_55e60957/index.m3u8
 维克雷提(波兰战争片),https://vip.lz-cdn3.com/20220818/11649_e1ef0851/index.m3u8
 战争机器(美国战争片),https://vip.lz-cdn3.com/20220817/11636_a18a7970/index.m3u8
-鱼雷2019(比利时 / 英国 / 德国战争片),https://vip.lz-cdn3.com/20220817/11616_e2592e9d/index.m3u8
+鱼雷2019(比利时/英国/德国战争片),https://vip.lz-cdn3.com/20220817/11616_e2592e9d/index.m3u8
 代立军(韩国战争片),https://vip.lz-cdn3.com/20220817/11592_69d5367b/index.m3u8
 旅程终点2017(英国战争片),https://vip.lz-cdn3.com/20220816/11551_1eb3096c/index.m3u8
 南汉山城(韩国战争片),https://vip.lz-cdn3.com/20220816/11542_ddc93fe9/index.m3u8
-无名战士2017(芬兰 / 比利时 / 冰岛战争片),https://vip.lz-cdn3.com/20220816/11521_a0b87bea/index.m3u8
+无名战士2017(芬兰/比利时/冰岛战争片),https://vip.lz-cdn3.com/20220816/11521_a0b87bea/index.m3u8
 一袋弹子(法国战争片),https://vip.lz-cdn3.com/20220815/11484_e0871d20/index.m3u8
 至暗时刻(英国战争片),https://vip.lz-cdn3.com/20220815/11478_90c9a3c7/index.m3u8
 第十二个人2017(挪威战争片),https://vip.lz-cdn3.com/20220815/11445_ee65ad7c/index.m3u8
-狐步舞2017(以色列 / 瑞士 / 德国 / 法国战争片),https://vip.lz-cdn3.com/20220814/11426_12aabfc7/index.m3u8
+狐步舞2017(以色列/瑞士/德国/法国战争片),https://vip.lz-cdn3.com/20220814/11426_12aabfc7/index.m3u8
 战争未了(西班牙战争片),https://vip.lz-cdn3.com/20220812/11266_c723a5ea/index.m3u8
-冒牌上尉2017(德国 / 波兰 / 法国战争片),https://vip.lz-cdn3.com/20220811/11234_3e479cc8/index.m3u8
+冒牌上尉2017(德国/波兰/法国战争片),https://vip.lz-cdn3.com/20220811/11234_3e479cc8/index.m3u8
 我的上高(大陆战争片),https://vip.lz-cdn3.com/20220811/11176_0fafb57a/index.m3u8
 长津湖(大陆战争片),https://vip1.lz-cdn6.com/20220810/21437_e2632c6d/index.m3u8
 异域之末路英雄【粤语】(台湾战争片),https://vip1.lz-cdn6.com/20220810/21433_12e53d24/index.m3u8
@@ -6701,9 +6705,9 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 战马2011(美国战争片),https://vip1.lz-cdn1.com/20220529/6951_22aa0b1d/index.m3u8
 战舰波将金号1925(苏联战争片),https://vip1.lz-cdn1.com/20220529/6943_22d99b70/index.m3u8
 罗马，不设防的城市(意大利战争片),https://vip1.lz-cdn1.com/20220529/6937_222b2eb5/index.m3u8
-伯德街小岛(丹麦 / 英国 / 德国战争片),https://vip1.lz-cdn1.com/20220529/6924_b5796a88/index.m3u8
-地下1995(南斯拉夫 / 法国 / 德国 / 保加利亚 / 捷克 / 匈牙利 / 英国 / 美国战争片),https://vip1.lz-cdn1.com/20220529/6898_4d421bc4/index.m3u8
-被涂污的鸟(捷克 / 斯洛伐克 / 乌克兰战争片),https://vip1.lz-cdn1.com/20220529/6886_ec79d625/index.m3u8
+伯德街小岛(丹麦/英国/德国战争片),https://vip1.lz-cdn1.com/20220529/6924_b5796a88/index.m3u8
+地下1995(南斯拉夫/法国/德国/保加利亚/捷克/匈牙利/英国/美国战争片),https://vip1.lz-cdn1.com/20220529/6898_4d421bc4/index.m3u8
+被涂污的鸟(捷克/斯洛伐克/乌克兰战争片),https://vip1.lz-cdn1.com/20220529/6886_ec79d625/index.m3u8
 细细的红线1998(美国战争片),https://vip.lzcdn2.com/20220528/7748_39cde4c8/index.m3u8
 亚洲风暴(苏联战争片),https://vip.lzcdn2.com/20220528/7740_dec26797/index.m3u8
 影武者1980(日本战争片),https://vip.lzcdn2.com/20220528/7730_7d5d3580/index.m3u8
@@ -6713,12 +6717,12 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 西线无战事1930(美国战争片),https://vip1.lz-cdn1.com/20220527/6744_b28a0793/index.m3u8
 五月八月(香港战争片),https://vip.lzcdn2.com/20220525/7709_58e791cf/index.m3u8
 烽火少年1975(大陆战争片),https://vip.lzcdn2.com/20220525/7644_79a26c4d/index.m3u8
-德意志零年1948(意大利 / 法国 / 德国战争片),https://vip.lzcdn2.com/20220525/7567_f96cf7f1/index.m3u8
-象棋的故事(德国 / 奥地利战争片),https://vip1.lz-cdn10.com/20220426/1548_8638953e/index.m3u8
+德意志零年1948(意大利/法国/德国战争片),https://vip.lzcdn2.com/20220525/7567_f96cf7f1/index.m3u8
+象棋的故事(德国/奥地利战争片),https://vip1.lz-cdn10.com/20220426/1548_8638953e/index.m3u8
 奥斯维辛集中营的守卫(英国战争片),https://vip1.lz-cdn10.com/20220426/1521_cfb7d61f/index.m3u8
 镜子1975(苏联战争片),https://vip.lzcdn2.com/20220525/7524_4aeab957/index.m3u8
 从海底出击(西德战争片),https://vip1.lz-cdn1.com/20220524/6675_ce050673/index.m3u8
-类人猿行动(捷克 / 英国 / 美国 / 法国战争片),https://vip1.lz-cdn1.com/20220524/6663_d2d820f5/index.m3u8
+类人猿行动(捷克/英国/美国/法国战争片),https://vip1.lz-cdn1.com/20220524/6663_d2d820f5/index.m3u8
 蝴蝶的舌头(西班牙战争片),https://vip1.lz-cdn1.com/20220524/6601_ddc53d54/index.m3u8
 浩劫 上集1985(法国战争片),https://vip1.lz-cdn1.com/20220524/6595_79d593ed/index.m3u8
 浩劫 下集1985(法国战争片),https://vip1.lz-cdn1.com/20220524/6598_50501f89/index.m3u8
@@ -6767,9 +6771,9 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 笛吹川(日本战争片),https://vip1.lz-cdn1.com/20220518/6072_b8ff4d07/index.m3u8
 凡尔登，历史的幻影(法国战争片),https://vip1.lz-cdn1.com/20220518/6062_69c7c92d/index.m3u8
 海外特派员(美国战争片),https://vip1.lz-cdn1.com/20220518/6056_b5b1532b/index.m3u8
-红军与白军(匈牙利 / 苏联战争片),https://vip1.lz-cdn1.com/20220518/6052_b7a8f695/index.m3u8
+红军与白军(匈牙利/苏联战争片),https://vip1.lz-cdn1.com/20220518/6052_b7a8f695/index.m3u8
 虎！虎！虎！(日本战争片),https://vip1.lz-cdn1.com/20220518/6049_f163a519/index.m3u8
-日为吾兄月为吾妹(意大利 / 英国战争片),https://vip1.lz-cdn1.com/20220518/6028_00f6feac/index.m3u8
+日为吾兄月为吾妹(意大利/英国战争片),https://vip1.lz-cdn1.com/20220518/6028_00f6feac/index.m3u8
 奇幻核子战(美国战争片),https://vip1.lz-cdn1.com/20220518/6022_05531f72/index.m3u8
 我的归乡路(匈牙利战争片),https://vip1.lz-cdn1.com/20220518/5992_eedf8b0d/index.m3u8
 无望的人们(匈牙利战争片),https://vip1.lz-cdn1.com/20220518/5991_db9b8fdd/index.m3u8
@@ -6797,8 +6801,8 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 冷山2003(英国战争片),https://vip1.lz-cdn1.com/20220512/5410_f8d51cad/index.m3u8
 大地儿女【国语】(香港战争片),https://vip1.lz-cdn1.com/20220512/5344_8e5cc8a4/index.m3u8
 秋收起义(大陆战争片),https://vip1.lz-cdn1.com/20220512/5296_a250ff76/index.m3u8
-前哨(保加利亚 / 美国战争片),https://vip.lzcdn2.com/20220511/6192_aafe47fb/index.m3u8
-兵临城下(爱尔兰 / 英国 / 法国 / 德国 / 美国战争片),https://vip.lzcdn2.com/20220511/6204_8f60d2ea/index.m3u8
+前哨(保加利亚/美国战争片),https://vip.lzcdn2.com/20220511/6192_aafe47fb/index.m3u8
+兵临城下(爱尔兰/英国/法国/德国/美国战争片),https://vip.lzcdn2.com/20220511/6204_8f60d2ea/index.m3u8
 太阳帝国(美国战争片),https://vip.lzcdn2.com/20220511/6083_dafa85c0/index.m3u8
 巴顿将军(美国战争片),https://vip1.lz-cdn1.com/20220510/5219_cd544fcc/index.m3u8
 特别有种：致命行动(大陆战争片),https://vip1.lz-cdn1.com/20220510/5192_f13ee0c7/index.m3u8
@@ -6835,7 +6839,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 驯马手莫兰特(澳大利亚战争片),https://vip1.lz-cdn1.com/20220504/4279_8029a194/index.m3u8
 遥远的旅程(捷克斯洛伐克战争片),https://vip1.lz-cdn1.com/20220504/4277_96ca9722/index.m3u8
 安德烈·卢布廖夫(苏联战争片),https://vip.lzcdn2.com/20220503/5346_9d90e9fb/index.m3u8
-白色严冬(挪威 / 瑞典 / 法国战争片),https://vip.lzcdn2.com/20220503/5344_b2439657/index.m3u8
+白色严冬(挪威/瑞典/法国战争片),https://vip.lzcdn2.com/20220503/5344_b2439657/index.m3u8
 血战湘江(大陆战争片),https://vip.lzcdn2.com/20220503/5333_03a1abbe/index.m3u8
 娘子军传奇(大陆战争片),https://vip.lzcdn2.com/20220503/5321_031cdd0d/index.m3u8
 明月几时有(大陆战争片),https://vip.lzcdn2.com/20220503/5318_fe203c9c/index.m3u8
@@ -6847,11 +6851,11 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 远离人迹(法国战争片),https://vip.lzcdn2.com/20220502/5219_c071c7e7/index.m3u8
 决不撤退！(美国战争片),https://vip1.lz-cdn1.com/20220502/4189_cbc9456d/index.m3u8
 风雨天池寺(大陆战争片),https://vip1.lz-cdn1.com/20220502/4187_64cbd3d5/index.m3u8
-帝国的毁灭(德国 / 奥地利 / 意大利战争片),https://vip1.lz-cdn1.com/20220502/4160_ababa5ac/index.m3u8
+帝国的毁灭(德国/奥地利/意大利战争片),https://vip1.lz-cdn1.com/20220502/4160_ababa5ac/index.m3u8
 纳粹特攻队(美国战争片),https://vip1.lz-cdn1.com/20220502/4147_af2da439/index.m3u8
-鸟，孤儿和愚人(捷克斯洛伐克 / 法国战争片),https://vip1.lz-cdn1.com/20220502/4146_ec7501f8/index.m3u8
+鸟，孤儿和愚人(捷克斯洛伐克/法国战争片),https://vip1.lz-cdn1.com/20220502/4146_ec7501f8/index.m3u8
 奇遇1985(美国战争片),https://vip1.lz-cdn1.com/20220502/4139_5b87c7d8/index.m3u8
-屠杀令(意大利 / 法国战争片),https://vip1.lz-cdn1.com/20220502/4087_0a7f586a/index.m3u8
+屠杀令(意大利/法国战争片),https://vip1.lz-cdn1.com/20220502/4087_0a7f586a/index.m3u8
 十字军骑士(波兰战争片),https://vip1.lz-cdn1.com/20220502/4063_ff03610a/index.m3u8
 斯巴达300勇士(美国战争片),https://vip1.lz-cdn1.com/20220502/4103_6c8262b3/index.m3u8
 巴黎战火(法国战争片),https://vip.lzcdn2.com/20220501/5208_2241cbc8/index.m3u8
@@ -6874,7 +6878,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 无境之兽(美国战争片),https://vip.lzcdn2.com/20220429/4869_b9fda1f5/index.m3u8
 野火2014(日本战争片),https://vip.lzcdn2.com/20220429/4836_9cff525b/index.m3u8
 英雄小八路(大陆战争片),https://vip.lzcdn2.com/20220429/4834_fbaec133/index.m3u8
-战争的秘密(荷兰 / 比利时 / 卢森堡战争片),https://vip.lzcdn2.com/20220429/4823_e2e75171/index.m3u8
+战争的秘密(荷兰/比利时/卢森堡战争片),https://vip.lzcdn2.com/20220429/4823_e2e75171/index.m3u8
 奇袭胡家台(大陆战争片),https://vip1.lz-cdn1.com/20220428/3670_93479e7d/index.m3u8
 战火中的芭蕾(大陆战争片),https://vip1.lz-cdn1.com/20220428/3710_d759e80a/index.m3u8
 华沙起义2001(美国战争片),https://vip1.lz-cdn1.com/20220428/3733_7d1bfd84/index.m3u8
@@ -6891,7 +6895,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 太平轮(上),(大陆战争片),https://vip1.lz-cdn1.com/20220426/3446_f10c40e4/index.m3u8
 江南爱情故事(大陆战争片),https://vip1.lz-cdn1.com/20220426/3403_066eff26/index.m3u8
 近距离击杀(大陆战争片),https://vip1.lz-cdn1.com/20220425/3395_ead0637a/index.m3u8
-金橘(爱沙尼亚 / 格鲁吉亚战争片),https://vip.lzcdn2.com/20220425/4561_4871b25e/index.m3u8
+金橘(爱沙尼亚/格鲁吉亚战争片),https://vip.lzcdn2.com/20220425/4561_4871b25e/index.m3u8
 黄桥决战(大陆战争片),https://vip.lzcdn2.com/20220425/4551_4b329275/index.m3u8
 惊沙(大陆战争片),https://vip.lzcdn2.com/20220425/4549_9f3a0c08/index.m3u8
 南海的早晨(大陆战争片),https://vip.lzcdn2.com/20220425/4544_869758df/index.m3u8
@@ -6901,7 +6905,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 烈日阳光(俄罗斯战争片),https://vip1.lz-cdn10.com/20220423/1499_96219b45/index.m3u8
 天皇(美国战争片),https://vip.lzcdn2.com/20220425/4406_b685fe34/index.m3u8
 蛙人海底战(美国战争片),https://vip.lzcdn2.com/20220425/4402_2717bc16/index.m3u8
-鞑靼人的荒漠(意大利 / 法国 / 西德战争片),https://vip.lzcdn2.com/20220425/4359_f890de07/index.m3u8
+鞑靼人的荒漠(意大利/法国/西德战争片),https://vip.lzcdn2.com/20220425/4359_f890de07/index.m3u8
 大渡河(大陆战争片),https://vip1.lz-cdn1.com/20220424/3247_8ac688fa/index.m3u8
 海鹰(大陆战争片),https://vip1.lz-cdn1.com/20220424/3214_659a8c5e/index.m3u8
 飞越山海关(大陆战争片),https://vip1.lz-cdn1.com/20220424/3169_1f6c1f9f/index.m3u8
@@ -6961,7 +6965,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 可爱的中国2009(大陆战争片),https://vip1.lz-cdn1.com/20220418/2480_4ec8b5c0/index.m3u8
 鬼战车T34(苏联战争片),https://vip1.lz-cdn1.com/20220418/2478_66f8d681/index.m3u8
 沔州烽火(大陆战争片),https://vip1.lz-cdn1.com/20220418/2434_abd89b9f/index.m3u8
-黄石的孩子(澳大利亚 / 中国大陆 / 德国战争片),https://vip1.lz-cdn1.com/20220418/2421_1b70af66/index.m3u8
+黄石的孩子(澳大利亚/中国大陆/德国战争片),https://vip1.lz-cdn1.com/20220418/2421_1b70af66/index.m3u8
 东京审判2006(大陆战争片),https://vip.lzcdn2.com/20220417/3642_9c60ef60/index.m3u8
 喋血孤城(大陆战争片),https://vip1.lz-cdn1.com/20220418/2383_65bd52eb/index.m3u8
 南京！南京！(大陆战争片),https://vip.lzcdn2.com/20220417/3693_6c048a5e/index.m3u8
@@ -6993,7 +6997,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 林肯传(美国战争片),https://vip.lzcdn2.com/20220414/3386_731ca813/index.m3u8
 蓝十字勇士1955(波兰战争片),https://vip.lzcdn2.com/20220414/3389_6d2cf497/index.m3u8
 默默的小理河(大陆战争片),https://vip.lzcdn2.com/20220414/3356_5b4fb201/index.m3u8
-少女洛荷(德国 / 澳大利亚 / 英国战争片),https://vip.lzcdn2.com/20220414/3338_14ddda9d/index.m3u8
+少女洛荷(德国/澳大利亚/英国战争片),https://vip.lzcdn2.com/20220414/3338_14ddda9d/index.m3u8
 圣女贞德1948(美国战争片),https://vip.lzcdn2.com/20220414/3334_f98c4f5a/index.m3u8
 士兵之父1965(苏联战争片),https://vip.lzcdn2.com/20220414/3332_0b96ffab/index.m3u8
 双栖间谍(大陆战争片),https://vip.lzcdn2.com/20220414/3282_29cb6c35/index.m3u8
@@ -7004,10 +7008,10 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 步入辉煌(大陆战争片),https://vip.lzcdn2.com/20220414/3230_a81f453d/index.m3u8
 血案疑踪(大陆战争片),https://vip1.lz-cdn1.com/20220413/1912_019fd44f/index.m3u8
 神凤威龙(大陆战争片),https://vip1.lz-cdn1.com/20220413/1845_97b7adc4/index.m3u8
-霹雳红星(苏联 / 意大利战争片),https://vip1.lz-cdn1.com/20220412/1750_662659cd/index.m3u8
+霹雳红星(苏联/意大利战争片),https://vip1.lz-cdn1.com/20220412/1750_662659cd/index.m3u8
 天有眼【国语】(香港战争片),https://vip.lzcdn2.com/20220412/3137_bdb64790/index.m3u8
 公牛星座(俄罗斯战争片),https://vip.lzcdn2.com/20220410/2752_f6ff5b84/index.m3u8
-奥萨玛(阿富汗 / 爱尔兰 / 日本 / 伊朗 / 荷兰战争片),https://vip.lzcdn2.com/20220410/2747_f2dd2532/index.m3u8
+奥萨玛(阿富汗/爱尔兰/日本/伊朗/荷兰战争片),https://vip.lzcdn2.com/20220410/2747_f2dd2532/index.m3u8
 川岛芳子【国语】(香港战争片),https://vip1.lz-cdn1.com/20220409/1469_2c9a4d72/index.m3u8
 壮志豪情【国语】(香港战争片),https://vip1.lz-cdn1.com/20220409/1384_5c301e25/index.m3u8
 斯巴达克斯2004(美国战争片),https://vip1.lz-cdn1.com/20220408/1295_df66e578/index.m3u8
@@ -7022,28 +7026,28 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 等待黎明【国语】(香港战争片),https://vip1.lz-cdn1.com/20220405/1089_79a1ed56/index.m3u8
 爱人同志【国语】(香港战争片),https://vip1.lz-cdn1.com/20220405/1081_eb754cc7/index.m3u8
 圣诞快乐(法国战争片),https://vip1.lz-cdn1.com/20220405/1011_654b441d/index.m3u8
-地下1995(南斯拉夫 / 法国 / 德国 / 保加利亚 / 捷克 / 匈牙利 / 英国 / 美国战争片),https://vip1.lz-cdn1.com/20220405/1006_6ab163b9/index.m3u8
+地下1995(南斯拉夫/法国/德国/保加利亚/捷克/匈牙利/英国/美国战争片),https://vip1.lz-cdn1.com/20220405/1006_6ab163b9/index.m3u8
 希望与反抗(德国战争片),https://vip1.lz-cdn1.com/20220404/995_90d73d6b/index.m3u8
 光荣战役(美国战争片),https://vip1.lz-cdn1.com/20220404/979_29fd321b/index.m3u8
-奥斯曼中尉(土耳其 / 美国战争片),https://vip1.lz-cdn1.com/20220404/989_5583b42d/index.m3u8
+奥斯曼中尉(土耳其/美国战争片),https://vip1.lz-cdn1.com/20220404/989_5583b42d/index.m3u8
 1917(美国战争片),https://vip1.lz-cdn1.com/20220404/831_9320f5ee/index.m3u8
 太平洋的奇迹(日本战争片),https://vip1.lz-cdn1.com/20220403/783_a09fac19/index.m3u8
 结局终将壮烈(印度战争片),https://vip1.lz-cdn1.com/20220402/751_e6b25634/index.m3u8
 烽火逐金(大陆战争片),https://vip.lzcdn2.com/20220402/2111_a232e5e4/index.m3u8
 哈迪塞镇之战(英国战争片),https://vip.lzcdn2.com/20220401/1836_f79e1aa8/index.m3u8
-伯纳德行动(德国 / 奥地利战争片),https://vip.lzcdn2.com/20220401/1778_fa1ee056/index.m3u8
+伯纳德行动(德国/奥地利战争片),https://vip.lzcdn2.com/20220401/1778_fa1ee056/index.m3u8
 节选修订(美国战争片),https://vip.lzcdn2.com/20220401/1742_d40ad6cf/index.m3u8
 吾为君亡(日本战争片),https://vip.lzcdn2.com/20220331/1672_8dbd1ad5/index.m3u8
 向着炮火(韩国战争片),https://vip.lzcdn2.com/20220329/1177_959ee1ff/index.m3u8
 拆弹部队(美国战争片),https://vip.lzcdn2.com/20220329/1072_66c895ea/index.m3u8
 疯狗强尼(法国战争片),https://vip.lzcdn2.com/20220329/1082_9797f9bf/index.m3u8
 焦土之城(加拿大战争片),https://vip.lzcdn2.com/20220329/1093_de5ff4c6/index.m3u8
-必要的杀戮(波兰 / 挪威 / 爱尔兰 / 匈牙利 / 英国战争片),https://vip.lz-c.com/20220329/1021_15d208e0/index.m3u8
+必要的杀戮(波兰/挪威/爱尔兰/匈牙利/英国战争片),https://vip.lz-c.com/20220329/1021_15d208e0/index.m3u8
 战争与和平1966 一(苏联战争片),https://vip1.lz-cdn1.com/20220327/609_70e20196/index.m3u8
 战争与和平1966 二(苏联战争片),https://vip1.lz-cdn1.com/20220327/607_45aa7e58/index.m3u8
 战争与和平1966 三(苏联战争片),https://vip1.lz-cdn1.com/20220327/606_0a24108d/index.m3u8
 战争与和平1966 四(苏联战争片),https://vip1.lz-cdn1.com/20220327/608_c9f504e4/index.m3u8
-七天丧期(以色列 / 法国战争片),https://vip.lzcdn2.com/20220328/860_dd84e711/index.m3u8
+七天丧期(以色列/法国战争片),https://vip.lzcdn2.com/20220328/860_dd84e711/index.m3u8
 猛鹰突击兵团(英国战争片),https://vip.lzcdn2.com/20220327/834_694eeaa8/index.m3u8
 四四年八月(俄罗斯战争片),https://vip.lzcdn2.com/20220327/810_194207f1/index.m3u8
 五个人的天空(苏联战争片),https://vip.lzcdn2.com/20220327/795_ae6e1c0d/index.m3u8
@@ -7062,7 +7066,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 兄弟会2019(俄罗斯战争片),https://vip1.lz-cdn1.com/20220317/271_df49c6c4/index.m3u8
 模仿游戏(英国战争片),https://vip.lzcdn2.com/20220320/151_5a7bf75a/index.m3u8
 卢旺达饭店(英国战争片),https://vip.lzcdn2.com/20220320/150_535919cb/index.m3u8
-血战钢锯岭(澳大利亚 / 美国战争片),https://vip.lzcdn2.com/20220320/137_1f582d14/index.m3u8
+血战钢锯岭(澳大利亚/美国战争片),https://vip.lzcdn2.com/20220320/137_1f582d14/index.m3u8
 突破(斯洛文尼亚战争片),https://vip1.lz-cdn1.com/20220317/182_fcd2d4d7/index.m3u8
 奥斯维辛报告(斯洛伐克战争片),https://vip1.lz-cdn1.com/20220317/125_1e122725/index.m3u8
 天空(俄罗斯战争片),https://vip1.lz-cdn1.com/20220317/92_5f9d6e9b/index.m3u8
@@ -7077,10 +7081,15 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 
 
 
-淫妇(委内瑞拉 / 墨西哥伦理片)，https://v.gsuus.com/play/mep3QAyd/index.m3u8
+
+善良的姐妹(韩国伦理片),https://v.gsuus.com/play/BeXJL8ob/index.m3u8
+野猫少女(日本伦理片),https://v.gsuus.com/play/YaOwM4Qa/index.m3u8
+驯养年轻的儿媳(韩国伦理片),https://v.gsuus.com/play/nel3xD1d/index.m3u8
+奇妙的性伴侣(韩国伦理片),https://v.gsuus.com/play/yb8J1Ore/index.m3u8
+淫妇(委内瑞拉/墨西哥伦理片)，https://v.gsuus.com/play/mep3QAyd/index.m3u8
 密室中的少女(日本伦理片)，https://v.gsuus.com/play/nel355Vd/index.m3u8
 模特的欲望(韩国伦理片)，https://v.gsuus.com/play/9aAVD5Bb/index.m3u8
-卧室(法国 / 比利时伦理片)，https://v.gsuus.com/play/YaOwY6Ba/index.m3u8
+卧室(法国/比利时伦理片)，https://v.gsuus.com/play/YaOwY6Ba/index.m3u8
 争艳女王(菲律宾伦理片)，https://v.gsuus.com/play/RdGl6Wre/index.m3u8
 浪女47 桃色忠臣藏(日本伦理片)，https://v.gsuus.com/play/1aKpX7xb/index.m3u8
 熟女的诱惑2(韩国伦理片)，https://v.gsuus.com/play/9aAVqXlb/index.m3u8
@@ -7166,7 +7175,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 四人行 (菲律宾伦理片)，https://v.gsuus.com/play/Xe0KooVd/index.m3u8
 恋爱公主：美臀诱惑 (日本伦理片)，https://v.gsuus.com/play/rb2Mq7Ka/index.m3u8
 女大学生管家 (韩国伦理片)，https://v.gsuus.com/play/yb8VYkje/index.m3u8
-第34条法则 (巴西 / 法国伦理片)，https://v.gsuus.com/play/mep1V1ra/index.m3u8
+第34条法则 (巴西/法国伦理片)，https://v.gsuus.com/play/mep1V1ra/index.m3u8
 家庭主妇的身体秘密(韩国伦理片)，https://v.gsuus.com/play/1aKDE2Mb/index.m3u8
 晚熟之情(菲律宾伦理片)，https://v.gsuus.com/play/9aApO23e/index.m3u8
 欲闷小姨子(日本伦理片)，https://v.gsuus.com/play/pen16JWd/index.m3u8
@@ -7210,7 +7219,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 隔壁房间里有个日本女孩很开放(韩国伦理片)，https://v.gsuus.com/play/rb2ZVOWb/index.m3u8
 禁忌4(美国伦理片)，https://v.gsuus.com/play/RdGm45ya/index.m3u8
 色情男女(中国香港伦理片)，https://v.gsuus.com/play/nelwGO6d/index.m3u8
-姐姐朋友：离婚的第二天(日本 / 韩国伦理片)，https://v.gsuus.com/play/nelwn47d/index.m3u8
+姐姐朋友：离婚的第二天(日本/韩国伦理片)，https://v.gsuus.com/play/nelwn47d/index.m3u8
 欢愉(法国伦理片)，https://v.gsuus.com/play/1aMvpr1b/index.m3u8
 床上观戏(中国大陆伦理片)，https://v.gsuus.com/play/DbDj5gke/index.m3u8
 爱恋(法国伦理片)，https://v.gsuus.com/play/nelwn4Vd/index.m3u8
@@ -7247,7 +7256,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 百合的雨声(日本伦理片)，https://v.gsuus.com/play/zbqnBNRd/index.m3u8
 暧昧陶魂(菲律宾伦理片)，https://v.gsuus.com/play/xe70x21a/index.m3u8
 叛我更幸福(巴西伦理片)，https://v.gsuus.com/play/zbqnpDpd/index.m3u8
-她爱，欧洲(瑞士 / 德国伦理片)，https://v.gsuus.com/play/wdLzBW4a/index.m3u8
+她爱，欧洲(瑞士/德国伦理片)，https://v.gsuus.com/play/wdLzBW4a/index.m3u8
 女人至上(菲律宾伦理片)，https://v.gsuus.com/play/QdJxEEoa/index.m3u8
 联合惩治(菲律宾伦理片)，https://v.gsuus.com/play/0dNB9N6d/index.m3u8
 儿子的妻子(韩国伦理片)，https://v.gsuus.com/play/Qe183ZdJ/index.m3u8
@@ -7262,7 +7271,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 玩火险恶局(菲律宾伦理片)，https://v.gsuus.com/play/6dBjxGJd/index.m3u8
 被捉奸的妻子朋友(韩国伦理片)，https://v.gsuus.com/play/9avrN6ra/index.m3u8
 女仆的诱惑(韩国伦理片)，https://v.gsuus.com/play/Qe1PgJmd/index.m3u8
-小唐璜情史(法国 / 意大利伦理片)，https://v.gsuus.com/play/NbWX5oQd/index.m3u8
+小唐璜情史(法国/意大利伦理片)，https://v.gsuus.com/play/NbWX5oQd/index.m3u8
 两个淘气的姐妹(韩国伦理片)，https://v.gsuus.com/play/0dNylPLb/index.m3u8
 邪恶入侵(菲律宾伦理片)，https://v.gsuus.com/play/oeEmYANe/index.m3u8
 少女的性技巧(韩国伦理片)，https://v.gsuus.com/play/PdRDpOEa/index.m3u8
@@ -7276,7 +7285,7 @@ A计划2021(德国 / 以色列战争片),https://vip1.lz-cdn1.com/20230306/20694
 被驯服的女人(韩国伦理片)，https://v.gsuus.com/play/7e5XYpYd/index.m3u8
 三人行(菲律宾伦理片)，https://v.gsuus.com/play/7axwDWBe/index.m3u8
 野花(菲律宾伦理片)，https://v.gsuus.com/play/vbmgozGe/index.m3u8
-色戒2007 未删减版(中国台湾 / 中国大陆 / 美国伦理片)，https://v.gsuus.com/play/0dNyWrmb/index.m3u8
+色戒2007 未删减版(中国台湾/中国大陆/美国伦理片)，https://v.gsuus.com/play/0dNyWrmb/index.m3u8
 淫乱书生(韩国伦理片)，https://v.gsuus.com/play/vbm6O6Rd/index.m3u8
 仙人掌旅馆(韩国伦理片)，https://v.gsuus.com/play/ZdPGxK2b/index.m3u8
 狼心不轨(香港伦理片)，https://v.gsuus.com/play/9avxy5gd/index.m3u8
