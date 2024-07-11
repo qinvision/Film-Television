@@ -31,14 +31,14 @@ CCTV-12,http://110.7.130.46:8096/tsfile/live/0012_1.m3u8
 CCTV-13,http://110.7.130.46:8096/tsfile/live/0013_1.m3u8
 CCTV-14,http://110.7.130.46:8096/tsfile/live/0014_1.m3u8
 CCTV-15,http://110.7.130.46:8096/tsfile/live/0014_2.m3u8
-内蒙古卫视,http://110.7.130.46:8096/tsfile/live/0018_1.m3u8
+内蒙古新闻综合(卡),http://110.7.130.46:8096/tsfile/live/0018_1.m3u8
 浙江卫视,http://110.7.130.46:8096/tsfile/live/0124_1.m3u8
 江苏卫视,http://110.7.130.46:8096/tsfile/live/0127_1.m3u8
 湖北卫视,http://110.7.130.46:8096/tsfile/live/0132_1.m3u8
 广东卫视,http://110.7.130.46:8096/tsfile/live/0125_1.m3u8
 山西卫视,http://110.7.130.46:8096/tsfile/live/0118_1.m3u8
 贵州卫视,http://110.7.130.46:8096/tsfile/live/0120_1.m3u8
-上海卫视,http://110.7.130.46:8096/tsfile/live/0107_1.m3u8
+东方卫视,http://110.7.130.46:8096/tsfile/live/0107_1.m3u8
 辽宁卫视,http://110.7.130.46:8096/tsfile/live/0121_1.m3u8
 山东卫视,http://110.7.130.46:8096/tsfile/live/0131_1.m3u8
 黑龙江卫视,http://110.7.130.46:8096/tsfile/live/0143_1.m3u8
