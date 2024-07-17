@@ -32,7 +32,6 @@ titv,http://shuma04.chunfengyun.top:8080/live/2/hls.m3u8
 全球财经,http://shuma04.chunfengyun.top:8080/live/64/hls.m3u8
 人间卫视,http://shuma04.chunfengyun.top:8080/live/101/hls.m3u8
 三立综合,http://shuma04.chunfengyun.top:8080/live/31/hls.m3u8
-新唐人,http://shuma04.chunfengyun.top:8080/live/51/hls.m3u8
 亚洲旅游,http://shuma04.chunfengyun.top:8080/live/10/hls.m3u8
 影剧,http://shuma04.chunfengyun.top:8080/live/88/hls.m3u8
 影迷,http://shuma04.chunfengyun.top:8080/live/92/hls.m3u8
