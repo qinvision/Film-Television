@@ -1,6 +1,29 @@
 ㋀  ㋁  ㋂  ㋃  ㋄  ㋅  ㋆  ㋇  ㋈  ㋉  ㋊  ㋋ 
 ㏠  ㏡  ㏢  ㏣  ㏤  ㏥  ㏦  ㏧  ㏨  ㏩  ㏪  ㏫  ㏬  ㏭  ㏮  ㏯  ㏰  ㏱  ㏲  ㏳  ㏴  ㏵  ㏶  ㏷  ㏸  ㏹  ㏺  ㏻  ㏼  ㏽  ㏾
 ㋆㏳更新,#genre#
+CCTV1,http://old.juren.cn:82/live/CCTV1hd-8M/live.m3u8
+CCTV2,http://old.juren.cn:82/live/CCTV2hd-8M/live.m3u8
+CCTV3,http://old.juren.cn:82/live/CCTV3hd-8M/live.m3u8
+CCTV4,http://old.juren.cn:82/live/CCTV4hd-8M/live.m3u8
+CCTV5,http://old.juren.cn:82/live/CCTV5hd-8M/live.m3u8
+CCTV5+,http://old.juren.cn:82/live/CCTV5+hd-8M/live.m3u8
+CCTV6,http://old.juren.cn:82/live/CCTV6hd-8M/live.m3u8
+CCTV7,http://old.juren.cn:82/live/CCTV7hd-8M/live.m3u8
+CCTV8,http://old.juren.cn:82/live/CCTV8hd-8M/live.m3u8
+CCTV9,http://old.juren.cn:82/live/CCTV9hd-8M/live.m3u8
+CCTV10,http://old.juren.cn:82/live/CCTV10hd-8M/live.m3u8
+CCTV11,http://old.juren.cn:82/live/CCTV11hd-8M/live.m3u8
+CCTV12,http://old.juren.cn:82/live/CCTV12hd-8M/live.m3u8
+CCTV13,http://old.juren.cn:82/live/CCTV13hd-8M/live.m3u8
+CCTV14,http://old.juren.cn:82/live/CCTV14hd-8M/live.m3u8
+CCTV15,http://old.juren.cn:82/live/CCTV15hd-8M/live.m3u8
+CCTV16,http://old.juren.cn:82/live/CCTV16hd-8M/live.m3u8
+CCTV17,http://old.juren.cn:82/live/CCTV17hd-8M/live.m3u8
+CETV1,http://old.juren.cn:82/live/CETV1hd-8M/live.m3u8
+CETV1(标清),http://old.juren.cn:82/live/CETV1-1500k/live.m3u8
+CETV2(标清),http://old.juren.cn:82/live/CETV2-1500k/live.m3u8
+CETV3(标清),http://old.juren.cn:82/live/CETV3-1500k/live.m3u8
+CETV4(标清),http://old.juren.cn:82/live/CETV4-1500k/live.m3u8
 安徽卫视,http://old.juren.cn:82/live/AHWShd-8M/live.m3u8
 北京卫视,http://old.juren.cn:82/live/BJWShd-8M/live.m3u8
 福建东南卫视,http://old.juren.cn:82/live/DNWShd-8M/live.m3u8
