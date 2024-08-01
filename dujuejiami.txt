@@ -1832,7 +1832,10 @@ CETV-4,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-
+杀戮列车2024(印度动作片),https://v.cdnlz12.com/20240731/16103_2f49fc20/index.m3u8
+殊死一搏2024(大陆动作片),https://v.cdnlz3.com/20240731/25178_f37a1fec/index.m3u8
+末路老奶2024(瑞士 / 美国动作片),https://v.cdnlz3.com/20240730/25177_45967119/index.m3u8
+哪吒·魔童归来2024(大陆动作片),https://v.cdnlz21.com/20240730/1277_4404b960/index.m3u8
 谜误2024(大陆动作片),https://v.cdnlz12.com/20240728/16008_826f9f15/index.m3u8
 龙拳小子Ⅱ2024(大陆动作片),https://v.cdnlz3.com/20240728/25131_1713af6b/index.m3u8
 谈判专家(西班牙动作片),https://v.cdnlz3.com/20240728/25121_b8742cf4/index.m3u8
@@ -6168,7 +6171,12 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 
 
 
-
+孤独的吸血少女(日本伦理片)，	https://v.gsuus.com/play/9aAVG4lb/index.m3u8
+性交易2(菲律宾伦理片)，https://v.gsuus.com/play/Yer3xOpa/index.m3u8
+灰姑娘成人版(美国伦理片)，https://v.gsuus.com/play/Rb4Bo0ke/index.m3u8
+黑人男友的同居生活(韩国伦理片)，https://v.gsuus.com/play/nel3ol7d/index.m3u8
+精牌特务：少女突击队(日本伦理片)，https://v.gsuus.com/play/rb20p8Ke/index.m3u8
+欲望之岛(菲律宾伦理片)，https://v.gsuus.com/play/5eVEDvMd/index.m3u8
 搜寻伊娃(德国伦理片)，https://v.gsuus.com/play/pen3WL5a/index.m3u8
 女老师2(韩国伦理片)，https://v.gsuus.com/play/YaOwpmEa/index.m3u8
 魅魔猎人(日本伦理片)，https://v.gsuus.com/play/9b6Ep3Na/index.m3u8
