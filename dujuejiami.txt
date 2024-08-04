@@ -1969,7 +1969,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-
+醉后一拳(大陆动作片),https://v.cdnlz12.com/20240803/16179_6cd1d337/index.m3u8
 杀戮列车2024(印度动作片),https://v.cdnlz12.com/20240731/16103_2f49fc20/index.m3u8
 殊死一搏2024(大陆动作片),https://v.cdnlz3.com/20240731/25178_f37a1fec/index.m3u8
 末路老奶2024(瑞士 / 美国动作片),https://v.cdnlz3.com/20240730/25177_45967119/index.m3u8
@@ -2290,7 +2290,10 @@ CETV-4,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-
+鬼舞村:诅咒起源(印度尼西亚恐怖片),https://v.cdnlz12.com/20240803/16183_1e798c28/index.m3u8
+朱朱的故事2021(尼日利亚/法国恐怖片),https://v.cdnlz12.com/20240802/16171_87cf5c9d/index.m3u8
+玛克辛(美国恐怖片),https://v.cdnlz12.com/20240802/16170_131c0ff5/index.m3u8
+鬼天厦(台湾恐怖片),https://v.cdnlz3.com/20240802/25236_3402cd81/index.m3u8
 陌生人：第一章2024(美国恐怖片),https://v.cdnlz12.com/20240729/16030_04bb4648/index.m3u8
 绝命幽灵船2011(美国恐怖片),https://v.cdnlz21.com/20240729/1269_0df768fd/index.m3u8
 苦差事2011(巴西恐怖片),,https://v.cdnlz3.com/20240729/25156_e1ace9be/index.m3u8
