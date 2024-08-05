@@ -2199,7 +2199,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-醉后一拳(大陆动作片),https://v.cdnlz12.com/20240803/16179_6cd1d337/index.m3u8
+醉后一拳2024(大陆动作片),https://v.cdnlz12.com/20240803/16179_6cd1d337/index.m3u8
 杀戮列车2024(印度动作片),https://v.cdnlz12.com/20240731/16103_2f49fc20/index.m3u8
 殊死一搏2024(大陆动作片),https://v.cdnlz3.com/20240731/25178_f37a1fec/index.m3u8
 末路老奶2024(瑞士 / 美国动作片),https://v.cdnlz3.com/20240730/25177_45967119/index.m3u8
@@ -2519,11 +2519,11 @@ CETV-4,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-
-鬼舞村:诅咒起源(印度尼西亚恐怖片),https://v.cdnlz12.com/20240803/16183_1e798c28/index.m3u8
+饥饿英亩2023(英国恐怖片),https://v.cdnlz12.com/20240805/16213_143cee9c/index.m3u8
+鬼舞村:诅咒起源2024(印度尼西亚恐怖片),https://v.cdnlz12.com/20240803/16183_1e798c28/index.m3u8
 朱朱的故事2021(尼日利亚/法国恐怖片),https://v.cdnlz12.com/20240802/16171_87cf5c9d/index.m3u8
-玛克辛(美国恐怖片),https://v.cdnlz12.com/20240802/16170_131c0ff5/index.m3u8
-鬼天厦(台湾恐怖片),https://v.cdnlz3.com/20240802/25236_3402cd81/index.m3u8
+玛克辛2024(美国恐怖片),https://v.cdnlz12.com/20240802/16170_131c0ff5/index.m3u8
+鬼天厦2024(台湾恐怖片),https://v.cdnlz3.com/20240802/25236_3402cd81/index.m3u8
 陌生人：第一章2024(美国恐怖片),https://v.cdnlz12.com/20240729/16030_04bb4648/index.m3u8
 绝命幽灵船2011(美国恐怖片),https://v.cdnlz21.com/20240729/1269_0df768fd/index.m3u8
 苦差事2011(巴西恐怖片),,https://v.cdnlz3.com/20240729/25156_e1ace9be/index.m3u8
@@ -6538,7 +6538,14 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 
 
 
-
+你还爱我妈(日本伦理片)，https://v.gsuus.com/play/mep30grd/index.m3u8
+课后记忆(韩国伦理片)，https://v.gsuus.com/play/lej3l2za/index.m3u8
+姐妹性交换 (韩国伦理片)，https://v.gsuus.com/play/yb8JJGLe/index.m3u8
+隔壁女孩2(韩国伦理片)，https://v.gsuus.com/play/rb200yNe/index.m3u8
+大胸女友 (韩国伦理片)，https://v.gsuus.com/play/Xe0xxN3e/index.m3u8
+情人:妻子的外遇 (韩国伦理片)，https://v.gsuus.com/play/Rb4BBjke/index.m3u8
+淫欲模特(韩国伦理片)，https://v.gsuus.com/play/1aKppBnb/index.m3u8
+性爱游戏 (韩国伦理片)，https://v.gsuus.com/play/Xe0xz6Ve/index.m3u8
 女大学生的红色日记(韩国伦理片)，https://v.gsuus.com/play/DbDgLpna/index.m3u8
 爱欲灵媒师(日本伦理片)，https://v.gsuus.com/play/Ddw3DMwd/index.m3u8
 残存(菲律宾伦理片)，https://v.gsuus.com/play/Pdy3GZPa/index.m3u8
