@@ -175,7 +175,7 @@ CCTV-9纪录,http://113.118.13.150:808/hls/27/index.m3u8
 CCTV-10科教,http://113.118.13.150:808/hls/28/index.m3u8
 CCTV-11戏曲,http://113.118.13.150:808/hls/29/index.m3u8
 CCTV-12社会与法,http://113.118.13.150:808/hls/30/index.m3u8
-“CCTV-13新闻,http://113.118.13.150:808/hls/31/index.m3u8
+CCTV-13新闻,http://113.118.13.150:808/hls/31/index.m3u8
 CCTV-14少儿,http://113.118.13.150:808/hls/32/index.m3u8
 CCTV-15高清,http://113.118.13.150:808/hls/102/index.m3u8
 CCTV-16奥林匹克,http://113.118.13.150:808/hls/169/index.m3u8
@@ -6716,8 +6716,8 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 
 
 
-
-
+欲女大翻身(日本伦理片)，https://v.gsuus.com/play/yb8JQrje/index.m3u8
+全裸监禁(日本伦理片)，https://v.gsuus.com/play/nel3rWjd/index.m3u8
 催眠舞蹈团(韩国伦理片)，https://v.gsuus.com/play/9aAV37pb/index.m3u8
 家庭教师(日本伦理片)，https://v.gsuus.com/play/Yer3ANBa/index.m3u8
 老千的目的(韩国伦理片)，https://v.gsuus.com/play/yb8J5Age/index.m3u8
