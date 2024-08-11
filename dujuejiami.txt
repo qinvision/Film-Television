@@ -2070,7 +2070,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 
-
+跨界任务2024(韩国动作片),https://v.cdnlz21.com/20240811/1457_9bbadbac/index.m3u8
 热血天使2024(大陆动作片),https://v.cdnlz12.com/20240810/16302_eb141faf/index.m3u8
 大明锦衣之暗夜风云2019(大陆动作片),https://v.cdnlz12.com/20240809/16300_decc9406/index.m3u8
 跨界任务2024(韩国动作片),https://v.cdnlz21.com/20240809/1366_575e1f8b/index.m3u8
@@ -2394,7 +2394,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-
+亲友皆死2024(美国恐怖片),https://v.cdnlz12.com/20240810/16309_1f44b8ee/index.m3u8
 黑暗来临2010(美国恐怖片),https://v.cdnlz12.com/20240809/16299_938b0c92/index.m3u8
 米老鼠的捕鼠夹2024(美国恐怖片),https://v.cdnlz12.com/20240807/16234_caa5b877/index.m3u8
 饥饿英亩2023(英国恐怖片),https://v.cdnlz12.com/20240805/16213_143cee9c/index.m3u8
@@ -6405,7 +6405,13 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 
 
 
-
+爱情蛙跳跳(日本伦理片)，https://v.gsuus.com/play/rb203vAe/index.m3u8
+开放性婚姻(日本伦理片)，https://v.gsuus.com/play/yb8Jk6re/index.m3u8
+性爱笔记本(日本伦理片)，https://v.gsuus.com/play/nel3JzJd/index.m3u8
+交换：朋友的妻(韩国伦理片)，https://v.gsuus.com/play/1aKpPgrb/index.m3u8
+无限恶女 红色房间(日本伦理片)，https://v.gsuus.com/play/qaQyYo7a/index.m3u8
+扑杀援交妹(日本伦理片)，https://v.gsuus.com/play/yb8JpxWe/index.m3u8
+网红生死战(日本伦理片)，https://v.gsuus.com/play/Yer3Lq4a/index.m3u8
 蛇舌(日本伦理片)，https://v.gsuus.com/play/pen3ERYa/index.m3u8
 犯罪娇妻(日本伦理片)，https://v.gsuus.com/play/Yer3zJEa/index.m3u8
 岳母的身体本能(韩国伦理片)，https://v.gsuus.com/play/9aAV0wOb/index.m3u8
