@@ -3,6 +3,26 @@
 凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视香港台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+财经资讯台,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
 ******************************************************************************************************************************************************************
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 🔻酒店源🔻,#genre#
