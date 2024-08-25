@@ -1,5 +1,5 @@
 2024/08/25,#genre#
-星视界,#genre#
+
 TVB 翡翠台,https://test.zapi.us.kg/?id=feicui
 TVB 无线新闻台,https://test.zapi.us.kg/?id=tvb-news
 TVB 黄金翡翠台,https://test.zapi.us.kg/?id=golden-jade
