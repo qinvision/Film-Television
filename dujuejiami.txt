@@ -1,4 +1,4 @@
-2024/09/10,#genre#
+2024/09/11,#genre#
 CCTV电影频道,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 电影点播资源,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 暂时停更下线,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
