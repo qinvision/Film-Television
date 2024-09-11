@@ -2,34 +2,6 @@
 CCTV电影频道,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 电影点播资源,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 暂时停更下线,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-4K超高清电影.1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
-深圳财经生活,http://php.jdshipin.com:8880/TVOD/iptv.php?id=szcjsh
-广东4K超高清,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gd4k
-湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
-湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
-湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
-湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
-湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-峨眉电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy
-湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
-湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
-海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
-江西教育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-新视觉,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 📺酒店源,#genre#
