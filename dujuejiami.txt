@@ -1,4 +1,4 @@
-2024/09/12,#genre#
+2024/09/13,#genre#
 CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 电影点播资源,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 暂时停更下线,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
