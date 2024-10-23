@@ -341,7 +341,7 @@ CCTV-世界地理,http://111.225.95.129:33333/hls/159/index.m3u8
 测试源4,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-pₒₚc电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+pₒₚc,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 TVB翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -349,7 +349,7 @@ TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 靖天电影台 ,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+TVB亚洲,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
@@ -357,7 +357,6 @@ TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 SET-iNEWS,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-未知,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 TVB(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 TVBJ1 ,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
