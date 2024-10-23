@@ -351,9 +351,22 @@ CCTV-世界地理,http://111.225.95.129:33333/hls/159/index.m3u8
 翡翠台,http://ali.hlspull.yximgs.com/live/FEICUI6632.flv
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVB明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+
+Plus综合频代,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+pₒₚc电影频代,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+TVB新闻频代,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVB翡翠频代,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB明珠频代,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB赛马频代,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVBJ1综合美,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVB新闻频美,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+TVB翡翠频泰,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+凤凰中文频代,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯频代,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港频代,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 测试源5,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
