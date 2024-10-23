@@ -340,6 +340,31 @@ CCTV-世界地理,http://111.225.95.129:33333/hls/159/index.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 测试源4,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+pₒₚc电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+TVB翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+靖天电影台 ,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+SET-iNEWS,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+未知,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+TVB(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+TVBJ1 ,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVB新闻频道,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+TVB赛马频道,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+
 无线新闻频道,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线翡翠频道,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 无线华丽频道,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
@@ -352,21 +377,7 @@ CCTV-世界地理,http://111.225.95.129:33333/hls/159/index.m3u8
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-Plus综合频代,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-pₒₚc电影频代,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-TVB新闻频代,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-TVB翡翠频代,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVB明珠频代,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-TVB赛马频代,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-TVBJ1综合美,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-TVB新闻频美,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-TVB翡翠频泰,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-凤凰中文频代,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯频代,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港频代,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 测试源5,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
