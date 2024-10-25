@@ -610,7 +610,7 @@ tvbs新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 多米尼克：凤凰崛起2024(美国动作片),https://v.cdnlz3.com/20241017/28071_d4f4c13d/index.m3u8
 叛影浪客2024(印度尼西亚动作片),https://v.cdnlz3.com/20241017/28064_1b323e42/index.m3u8
 龙骨遗冢2024(大陆动作片),https://v.cdnlz3.com/20241010/27673_e25ff5e4/index.m3u8
-亚兹拉尔(爱沙尼亚/美国动作片),https://v.cdnlz12.com/20241007/17307_f4dd954a/index.m3u8
+亚兹拉尔2024(爱沙尼亚/美国动作片),https://v.cdnlz12.com/20241007/17307_f4dd954a/index.m3u8
 超能公主2024(大陆动作片),https://v.cdnlz12.com/20241006/17290_14aa16d4/index.m3u8
 女特警之逆战2024(大陆动作片),https://v.cdnlz12.com/20241002/17227_c72a634b/index.m3u8
 赶尽杀绝Ⅱ2024(意大利动作片),https://v.cdnlz12.com/20240929/17195_5dd8c74d/index.m3u8
@@ -730,20 +730,20 @@ tvbs新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 浴血狙击2024(大陆动作片),https://v.cdnlz12.com/20240629/15425_2d628948/index.m3u8
 关中诡事之雾隐藏棺2024(大陆动作片),,https://v.cdnlz3.com/20240626/24147_0f6e311b/index.m3u8
 疯狂的麦克斯：狂暴女神2024(澳大利亚/美国动作片),https://v.cdnlz12.com/20240625/15393_1d2424e9/index.m3u8
-特遣侦查(美国动作片),https://v.cdnlz12.com/20240625/15392_0a4a3c0b/index.m3u8
-黑暗森林(大陆动作片),https://v.cdnlz3.com/20240624/24043_09b2f996/index.m3u8
-空军一号坠落(美国动作片),https://v.cdnlz21.com/20240623/702_aa876083/index.m3u8
-狙击精英之纳米危机(大陆动作片),https://v.cdnlz12.com/20240622/15377_f5de5a6d/index.m3u8
+特遣侦查2024(美国动作片),https://v.cdnlz12.com/20240625/15392_0a4a3c0b/index.m3u8
+黑暗森林2024(大陆动作片),https://v.cdnlz3.com/20240624/24043_09b2f996/index.m3u8
+空军一号坠落2024(美国动作片),https://v.cdnlz21.com/20240623/702_aa876083/index.m3u8
+狙击精英之纳米危机2024(大陆动作片),https://v.cdnlz12.com/20240622/15377_f5de5a6d/index.m3u8
 伤痕累累2024(美国动作片),https://v.cdnlz12.com/20240622/15373_c9034b8f/index.m3u8
-触发警报(美国动作片),https://v.cdnlz12.com/20240621/15348_367514f6/index.m3u8
-九龙城寨之围城 国语(香港动作片),https://v.cdnlz3.com/20240621/23931_0923f192/index.m3u8
-九龙城寨之围城 粤语(香港动作片),https://v.cdnlz12.com/20240621/15286_3ea699af/index.m3u8
-狄仁杰之大幻术师(大陆动作片),https://v.cdnlz12.com/20240616/15217_7ae3eaf3/index.m3u8
-战心时刻(大陆动作片),https://v.cdnlz12.com/20240616/15216_66451ef1/index.m3u8
-维和防暴队(大陆动作片),https://v.cdnlz3.com/20240613/23684_2cfccdbc/index.m3u8
+触发警报2024(美国动作片),https://v.cdnlz12.com/20240621/15348_367514f6/index.m3u8
+九龙城寨之围城【国语】2024(香港动作片),https://v.cdnlz3.com/20240621/23931_0923f192/index.m3u8
+九龙城寨之围城【粤语】2024(香港动作片),https://v.cdnlz12.com/20240621/15286_3ea699af/index.m3u8
+狄仁杰之大幻术师2024(大陆动作片),https://v.cdnlz12.com/20240616/15217_7ae3eaf3/index.m3u8
+战心时刻2024(大陆动作片),https://v.cdnlz12.com/20240616/15216_66451ef1/index.m3u8
+维和防暴队2024(大陆动作片),https://v.cdnlz3.com/20240613/23684_2cfccdbc/index.m3u8
 制暴2024(大陆动作片),https://v.cdnlz12.com/20240606/15025_020a279f/index.m3u8
-动作巨星2(美国动作片),https://v.cdnlz12.com/20240604/14951_46e5fadc/index.m3u8
-特技狂人(美国动作片),https://v.cdnlz12.com/20240603/14932_2ee7b764/index.m3u8
+动作巨星Ⅱ2024(美国动作片),https://v.cdnlz12.com/20240604/14951_46e5fadc/index.m3u8
+特技狂人2024(美国动作片),https://v.cdnlz12.com/20240603/14932_2ee7b764/index.m3u8
 少林僵尸天极(香港动作片),https://v.cdnlz21.com/20240602/380_92fb746a/index.m3u8
 仿生超极限(其它动作片),https://v.cdnlz12.com/20240602/14887_40bbd784/index.m3u8
 西部狂野(大陆动作片),https://v.cdnlz19.com/20240528/34942_aff0e7d0/index.m3u8
