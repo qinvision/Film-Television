@@ -768,7 +768,40 @@ Astv亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u
 华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-
+////////////////////////////////////////////////////////////////////
+BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
+CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
+CRIME INVESTI GATION,http://37.27.111.214:8080/live/29/hls.m3u8
+DW NEWS,http://37.27.111.214:8080/live/46/hls.m3u8
+HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+HITS,http://37.27.111.214:8080/live/28/hls.m3u8
+momo,http://37.27.111.214:8080/live/3/hls.m3u8
+MTV,http://37.27.111.214:8080/live/25/hls.m3u8
+Nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8
+nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
+TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
+TV5 MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
+博斯高球1,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯無限,http://37.27.111.214:8080/live/15/hls.m3u8
+博斯運動1,http://37.27.111.214:8080/live/14/hls.m3u8
+电影,http://37.27.111.214:8080/live/11/hls.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+動畫台,http://37.27.111.214:8080/live/57/hls.m3u8
+互動英語,http://37.27.111.214:8080/live/54/hls.m3u8
+華視新聞,http://37.27.111.214:8080/live/8/hls.m3u8
+龍華電影台,http://37.27.111.214:8080/live/19/hls.m3u8
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
+民視第一台,http://37.27.111.214:8080/live/4/hls.m3u8
+三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+幸福空間,http://37.27.111.214:8080/live/26/hls.m3u8
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+豬哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 
 
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
