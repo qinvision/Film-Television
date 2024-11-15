@@ -161,9 +161,6 @@ CCTV15-音乐,http://113.220.235.19:9999/tsfile/live/0015_1.m3u8
 武汉联通源,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-邵阳电信源,#genre#
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 爱看直播源,#genre#
@@ -232,16 +229,9 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 港澳台电视,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-无线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 NHK新闻频英,http://61.221.215.25:8800/hls/51/index.m3u8
 tvbs闽南频特,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧频特,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -254,27 +244,49 @@ tvbs闽南频特,http://61.221.215.25:8800/hls/9/index.m3u8
 amc电影频英,http://61.221.215.25:8800/hls/43/index.m3u8
 ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
 Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 Astv亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽台,http://php.jdshipin.com/smt.php?id=Tvbjade
-星河台,http://php.jdshipin.com/smt.php?id=Xinhe
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+////////////////////////////////////////////////////////////////////////////
+BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
+CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
+CRIME INVESTI GATION,http://37.27.111.214:8080/live/29/hls.m3u8
+Degrassi The Next Generation (720p),https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8
+DW NEWS,http://37.27.111.214:8080/live/46/hls.m3u8
+Fuji TV NEXT (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&checkedby:iptvcat.com
+HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+HITS,http://37.27.111.214:8080/live/28/hls.m3u8
+momo,http://37.27.111.214:8080/live/3/hls.m3u8
+MTV,http://37.27.111.214:8080/live/25/hls.m3u8
+Nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8
+nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
+Showtime Next East,http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
+TV5 MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
+博斯高球1,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯無限,http://37.27.111.214:8080/live/15/hls.m3u8
+博斯運動1,http://37.27.111.214:8080/live/14/hls.m3u8
+电影,http://37.27.111.214:8080/live/11/hls.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+動畫台,http://37.27.111.214:8080/live/57/hls.m3u8
+互動英語,http://37.27.111.214:8080/live/54/hls.m3u8
+華視新聞,http://37.27.111.214:8080/live/8/hls.m3u8
+龍華電影台,http://37.27.111.214:8080/live/19/hls.m3u8
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
+民視第一台,http://37.27.111.214:8080/live/4/hls.m3u8
+三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+幸福空間,http://37.27.111.214:8080/live/26/hls.m3u8
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+豬哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 动作片1115,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
