@@ -10625,6 +10625,52 @@ HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
 珠江经济台,https://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 蜻蜓电台源,#genre#
+中国古典音乐https://radio.chinesemusicworld.com/chinesemusic.ogg?_=1
+CCTV中央电视台音频
+CCTV1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+CCTV2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+CCTV3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+CCTV4,https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+CCTV5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+CCTV6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+CCTV7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+CCTV8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+CCTV9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+CCTV10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+CCTV11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+CCTV12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+CCTV13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+CCTV14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+CCTV15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+CCTV17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+CCTV4欧洲,https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
+CCTV4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+CNR中央人民广播电台
+CNR1中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR2经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR3音乐之声,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR4经典音乐广播,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR5台海之声,https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR6神州之声,https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR7大湾区之声,https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR8民族之声,https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR9文艺之声,https://ngcdn009.cnr.cn/live/wyzs/index.m3u8
+CNR10老年之声,https://ngcdn010.cnr.cn/live/lnzs/index.m3u8
+CNR11藏语广播,https://ngcdn011.cnr.cn/live/zygb/index.m3u8
+CNR12阅读之声,https://ngcdn012.cnr.cn/live/ylgb/index.m3u8
+CNR13维语广播,https://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR14⾹港之声,https://ngcdn014.cnr.cn/live/xgzs/index.m3u8
+CNR15中国交通广播,https://ngcdn001.cnr.cn/live/gsgljtgb/index.m3u8
+CNR16中国乡村之声,https://ngcdn016.cnr.cn/live/xczs/index.m3u8
+CNR17哈萨克语广播,https://ngcdn017.cnr.cn/live/hygb/index.m3u8
+CRI中国国际广播电台
+CRI华语环球(CRI Chinese Service),https://sk.cri.cn/hyhq.m3u8
+环球资讯广播(CRI News Radio),https://sk.cri.cn/905.m3u8
+CRI世界华声(粤客闽潮方言广播 海峡飞虹),https://sk.cri.cn/hxfh.m3u8
+CRI EZFM 轻松调频,https://sk.cri.cn/915.m3u8
+HITFM 劲曲调频,https://sk.cri.cn/887.m3u8
 安徽
 安徽交通广播,https://lhttp-hw.qtfm.cn/live/1949/64k.mp3
 安徽经济广播,https://lhttp-hw.qtfm.cn/live/4916/64k.mp3
