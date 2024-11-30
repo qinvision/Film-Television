@@ -10500,122 +10500,80 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 拯救大兵瑞恩(美国战争片),https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
 【结束】
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-泰国电台源,#genre#
+TICK TOCK,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-
-FM 95ลูกทุ่งมหานคร,https://live-org-01-cdn.mcot.net/radiocdn_edge/fm95.stream_aac/playlist.m3u8
-FM 96.5คลื่นความคิด,https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/playlist.m3u8
-FM 97.5Mellow,https://live-org-01-cdn.mcot.net/radiocdn_edge/fm975.stream_aac/playlist.m3u8
-FM 99Active Radio,https://live-org-01-cdn.mcot.net/radiocdn_edge/fm99.stream_aac/playlist.m3u8
-FM 100.5News Network,https://live-org-01-cdn.mcot.net/radiocdn_edge/fm1005.stream_aac/playlist.m3u8
-FM 105.5SMOOTH FM 105.5,https://live-org-01-cdn.mcot.net/radiocdn_edge/fm1055.stream_aac/chunklist.m3u8
-FM 107MET107,https://live-org-01-cdn.mcot.net/radiocdn_edge/fm107.stream_aac/playlist.m3u8
-
-北方地区FM
-
-สุโขทัย,https://lb-media.mcot.net/RegionRadio/Sukhothai.stream_aac/chunklist_w267232369.m3u8
-แพร่,https://lb-media.mcot.net/RegionRadio/Phrae.stream_aac/playlist.m3u8
-ตาก,https://lb-media.mcot.net/RegionRadio/Tak.stream_aac/playlist.m3u8
-น่าน,https://lb-media.mcot.net/RegionRadio/Nan.stream_aac/playlist.m3u8
-พิจิตร,https://lb-media.mcot.net/RegionRadio/Phichit.stream_aac/playlist.m3u8
-พิษณุโลก,https://lb-media.mcot.net/RegionRadio/Phitsanulok.stream_aac/playlist.m3u8
-ลำปาง,https://lb-media.mcot.net/RegionRadio/Lamphang.stream_aac/playlist.m3u8
-อุตรดิตถ์,https://lb-media.mcot.net/RegionRadio/Utradit.stream_aac/playlist.m3u8
-เชียงราย,https://lb-media.mcot.net/RegionRadio/ChiangRai.stream_aac/playlist.m3u8
-เชียงใหม่,https://lb-media.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8
-แม่ฮ่องสอน,https://lb-media.mcot.net/RegionRadio/MaeHongSon.stream_aac/playlist.m3u8
-
-谷歌翻译
-素可泰,https://lb-media.mcot.net/RegionRadio/Sukhothai.stream_aac/chunklist_w267232369.m3u8
-传播,https://lb-media.mcot.net/RegionRadio/Phrae.stream_aac/playlist.m3u8
-干燥,https://lb-media.mcot.net/RegionRadio/Tak.stream_aac/playlist.m3u8
-南,https://lb-media.mcot.net/RegionRadio/Nan.stream_aac/playlist.m3u8
-披集府,https://lb-media.mcot.net/RegionRadio/Phichit.stream_aac/playlist.m3u8
-彭世洛,https://lb-media.mcot.net/RegionRadio/Phitsanulok.stream_aac/playlist.m3u8
-南邦府,https://lb-media.mcot.net/RegionRadio/Lamphang.stream_aac/playlist.m3u8
-程逸府,https://lb-media.mcot.net/RegionRadio/Utradit.stream_aac/playlist.m3u8
-清莱,https://lb-media.mcot.net/RegionRadio/ChiangRai.stream_aac/playlist.m3u8
-清迈,https://lb-media.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8
-夜丰颂,https://lb-media.mcot.net/RegionRadio/MaeHongSon.stream_aac/playlist.m3u8
--------------------------------------------------------------------------------------------------------------------------------------------
-东北地区FM
-
-
-กาฬสินธุ์,https://lb-media.mcot.net/RegionRadio/Kalasin.stream_aac/playlist.m3u8
-นครพนม,https://lb-media.mcot.net/RegionRadio/NakhonPhanom.stream_aac/playlist.m3u8
-นครราชสีมา,https://lb-media.mcot.net/RegionRadio/NakhonRatchasima.stream_aac/playlist.m3u8
-บุรีรัมย์,https://lb-media.mcot.net/RegionRadio/BuriRam.stream_aac/playlist.m3u8
-ศรีสะเกษ,https://lb-media.mcot.net/RegionRadio/SiSaKet.stream_aac/playlist.m3u8
-สกลนคร,https://lb-media.mcot.net/RegionRadio/SakonNakhon.stream_aac/playlist.m3u8
-หนองคาย,https://lb-media.mcot.net/RegionRadio/NongKhai.stream_aac/playlist.m3u8
-อุดรธานี,https://lb-media.mcot.net/RegionRadio/UdonThani.stream_aac/playlist.m3u8
-อุบลราชธานี,https://lb-media.mcot.net/RegionRadio/UbonRatchathani.stream_aac/playlist.m3u8
-เลย,https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8
-谷歌翻译
-加拉信,https://lb-media.mcot.net/RegionRadio/Kalasin.stream_aac/playlist.m3u8
-那空帕农,https://lb-media.mcot.net/RegionRadio/NakhonPhanom.stream_aac/playlist.m3u8
-呵叻,https://lb-media.mcot.net/RegionRadio/NakhonRatchasima.stream_aac/playlist.m3u8
-武里南,https://lb-media.mcot.net/RegionRadio/BuriRam.stream_aac/playlist.m3u8
-四色菊,https://lb-media.mcot.net/RegionRadio/SiSaKet.stream_aac/playlist.m3u8
-沙功那空,https://lb-media.mcot.net/RegionRadio/SakonNakhon.stream_aac/playlist.m3u8
-廊开,https://lb-media.mcot.net/RegionRadio/NongKhai.stream_aac/playlist.m3u8
-乌隆他尼,https://lb-media.mcot.net/RegionRadio/UdonThani.stream_aac/playlist.m3u8
-乌汶叻差他尼,https://lb-media.mcot.net/RegionRadio/UbonRatchathani.stream_aac/playlist.m3u8
-根本不,https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8
---------------------------------------------------------------------------------------------------------------------------------------------------
-中部地区FM
-
-กาญจนบุรี,https://lb-media.mcot.net/RegionRadio/Kanchanaburi.stream_aac/playlist.m3u8
-จันทบุรี,https://lb-media.mcot.net/RegionRadio/Chanthaburi.stream_aac/chunklist_w927399497.m3u8
-ชลบุรี,https://lb-media.mcot.net/RegionRadio/Chonburi.stream_aac/playlist.m3u8
-ตราด,https://lb-media.mcot.net/RegionRadio/Trad.stream_aac/playlist.m3u8
-ประจวบคีรีขันธ์,https://lb-media.mcot.net/RegionRadio/PrachuapKhiriKhan.stream_aac/playlist.m3u8
-ระยอง,https://lb-media.mcot.net/RegionRadio/Rayong.stream_aac/playlist.m3u8
-สิงห์บุรี,https://lb-media.mcot.net/RegionRadio/SingBuri.stream_aac/playlist.m3u8
-谷歌翻译
-
-北碧府,https://lb-media.mcot.net/RegionRadio/Kanchanaburi.stream_aac/playlist.m3u8
-尖竹汶府,https://lb-media.mcot.net/RegionRadio/Chanthaburi.stream_aac/chunklist_w927399497.m3u8
-春武里府,https://lb-media.mcot.net/RegionRadio/Chonburi.stream_aac/playlist.m3u8
-达叻府,https://lb-media.mcot.net/RegionRadio/Trad.stream_aac/playlist.m3u8
-巴蜀府,https://lb-media.mcot.net/RegionRadio/PrachuapKhiriKhan.stream_aac/playlist.m3u8
-罗勇府,https://lb-media.mcot.net/RegionRadio/Rayong.stream_aac/playlist.m3u8
-信武里府,https://lb-media.mcot.net/RegionRadio/SingBuri.stream_aac/playlist.m3u8
-
--------------------------------------------------------------------------------------------------------------------------------------------
-南方地区FM
-
-กระบี่,https://lb-media.mcot.net/RegionRadio/Krabi.stream_aac/playlist.m3u8
-ชุมพร,https://lb-media.mcot.net/RegionRadio/Chumphon.stream_aac/playlist.m3u8
-ตรัง,https://lb-media.mcot.net/RegionRadio/Trang.stream_aac/playlist.m3u8
-นครศรีธรรมราช,https://lb-media.mcot.net/RegionRadio/NakhonSiThammarat.stream_aac/playlist.m3u8
-ปัตตานี,https://lb-media.mcot.net/RegionRadio/Pattani.stream_aac/playlist.m3u8
-พัทลุง,https://lb-media.mcot.net/RegionRadio/Phatthalung.stream_aac/playlist.m3u8
-ภูเก็ต,https://lb-media.mcot.net/RegionRadio/Phuket.stream_aac/playlist.m3u8
-ยะลา,https://lb-media.mcot.net/RegionRadio/Yala.stream_aac/playlist.m3u8
-ระนอง,https://lb-media.mcot.net/RegionRadio/Ranong.stream_aac/playlist.m3u8
-สงขลา,https://lb-media.mcot.net/RegionRadio/Songkhla.stream_aac/playlist.m3u8
-สตูล,https://lb-media.mcot.net/RegionRadio/Satun.stream_aac/playlist.m3u8
-สุราษฎร์ธานี,https://lb-media.mcot.net/RegionRadio/SuratThani.stream_aac/playlist.m3u8
-หลังสวน,https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8
-谷歌翻译,
-剑,https://lb-media.mcot.net/RegionRadio/Krabi.stream_aac/playlist.m3u8
-春蓬,https://lb-media.mcot.net/RegionRadio/Chumphon.stream_aac/playlist.m3u8
-董里,https://lb-media.mcot.net/RegionRadio/Trang.stream_aac/playlist.m3u8
-那空是贪玛叻,https://lb-media.mcot.net/RegionRadio/NakhonSiThammarat.stream_aac/playlist.m3u8
-北大年府,https://lb-media.mcot.net/RegionRadio/Pattani.stream_aac/playlist.m3u8
-博他仑,https://lb-media.mcot.net/RegionRadio/Phatthalung.stream_aac/playlist.m3u8
-普吉岛,https://lb-media.mcot.net/RegionRadio/Phuket.stream_aac/playlist.m3u8
-亚拉,https://lb-media.mcot.net/RegionRadio/Yala.stream_aac/playlist.m3u8
-拉廊府,https://lb-media.mcot.net/RegionRadio/Ranong.stream_aac/playlist.m3u8
-宋卡府,https://lb-media.mcot.net/RegionRadio/Songkhla.stream_aac/playlist.m3u8
-沙敦,https://lb-media.mcot.net/RegionRadio/Satun.stream_aac/playlist.m3u8
-素叻他尼,https://lb-media.mcot.net/RegionRadio/SuratThani.stream_aac/playlist.m3u8
-花园后面,https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8
-
-
-
-
-
-
+1950 年最热门歌曲,https://nl4.mystreaming.net/tt/1950/icecast.audio
+1951 年最热门歌曲,https://nl4.mystreaming.net/tt/1951/icecast.audio
+1952 年最热门歌曲,https://nl4.mystreaming.net/tt/1952/icecast.audio
+1953 年最热门歌曲,https://nl4.mystreaming.net/tt/1953/icecast.audio
+1954 年最热门歌曲,https://nl4.mystreaming.net/tt/1954/icecast.audio
+1955 年最热门歌曲,https://nl4.mystreaming.net/tt/1955/icecast.audio
+1956 年最热门歌曲,https://nl4.mystreaming.net/tt/1956/icecast.audio
+1957 年最热门歌曲,https://nl4.mystreaming.net/tt/1957/icecast.audio
+1958 年最热门歌曲,https://nl4.mystreaming.net/tt/1958/icecast.audio
+1959 年最热门歌曲,https://nl4.mystreaming.net/tt/1959/icecast.audio
+1960 年最热门歌曲,https://nl4.mystreaming.net/tt/1960/icecast.audio
+1961 年最热门歌曲,https://nl4.mystreaming.net/tt/1961/icecast.audio
+1962 年最热门歌曲,https://nl4.mystreaming.net/tt/1962/icecast.audio
+1963 年最热门歌曲,https://nl4.mystreaming.net/tt/1963/icecast.audio
+1964 年最热门歌曲,https://nl4.mystreaming.net/tt/1964/icecast.audio
+1965 年最热门歌曲,https://nl4.mystreaming.net/tt/1965/icecast.audio
+1966 年最热门歌曲,https://nl4.mystreaming.net/tt/1966/icecast.audio
+1967 年最热门歌曲,https://nl4.mystreaming.net/tt/1967/icecast.audio
+1968 年最热门歌曲,https://nl4.mystreaming.net/tt/1968/icecast.audio
+1969 年最热门歌曲,https://nl4.mystreaming.net/tt/1969/icecast.audio
+1970 年最热门歌曲,https://nl4.mystreaming.net/tt/1970/icecast.audio
+1971 年最热门歌曲,https://nl4.mystreaming.net/tt/1971/icecast.audio
+1972 年最热门歌曲,https://nl4.mystreaming.net/tt/1972/icecast.audio
+1973 年最热门歌曲,https://nl4.mystreaming.net/tt/1973/icecast.audio
+1974 年最热门歌曲,https://nl4.mystreaming.net/tt/1974/icecast.audio
+1975 年最热门歌曲,https://nl4.mystreaming.net/tt/1975/icecast.audio
+1976 年最热门歌曲,https://nl4.mystreaming.net/tt/1976/icecast.audio
+1977 年最热门歌曲,https://nl4.mystreaming.net/tt/1977/icecast.audio
+1978 年最热门歌曲,https://nl4.mystreaming.net/tt/1978/icecast.audio
+1979 年最热门歌曲,https://nl4.mystreaming.net/tt/1979/icecast.audio
+1980 年最热门歌曲,https://nl4.mystreaming.net/tt/1980/icecast.audio
+1981 年最热门歌曲,https://nl4.mystreaming.net/tt/1981/icecast.audio
+1982 年最热门歌曲,https://nl4.mystreaming.net/tt/1982/icecast.audio
+1983 年最热门歌曲,https://nl4.mystreaming.net/tt/1983/icecast.audio
+1984 年最热门歌曲,https://nl4.mystreaming.net/tt/1984/icecast.audio
+1985 年最热门歌曲,https://nl4.mystreaming.net/tt/1985/icecast.audio
+1986 年最热门歌曲,https://nl4.mystreaming.net/tt/1986/icecast.audio
+1987 年最热门歌曲,https://nl4.mystreaming.net/tt/1987/icecast.audio
+1988 年最热门歌曲,https://nl4.mystreaming.net/tt/1988/icecast.audio
+1989 年最热门歌曲,https://nl4.mystreaming.net/tt/1989/icecast.audio
+1990 年最热门歌曲,https://nl4.mystreaming.net/tt/1990/icecast.audio
+1991 年最热门歌曲,https://nl4.mystreaming.net/tt/1991/icecast.audio
+1992 年最热门歌曲,https://nl4.mystreaming.net/tt/1992/icecast.audio
+1993 年最热门歌曲,https://nl4.mystreaming.net/tt/1993/icecast.audio
+1994 年最热门歌曲,https://nl4.mystreaming.net/tt/1994/icecast.audio
+1995 年最热门歌曲,https://nl4.mystreaming.net/tt/1995/icecast.audio
+1996 年最热门歌曲,https://nl4.mystreaming.net/tt/1996/icecast.audio
+1997 年最热门歌曲,https://nl4.mystreaming.net/tt/1997/icecast.audio
+1998 年最热门歌曲,https://nl4.mystreaming.net/tt/1998/icecast.audio
+1999 年最热门歌曲,https://nl4.mystreaming.net/tt/1999/icecast.audio
+2000 年最热门歌曲,https://nl4.mystreaming.net/tt/2000/icecast.audio
+2001 年最热门歌曲,https://nl4.mystreaming.net/tt/2001/icecast.audio
+2002 年最热门歌曲,https://nl4.mystreaming.net/tt/2002/icecast.audio
+2003 年最热门歌曲,https://nl4.mystreaming.net/tt/2003/icecast.audio
+2004 年最热门歌曲,https://nl4.mystreaming.net/tt/2004/icecast.audio
+2005 年最热门歌曲,https://nl4.mystreaming.net/tt/2005/icecast.audio
+2006 年最热门歌曲,https://nl4.mystreaming.net/tt/2006/icecast.audio
+2007 年最热门歌曲,https://nl4.mystreaming.net/tt/2007/icecast.audio
+2008 年最热门歌曲,https://nl4.mystreaming.net/tt/2008/icecast.audio
+2009 年最热门歌曲,https://nl4.mystreaming.net/tt/2009/icecast.audio
+2010 年最热门歌曲,https://nl4.mystreaming.net/tt/2010/icecast.audio
+2011 年最热门歌曲,https://nl4.mystreaming.net/tt/2011/icecast.audio
+2012 年最热门歌曲,https://nl4.mystreaming.net/tt/2012/icecast.audio
+2013 年最热门歌曲,https://nl4.mystreaming.net/tt/2013/icecast.audio
+2014 年最热门歌曲,https://nl4.mystreaming.net/tt/2014/icecast.audio
+2015 年最热门歌曲,https://nl4.mystreaming.net/tt/2015/icecast.audio
+2016 年最热门歌曲,https://nl4.mystreaming.net/tt/2016/icecast.audio
+2017 年最热门歌曲,https://nl4.mystreaming.net/tt/2017/icecast.audio
+2018 年最热门歌曲,https://nl4.mystreaming.net/tt/2018/icecast.audio
+2019 年最热门歌曲,https://nl4.mystreaming.net/tt/2019/icecast.audio
+2020 年最热门歌曲,https://nl4.mystreaming.net/tt/2020/icecast.audio
+2021 年最热门歌曲,https://nl4.mystreaming.net/tt/2021/icecast.audio
+2022 年最热门歌曲,https://nl4.mystreaming.net/tt/2022/icecast.audio
+2023 年最热门歌曲,https://nl4.mystreaming.net/tt/2023/icecast.audio
+2024 年最热门歌曲,https://nl4.mystreaming.net/tt/2024/icecast.audio
