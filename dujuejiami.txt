@@ -274,7 +274,7 @@ CCTV5+体育赛事,http://120.0.52.241:8086/tsfile/live/0016_1.m3u8
 石家庄都市,http://120.0.52.241:8086/tsfile/live/1009_1.m3u8
 梨园,http://120.0.52.241:8086/tsfile/live/1010_1.m3u8
 
-
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 山西酒店源,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 来自山西联通的酒店源(118.81.107.232:9999)共有40个频道：
@@ -10526,6 +10526,64 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 拯救大兵瑞恩(美国战争片),https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
 【结束】
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-TICK TOCK,#genre#
+台湾地区FM,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
+中廣音樂網 i Radio FM96.3 https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
+中廣流行網 I like radiohttps://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
+好事联播网最佳电台FM98.9https://n25a-eu.rcs.revma.com/fkdywbc59duvv?rj-ttl=5&rj-tok=AAABk399dhMAtboFXdTYLFGnLA
+飛揚調頻 FM 89.5https://n15a-eu.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABk39-8RoAvTiZv-wT9GoQjw
+九八新聞台 News98 FM 98.1https://n10a-eu.rcs.revma.com/pntx1639ntzuv.m4a?rj-ttl=5&1672237775=&rj-tok=AAABk39_Qs8ATL2nuw2mnNT8Gg
+iCRThttps://n10a-eu.rcs.revma.com/nkdfurztxp3vv?rj-tok=AAABk39_mbEALVg2VBtyNfsMOw&rj-ttl=5
+飛碟電台 FM92.1https://n07a-eu.rcs.revma.com/em90w4aeewzuv?rj-tok=AAABk3-AGDYATFKkYVFORqXZxA&rj-ttl=5
+中廣新聞網 BCC News Radiohttps://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
+好事聯播網 港都983 Best Radio FM98.3https://n25a-eu.rcs.revma.com/q2m07dc59duvv?rj-ttl=5&rj-tok=AAABk3-A_SkAMRcl-WUpm3S1eQ
+古典音樂台 Classical FM 97.7http://onair.family977.com.tw:8000/live.mp3
+好事聯播網 Best Radio FM90.3https://n29a-eu.rcs.revma.com/zr7xzec59duvv?rj-ttl=5&rj-tok=AAABk3-CEtIA_qBECwgi2j2g5A
+鋼琴獨奏網路音樂電台http://pianosolo.streamguys.net/live
+927魅力亞洲 Asia FM 亞洲電台https://n02a-eu.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABk3-DGv0AIdOP5OI3uapVnA
+城市廣播網 FM 92.9 城市廣播http://fm929.cityfm.tw:8080/929.mp3
+Bao Dao Radio 寶島新聲 FM98.5http://125.227.87.206:8000/FM98.5
+PBS - Taipei Sub-Stationhttp://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
+PBS - National Transportationhttp://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+全國廣播 MRadiohttp://n22a-eu.rcs.revma.com/044q61ha7a0uv?rj-ttl=5&rj-tok=AAABk3-Gc7sAw1tAzzhnf8RQ9Q
+領袖電台 FM93.7https://n18a-eu.rcs.revma.com/hpeqh9mkc6hvv?rj-ttl=5&rj-tok=AAABk3-GtuMA4OcT0R8qd7FGbQ
+Big Big MIX（TW）https://play.gojoy.org/audio/stream
+城市廣播網 台南知音 97.1 FMhttp://fm971.cityfm.tw:8080/971.mp3
+Bao Dao Radio 大千電台 FM99.1http://125.227.87.206:8000/FM99.1
+城市廣播網 城市廣播 90.1 FMhttp://fm901.cityfm.tw:8080/901.mp3
+PBS - Kaohsiung Sub-Stationhttp://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+PBS - Taichung Sub-Stationhttp://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+下港之聲 FM 90.5http://59.120.255.155:8081/
+IC之音竹科廣播 FM97.5https://n40a-eu.rcs.revma.com/7mnq8rt7k5zuv?rj-ttl=5&rj-tok=AAABk3-Ld6AAjJ_Jh9QKGd5JOw
+Beam FM - Taiwanhttps://ice1.streeemer.com:8030/radio.aac
+臺北廣播電臺 FM93.1https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+Jazz Radio 當代爵士音樂https://ec3.yesstreaming.net:3455/stream
+城市廣播網 城市廣播 98.3 FMhttp://fm901.cityfm.tw:8080/901.mp3
+Lize Radio 栗子的輕音樂
+923魅力亞太 Asia FM 亞太電台https://n04a-eu.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABk3-PFmIANQOl8U4dGJCCgQ
+台北都會音樂台 Bravo FM91.3https://onair.bravo913.com.tw:9130/live.mp3
+WQXR-FM 紐約愛樂電台https://stream.wqxr.org/wqxr
+環球廣播電台 107.1 FMhttp://60.248.53.115:8081/
+歡喜之聲 105.5 FMhttp://59.125.41.65:8081/
+Linn Jazz 英國網路音樂台http://radio.linn.co.uk:8000/autodj
+PBS - Llan Sub-Stationhttp://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+Beam FM - Adult Hits Taiwanhttps://ice1.streeemer.com:8020/radio.aac
+大樹下廣播電台http://60.250.148.112:8000/live
+正聲廣播台北調頻台 (CSBC FM Radio)https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w1468129418.m3u8
+PBS - Tainan Sub-Stationhttp://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+屏東之聲廣播電台 92.5http://59.120.255.169:8081/
+北台灣之聲廣播電台 FM 107.1http://211.72.65.62:8080/
+南投廣播 南投 FM 99.7http://fm971.cityfm.tw:8080/971.mp3
+FM 94.3 音樂伸展台https://n21a-eu.rcs.revma.com/pet2dvug1bkvv/33_c0sv6gbkebrj02/playlist.m3u8?rj-ttl=5&rj-tok=AAABk3-WWG8A-pyunz3vCe6Uzg
+農鄉廣播電台FM106.3http://taiwan-radio.tw:8000/YL.FM106.3
+佳音聖樂網CCM FM90.9https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8
+凱旋廣播電台 97.9 FMhttp://60.249.208.103:8081/
+噶瑪蘭廣播電台 97.9 FMhttp://61.220.209.152:8081/
+國立教育廣播電臺 臺北總臺FM臺https://cast.ner.gov.tw/1
+PBS - Hsinchu Sub-Stationhttp://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+Taiwan Lounge Radiohttps://azuracast.conceptradio.fr/radio/8030/stream.mp3
+PBS - Iraitung Sub-Stationhttp://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+都會聲音廣播電台FM99.7http://118.163.195.112:8000/FM99.7
+新竹之音廣播電台 FM 97.9 MHzhttp://118.163.195.112:8000/FM97.9
+正聲廣播網路綜合台 (CSBC Life)https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+花園廣播電台 FM88.7http://43.254.16.40:8000/CH.FM88.7
