@@ -367,6 +367,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 港澳台电视,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
 AMC电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
 TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
@@ -397,10 +398,12 @@ VOA美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
 民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
 台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
+影迷數位電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv011
 中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
 中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
