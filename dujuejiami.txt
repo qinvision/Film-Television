@@ -157,6 +157,14 @@ CETV-4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com/
 巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
+陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
+陕西生活,http://gxlive.snrtv.com/sx3-SD.m3u8
+陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
+陕西公共,http://gxlive.snrtv.com/sx5-SD.m3u8
+陕西乐家购物,http://gxlive.snrtv.com/sx6-SD.m3u8
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 辽宁酒店源,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
