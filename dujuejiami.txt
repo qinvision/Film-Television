@@ -10573,9 +10573,70 @@ WQXR-FM 紐約愛樂電台,https://stream.wqxr.org/wqxr
 中廣流行網 I like radio,https://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
 中廣新聞網 BCC News Radio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
 中廣音樂網 i Radio FM96.3 ,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+台湾地区TV,#genre#
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-
-
+民视台湾台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视第一台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+FTV 综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+非凡新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+FGM GOLD,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+CNEX,http://litv.zapi.us.kg/?id=4gtv-4gtv013
+时尚运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+韩国娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+AMC,http://litv.zapi.us.kg/?id=4gtv-4gtv017
+Da Vinci,http://litv.zapi.us.kg/?id=4gtv-4gtv018
+八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综合台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+中视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
+HakkaTV,http://litv.zapi.us.kg/?id=4gtv-4gtv043
+靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖洋戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天综合台,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本台,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+非凡商业HD,http://litv.zapi.us.kg/?id=4gtv-4gtv048
+采昌,http://litv.zapi.us.kg/?id=4gtv-4gtv049
+华视新闻资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+GinxTV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
+靖天欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+台视财经HD,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+靖洋卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际台,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+中视菁采HD,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+靖天资讯台,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+台视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv066
+TVBS精彩台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS欢乐台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+ELTA娱乐HD,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+TVBS新闻台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS  HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+中视新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+M news镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+CATCHPLAY,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+TRACE,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+PREMIUM,http://litv.zapi.us.kg/?id=4gtv-4gtv079
+中视经典HD,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+FM1,http://litv.zapi.us.kg/?id=4gtv-4gtv082
+MEZZO LIVE,http://litv.zapi.us.kg/?id=4gtv-4gtv083
+国会频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会频道2,http://litv.zapi.us.kg/?id=4gtv-4gtv085
+钜亨看世界,http://litv.zapi.us.kg/?id=4gtv-4gtv104
+中天亚洲台,http://litv.zapi.us.kg/?id=4gtv-4gtv109
+东森新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视台湾台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv156
 
 
 
