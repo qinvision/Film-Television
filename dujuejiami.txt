@@ -368,9 +368,119 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-港澳台电视,#genre#
+台湾地区TV,#genre#
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+民视台湾台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视第一台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+FTV 综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+非凡新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+FGM GOLD,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+CNEX,http://litv.zapi.us.kg/?id=4gtv-4gtv013
+时尚运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+韩国娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+AMC,http://litv.zapi.us.kg/?id=4gtv-4gtv017
+Da Vinci,http://litv.zapi.us.kg/?id=4gtv-4gtv018
+八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综合台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+中视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
+HakkaTV,http://litv.zapi.us.kg/?id=4gtv-4gtv043
+靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖洋戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天综合台,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本台,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+非凡商业HD,http://litv.zapi.us.kg/?id=4gtv-4gtv048
+采昌,http://litv.zapi.us.kg/?id=4gtv-4gtv049
+华视新闻资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+GinxTV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
+靖天欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+台视财经HD,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+靖洋卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际台,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+中视菁采HD,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+靖天资讯台,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+台视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv066
+TVBS精彩台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS欢乐台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+ELTA娱乐HD,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+TVBS新闻台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS  HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+中视新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+M news镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+CATCHPLAY,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+TRACE,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+PREMIUM,http://litv.zapi.us.kg/?id=4gtv-4gtv079
+中视经典HD,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+FM1,http://litv.zapi.us.kg/?id=4gtv-4gtv082
+MEZZO LIVE,http://litv.zapi.us.kg/?id=4gtv-4gtv083
+国会频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会频道2,http://litv.zapi.us.kg/?id=4gtv-4gtv085
+钜亨看世界,http://litv.zapi.us.kg/?id=4gtv-4gtv104
+中天亚洲台,http://litv.zapi.us.kg/?id=4gtv-4gtv109
+东森新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视台湾台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv156
+//////////////////////////////////////////////////////////////////////////////
+VOA EXPRESS,http://litv.zapi.us.kg/?id=litv-ftv03
+FTV 旅游,http://litv.zapi.us.kg/?id=litv-ftv07
+ALJAZEERA,http://litv.zapi.us.kg/?id=litv-ftv10
+民视新闻台HD,http://litv.zapi.us.kg/?id=litv-ftv13
+爱放i-Fun,http://litv.zapi.us.kg/?id=litv-ftv15
+GOOD  TV 好消息,http://litv.zapi.us.kg/?id=litv-ftv16
+GOOD  TV2,http://litv.zapi.us.kg/?id=litv-ftv17
+////////////////////////////////////////////////////////////////
+龙华卡通台,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球Ⅰ,http://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动Ⅰ,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn08
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+博斯无限Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn13
+寰宇新闻台湾台,http://litv.zapi.us.kg/?id=litv-longturn15
+亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17
+龙华戏剧台,http://litv.zapi.us.kg/?id=litv-longturn18
+SMART,http://litv.zapi.us.kg/?id=litv-longturn19
+ELTV生活英语台HD,http://litv.zapi.us.kg/?id=litv-longturn20
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
+////////////////////////////////////////////////////////////////////////
+Disocovery(中字),http://61.221.215.25:8800/hls/1/index.m3u8
+TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+节目暂停1,http://61.221.215.25:8800/hls/40/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+amc电影(中字),http://61.221.215.25:8800/hls/43/index.m3u8
+蓝屏1,http://61.221.215.25:8800/hls/45/index.m3u8
+蓝屏2,http://61.221.215.25:8800/hls/46/index.m3u8
+中天娱乐HD,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩HD,http://61.221.215.25:8800/hls/48/index.m3u8
+钢琴音乐,http://61.221.215.25:8800/hls/49/index.m3u8
+DISCOVERY亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+NHK国际http://61.221.215.25:8800/hls/51/index.m3u8
+节目暂停2,http://61.221.215.25:8800/hls/54/index.m3u8
+八大第一HD,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合HD,http://61.221.215.25:8800/hls/56/index.m3u8
+动物星球(国语),http://61.221.215.25:8800/hls/57/index.m3u8
+SPOTIFY音乐欣赏,http://61.221.215.25:8800/hls/58/index.m3u8
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+测试直播源,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 /////////////////////////////////////////////////////////////////////////////////////////////
@@ -379,10 +489,8 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 Astv亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 淘电影,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$订阅源
 淘电影,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 ////////////////////////////////////////////////////////////////////////////
 BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
 CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
@@ -10525,117 +10633,7 @@ WQXR-FM 紐約愛樂電台,https://stream.wqxr.org/wqxr
 中廣流行網 I like radio,https://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
 中廣新聞網 BCC News Radio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
 中廣音樂網 i Radio FM96.3 ,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-台湾地区TV,#genre#
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-民视台湾台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视第一台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv003
-FTV 综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-非凡新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-FGM GOLD,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-CNEX,http://litv.zapi.us.kg/?id=4gtv-4gtv013
-时尚运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
-韩国娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv016
-AMC,http://litv.zapi.us.kg/?id=4gtv-4gtv017
-Da Vinci,http://litv.zapi.us.kg/?id=4gtv-4gtv018
-八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
-八大综合台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv039
-中视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-华视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv041
-公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
-HakkaTV,http://litv.zapi.us.kg/?id=4gtv-4gtv043
-靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖洋戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖天综合台,http://litv.zapi.us.kg/?id=4gtv-4gtv046
-靖天日本台,http://litv.zapi.us.kg/?id=4gtv-4gtv047
-非凡商业HD,http://litv.zapi.us.kg/?id=4gtv-4gtv048
-采昌,http://litv.zapi.us.kg/?id=4gtv-4gtv049
-华视新闻资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-GinxTV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
-靖天欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv054
-靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
-台视财经HD,http://litv.zapi.us.kg/?id=4gtv-4gtv056
-靖洋卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv057
-靖天戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv058
-古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
-靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
-靖天育乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv062
-靖天国际台,http://litv.zapi.us.kg/?id=4gtv-4gtv063
-中视菁采HD,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-靖天资讯台,http://litv.zapi.us.kg/?id=4gtv-4gtv065
-台视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv066
-TVBS精彩台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-TVBS欢乐台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv068
-ELTA娱乐HD,http://litv.zapi.us.kg/?id=4gtv-4gtv070
-TVBS新闻台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-TVBS  HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
-中视新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-M news镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-CATCHPLAY,http://litv.zapi.us.kg/?id=4gtv-4gtv076
-TRACE,http://litv.zapi.us.kg/?id=4gtv-4gtv077
-PREMIUM,http://litv.zapi.us.kg/?id=4gtv-4gtv079
-中视经典HD,http://litv.zapi.us.kg/?id=4gtv-4gtv080
-FM1,http://litv.zapi.us.kg/?id=4gtv-4gtv082
-MEZZO LIVE,http://litv.zapi.us.kg/?id=4gtv-4gtv083
-国会频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv084
-国会频道2,http://litv.zapi.us.kg/?id=4gtv-4gtv085
-钜亨看世界,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-中天亚洲台,http://litv.zapi.us.kg/?id=4gtv-4gtv109
-东森新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森财经新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv155
-民视台湾台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv156
-//////////////////////////////////////////////////////////////////////////////
-VOA EXPRESS,http://litv.zapi.us.kg/?id=litv-ftv03
-FTV 旅游,http://litv.zapi.us.kg/?id=litv-ftv07
-ALJAZEERA,http://litv.zapi.us.kg/?id=litv-ftv10
-民视新闻台HD,http://litv.zapi.us.kg/?id=litv-ftv13
-爱放i-Fun,http://litv.zapi.us.kg/?id=litv-ftv15
-GOOD  TV 好消息,http://litv.zapi.us.kg/?id=litv-ftv16
-GOOD  TV2,http://litv.zapi.us.kg/?id=litv-ftv17
-////////////////////////////////////////////////////////////////
-龙华卡通台,http://litv.zapi.us.kg/?id=litv-longturn01
-龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
-博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
-博斯高球Ⅰ,http://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动Ⅰ,http://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn08
-博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
-博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
-龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
-龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
-博斯无限Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn13
-寰宇新闻台湾台,http://litv.zapi.us.kg/?id=litv-longturn15
-亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17
-龙华戏剧台,http://litv.zapi.us.kg/?id=litv-longturn18
-SMART,http://litv.zapi.us.kg/?id=litv-longturn19
-ELTV生活英语台HD,http://litv.zapi.us.kg/?id=litv-longturn20
-龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
-台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
-////////////////////////////////////////////////////////////////////////
-Disocovery(中字),http://61.221.215.25:8800/hls/1/index.m3u8
-TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-节目暂停1,http://61.221.215.25:8800/hls/40/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-amc电影(中字),http://61.221.215.25:8800/hls/43/index.m3u8
-蓝屏1,http://61.221.215.25:8800/hls/45/index.m3u8
-蓝屏2,http://61.221.215.25:8800/hls/46/index.m3u8
-中天娱乐HD,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩HD,http://61.221.215.25:8800/hls/48/index.m3u8
-钢琴音乐,http://61.221.215.25:8800/hls/49/index.m3u8
-DISCOVERY亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-NHK国际http://61.221.215.25:8800/hls/51/index.m3u8
-节目暂停2,http://61.221.215.25:8800/hls/54/index.m3u8
-八大第一HD,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合HD,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球(国语),http://61.221.215.25:8800/hls/57/index.m3u8
-SPOTIFY音乐欣赏,http://61.221.215.25:8800/hls/58/index.m3u8
 
 
 
