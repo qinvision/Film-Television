@@ -10637,8 +10637,34 @@ MEZZO LIVE,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 东森财经新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 民视HD,http://litv.zapi.us.kg/?id=4gtv-4gtv155
 民视台湾台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv156
-
-
+//////////////////////////////////////////////////////////////////////////////
+VOA EXPRESS,http://litv.zapi.us.kg/?id=litv-ftv03
+FTV 旅游,http://litv.zapi.us.kg/?id=litv-ftv07
+ALJAZEERA,http://litv.zapi.us.kg/?id=litv-ftv10
+民视新闻台HD,http://litv.zapi.us.kg/?id=litv-ftv13
+爱放i-Fun,http://litv.zapi.us.kg/?id=litv-ftv15
+GOOD  TV 好消息,http://litv.zapi.us.kg/?id=litv-ftv16
+GOOD  TV2,http://litv.zapi.us.kg/?id=litv-ftv17
+////////////////////////////////////////////////////////////////
+龙华卡通台,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球Ⅰ,http://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动Ⅰ,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn08
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+博斯无限Ⅱ,http://litv.zapi.us.kg/?id=litv-longturn13
+寰宇新闻台湾台,http://litv.zapi.us.kg/?id=litv-longturn15
+亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17
+龙华戏剧台,http://litv.zapi.us.kg/?id=litv-longturn18
+SMART,http://litv.zapi.us.kg/?id=litv-longturn19
+ELTV生活英语台HD,http://litv.zapi.us.kg/?id=litv-longturn20
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
 
 
 
