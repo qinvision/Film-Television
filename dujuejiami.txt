@@ -240,7 +240,6 @@ CNEX,http://litv.zapi.us.kg/?id=4gtv-4gtv013
 Da Vinci,http://litv.zapi.us.kg/?id=4gtv-4gtv018
 ELTA娱乐HD,http://litv.zapi.us.kg/?id=4gtv-4gtv070
 FGM GOLD,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-FM1,http://litv.zapi.us.kg/?id=4gtv-4gtv082
 FTV 综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
 GinxTV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 HakkaTV,http://litv.zapi.us.kg/?id=4gtv-4gtv043
