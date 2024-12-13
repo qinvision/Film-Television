@@ -258,7 +258,7 @@ UFC格斗精选,http://182.92.109.190:1668/72/72.php?id=ufcgdj
 武汉江汉关,http://182.92.109.190:1668/72/72.php?id=whjhg
 武汉黄鹤楼,http://182.92.109.190:1668/72/72.php?id=whhhl
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-AKTV(60),#genre#
+AKTV(63),#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -301,11 +301,14 @@ Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv2/zoomoo/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 Astro AOD,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro QJ,http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
+Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
