@@ -121,7 +121,6 @@ CETV-4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 代理直播源,#genre#
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-CCTV-4k,http://3ad2a0.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 CCTV-1,http://3ad2a0.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
 CCTV-2,http://3ad2a0.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
 CCTV-3,http://3ad2a0.tv.netsite.cc/proxy/781829366/781829366.m3u8
@@ -129,7 +128,6 @@ CCTV-4,http://3ad2a0.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
 CCTV-5,http://3ad2a0.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
 CCTV-5+,http://3ad2a0.tv.netsite.cc/proxy/485668034/485668034.m3u8
 CCTV-6,http://3ad2a0.tv.netsite.cc/proxy/584456678/584456678.m3u8
-1905-电影网,http://3ad2a0.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
 CCTV-7,http://3ad2a0.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
 CCTV-8,http://3ad2a0.tv.netsite.cc/proxy/366510833/366510833.m3u8
 CCTV-9,http://3ad2a0.tv.netsite.cc/proxy/675916385/675916385.m3u8
@@ -141,6 +139,8 @@ CCTV-14,http://3ad2a0.tv.netsite.cc/proxy/512439688/512439688.m3u8
 CCTV-15,http://3ad2a0.tv.netsite.cc/proxy/323678478/323678478.m3u8
 CCTV-16,http://3ad2a0.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
 CCTV-17,http://3ad2a0.tv.netsite.cc/proxy/199561397/199561397.m3u8
+CCTV-4k,http://3ad2a0.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
+1905-电影网,http://3ad2a0.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
 凤凰卫视,http://3ad2a0.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
 凤凰中文,http://3ad2a0.tv.netsite.cc/proxy/1846789161/1846789161.m3u8
 北京卫视,http://3ad2a0.tv.netsite.cc/proxy/1773564112/1773564112.m3u8
@@ -188,8 +188,6 @@ CGTN俄语频道,http://3ad2a0.tv.netsite.cc/proxy/742102579/742102579.m3u8
 CGTN阿拉伯语频道,http://3ad2a0.tv.netsite.cc/proxy/1846633731/1846633731.m3u8
 CGTN西班牙语频道,http://3ad2a0.tv.netsite.cc/proxy/1194246781/1194246781.m3u8
 CGTN外语记录频道,http://3ad2a0.tv.netsite.cc/proxy/634350026/634350026.m3u8
-
-
 上海外语频道,http://3ad2a0.tv.netsite.cc/proxy/1701776112/1701776112.m3u8
 上海第一财经,http://3ad2a0.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
 上海点掌财经,http://3ad2a0.tv.netsite.cc/proxy/1577752441/1577752441.m3u8
