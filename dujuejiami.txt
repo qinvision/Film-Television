@@ -1052,7 +1052,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 █████████████████████████████████████████████
-凑合看频道,#genre#
+临时频道,#genre#
 █████████████████████████████████████████████
 来自河南联通的酒店源(123.13.246.214:7000)共有44个频道：
 CCTV1-综合高清,http://123.13.246.214:7000/hls/60/index.m3u8
