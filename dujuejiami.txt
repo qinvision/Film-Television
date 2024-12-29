@@ -2041,7 +2041,7 @@ CCTV17,http://117.93.210.252:8800/rtp/239.49.1.7:6000
 欢笑剧场4K,http://117.93.210.252:8800/rtp/239.49.8.231:6000
 少女祈祷中...
 █████████████████████████████████████████████
-AKTV(61),#genre#
+AKTV(62),#genre#
 █████████████████████████████████████████████
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -2103,6 +2103,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 █████████████████████████████████████████████
 四季TV(62),#genre#
@@ -8480,7 +8481,7 @@ SPEC：天(日本科幻片),
 █████████████████████████████████████████████
 
 
-
+隐藏的面孔2024(韩国恐怖片),https://v.lzcdn24.com/20241228/12006_bf49f953/index.m3u8
 临终时刻2024(印度尼西亚恐怖片),https://v.cdnlz3.com/20241226/31476_29851eae/index.m3u8
 第十年2024(英国恐怖片),https://v.cdnlz12.com/20241223/17842_31aca484/index.m3u8
 着魔2024(印度尼西亚恐怖片),https://v.cdnlz3.com/20241221/31239_9a4d502d/index.m3u8
