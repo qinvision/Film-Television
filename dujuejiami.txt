@@ -1544,11 +1544,11 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 █████████████████████████████████████████████
-动作片1228,#genre#
+动作片1230,#genre#
 █████████████████████████████████████████████
 
 
-
+棋盘斩2024(日本动作片),https://v.cdnlz3.com/20241230/31623_facf9307/index.m3u8
 猎毒者Ⅱ2024(大陆动作片),https://v.cdnlz3.com/20241226/31475_b578d040/index.m3u8
 震撼擂台2024(大陆动作片),https://v.cdnlz12.com/20241224/17852_d16339ff/index.m3u8
 迎刃而姐2024(印度动作片),https://v.cdnlz3.com/20241223/31344_5def6432/index.m3u8
