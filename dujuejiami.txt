@@ -882,7 +882,7 @@ IPV6卫视台,#genre#
 西藏卫视,http://[2409:8087:74d4:21::2f]/270000001128/9900000043/index.m3u8
 云南卫视,http://[2409:8087:74d4:21::2f]/270000001128/9900000035/index.m3u8
 ████████████████████████████████████████████
-IPV6 SiTV,#genre#
+IPV6  SiTV,#genre#
 █████████████████████████████████████████████
 SiTV 第一财经,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&yang-1989
 SiTV 东方财经,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&yang-1989
@@ -922,7 +922,7 @@ NewTV怡伴健康,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 NewTV中国功夫,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
 NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 █████████████████████████████████████████████
-IPV6  iHOT,#genre#
+IPV6   iHOT,#genre#
 █████████████████████████████████████████████
 iHOT 爱谍战,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&yang-1989
 iHOT 爱动漫,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&yang-1989
