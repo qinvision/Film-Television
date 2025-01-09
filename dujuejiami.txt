@@ -1,14 +1,21 @@
 ████████████████████████████████████████████
 观影过大年,#genre#
 ████████████████████████████████████████████
+1905电影网(华语),http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影网(外语),http://php.jdshipin.com:8880/1905.php?id=1905dy2
+amc电影(中字),http://61.221.215.25:8800/hls/43/index.m3u8
+CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3
 CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-1905电影网(华语),http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905电影网(外语),http://php.jdshipin.com:8880/1905.php?id=1905dy2
-CCTV6,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3
-CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+NewTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
+NewTV黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+NewTV惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
+NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+莲花卫视,http://php.jdshipin.com:8880/amlh.php
+
 
 ████████████████████████████████████████████
 IPV6央视台,#genre#
@@ -1744,7 +1751,6 @@ RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/s
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 
 星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
