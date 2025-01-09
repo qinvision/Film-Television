@@ -1528,7 +1528,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 █████████████████████████████████████████████
-AKTV(58),#genre#
+AKTV(qps限流),#genre#
 █████████████████████████████████████████████
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
