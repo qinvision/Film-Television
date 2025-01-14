@@ -339,7 +339,7 @@ IPV4央卫1,#genre#
 █████████████████████████████████████████████
 CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=2025
 CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=1
-CCTV3,http://113.251.230.92:7788/rtp/235.254.198.53:1488
+CCTV3,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=1
 CCTV4,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-4sd/1500.m3u8?innersid=2
 CCTV5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4
 CCTV6,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=1
