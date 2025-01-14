@@ -6,9 +6,10 @@
 CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CCTV6,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=YanG-1989
-NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+CCTV6,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+NewTV超级电影,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=YanG-1989
+NewTV动作电影,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=YanG-1989
+NewTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
 ████████████████████████████████████████████
 IPV6直播1,#genre#
 ████████████████████████████████████████████
@@ -187,6 +188,7 @@ CCTV13新闻,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265
 CCTV14少儿,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=YanG-1989
 CCTV15音乐,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=YanG-1989
 CCTV16奥林匹克,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000233002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=YanG-1989
+CCTV16奥林匹克4K,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=YanG-1989
 CCTV17农村农业,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=YanG-1989
 CGTN国际,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7745129417417101820/index.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=YanG-1989
 CGTNDocumentary,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=YanG-1989
@@ -324,7 +326,9 @@ SiTV上海新闻,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/500000001100
 晴彩少年,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 晴彩竞技,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 晴彩篮球,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-
+纯享4K,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=YanG-1989
+华数4K,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
+欢笑剧场4K,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
 █████████████████████████████████████████████
 IPV4电视台,#genre#
 █████████████████████████████████████████████
