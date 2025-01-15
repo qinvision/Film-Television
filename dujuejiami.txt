@@ -1,3 +1,62 @@
+
+█████████████████████████████████████████████
+IPV6直播1,#genre#
+█████████████████████████████████████████████
+CCTV-1 综合,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
+CCTV-2 财经,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
+CCTV-3 综艺,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+CCTV-4 中文国际,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+CCTV-5 体育,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+CCTV-6 电影,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
+CCTV-7 国防军事,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
+CCTV-8 电视剧,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+CCTV-9 纪录,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
+CCTV-10 科教,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
+CCTV-12 社会与法,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
+CCTV-13 新闻,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
+CCTV-14 少儿,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
+CCTV-15 音乐,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
+CCTV-17 农业农村,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
+CHC动作电影,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+CHC影迷电影,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+北京卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265027/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=3
+湖南卫视,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+东方卫视,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
+安徽卫视,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
+江苏卫视,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+浙江卫视,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
+广东卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265034/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
+深圳卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265028/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3
+重庆卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265017/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
+四川卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+广西卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031118/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
+天津卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265026/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3
+山东卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265019/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=3
+江西卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3
+河北卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+河南卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000002000027731/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
+海南卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+东南卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265033/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
+湖北卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265023/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=3
+贵州卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000004000025843/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
+辽宁卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265022/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
+吉林卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+黑龙江卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265029/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+云南卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
+甘肃卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+青海卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
+三沙卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288016/index.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=3
 █████████████████████████████████████████████
 IPV4直播1,#genre#
 █████████████████████████████████████████████
