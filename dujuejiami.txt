@@ -53,7 +53,7 @@ CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersi
 浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6
 重庆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cqws-hd/1.m3u8?innersid=2
 █████████████████████████████████████████████
-IPV4央视1,#genre#
+央视gaoma源,#genre#
 █████████████████████████████████████████████
 CCTV1,http://tv.kmhlzxs.top:35455/gaoma/cctv1.m3u8
 CCTV2,http://tv.kmhlzxs.top:35455/gaoma/cctv2.m3u8
@@ -79,7 +79,7 @@ CCTV17,http://tv.kmhlzxs.top:35455/gaoma/cctv17.m3u8
 求索纪录,http://tv.kmhlzxs.top:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://tv.kmhlzxs.top:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 █████████████████████████████████████████████
-IPV4央视2,#genre#
+央视咪咕源1,#genre#
 █████████████████████████████████████████████
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
