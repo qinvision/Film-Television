@@ -662,7 +662,36 @@ TVBSnews,http://61.221.215.25:8800/hls/9/index.m3u8
 八大综合HD,http://61.221.215.25:8800/hls/56/index.m3u8
 动物星球(国语),http://61.221.215.25:8800/hls/57/index.m3u8
 中天娱乐HD,http://61.221.215.25:8800/hls/47/index.m3u8
-
+█████████████████████████████████████████████
+香港频道,#genre#
+█████████████████████████████████████████████
+凤凰卫视香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+mytv电视剧,https://live.hkdvb.com/hls/live/89.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+mytv老电影,https://live.hkdvb.com/hls/live/200.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+黄金华语台,https://live.hkdvb.com/hls/live/90.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+翡翠台,https://live.hkdvb.com/hls/live/800.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+RHK31,https://live.hkdvb.com/hls/live/31.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+RHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+CGTN Documentary[,https://live.hkdvb.com/hls/live/34.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+CGTN English[,https://live.hkdvb.com/hls/live/35.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+HOY,https://live.hkdvb.com/hls/live/76.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+HOY TV,https://live.hkdvb.com/hls/live/78.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+HOY TV[,https://live.hkdvb.com/hls/live/77.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Jade,https://live.hkdvb.com/hls/live/81.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+News,https://live.hkdvb.com/hls/live/83.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now NEWS,https://live.hkdvb.com/hls/live/332.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now Popcorn,https://live.hkdvb.com/hls/live/133.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now Sports,https://live.hkdvb.com/hls/live/621.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now Sports 632[,https://live.hkdvb.com/hls/live/632.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now Sports 641[,https://live.hkdvb.com/hls/live/641.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now Sports 642[,https://live.hkdvb.com/hls/live/642.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now Sports Prime[,https://live.hkdvb.com/hls/live/630.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Now Superstars,https://live.hkdvb.com/hls/live/138.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Pearl,https://live.hkdvb.com/hls/live/84.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+Popc[,https://live.hkdvb.com/hls/live/206.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+TVB PLUS[,https://live.hkdvb.com/hls/live/82.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+ViuTV Six[,https://live.hkdvb.com/hls/live/96.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
+ViuTV[,https://live.hkdvb.com/hls/live/99.m3u8?token=403089472021459&edge=edge2.tvfree.sbs
 █████████████████████████████████████████████
 测试直播源,#genre#
 █████████████████████████████████████████████
