@@ -115,14 +115,12 @@ IPV4直播4,#genre#
 █████████████████████████████████████████████
 IPV4地方台,#genre#
 █████████████████████████████████████████████
-湖南爱晚,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPTRmNzRkNWVmZTgwMTQwYWExZWQ1OTczMWI5OGE4MGYzJnVpZD0mdXVpZD05N2I1NjQ0NTIwMWQyZWVjZDc3YzY0M2YzMDZmMzBkYS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4Mzk2ODA0/HNGGMPP360.m3u8
-湖南都市,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz1jNGU5N2NmM2Q5ZmIyZTg1NTA1N2RiMzZkZGY4ZDQ1MiZ1aWQ9JnV1aWQ9MWEwMGU1YWM3ZTcyZDQ2NDJlY2UyNjA5MTg5NjRhNzItNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczODQwNzE3Nw/HNDSMPP360.m3u8
-湖南经视,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWE4ZjA3NTcxNzhmN2RiZTU2Y2U2M2MxOTAyYzU4OGMxJnVpZD0mdXVpZD1iNjhjYzFmNzU4ZGUyYTZjYjZmMmJhMmQxMjY4NjE2OS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4Mzk2ODE4/HNJSMPP360.m3u8
-金鹰纪实频道,https://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWEyNTc2ZDk2NmIyNDFlOWQ4YTQyMDVkZjA0YWNmNzY3JnVpZD0mdXVpZD00Mjg1OWZkOTRkNWE1YmFlOTc2YWFkMmNjMTNkYzg2Yi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4Mzk2MTgy/JYJSMPP360.m3u8
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTZjY2E2NzE3ODczMTEwMjBkY2M5NDE1NjAwOTYyNmRlJnVpZD0mdXVpZD02YjVhYWM4NjE1ZDE2NDNkMDA4MWJiNWJjMWMyNWNjNi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4Mzk3NTI4/JYKTMPP360.m3u8
-湖南国际频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPThkMDU0MWM4YjJhYzczZjBmNGI1NGZiYzMzMTJkMTk5JnVpZD0mdXVpZD1kYmVkMjBlODM4YzUxZTNhYmI0MjM5YzgzNGQ5OTRhNi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4Mzk2ODMz/HNGJMPP360.m3u8
-湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPWJmYTg1YTFlNWJlZTNiZDVhMWFhMjNjM2ExODJmZjdjJnVpZD0mdXVpZD1kN2NlMDcwZDE5ZjhmM2JhMjg2ZWExMmY1NWM4MjMyZC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NDAyNzU1/HNDSJMPP360.m3u8
-长沙新闻频道,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPWNkMjY3MTMzZjc4NTNiMTY0MjcyMDk0NTRiYWU0MGMwJnVpZD0mdXVpZD01MTQyZTQ4MGUwYjFjYmVkMmYxMjMyODZlMmVhMWUxMC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NDAwNDQ2/CSXWMPP360.m3u8
+湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPWI2OTU0YzVlZTQ1YjBhMjFhYWJmZTQxNTZjZWE3ZTNlJnVpZD0mdXVpZD1jODFjZGNmMGVjODhmNDEyNjcxMWUyNjMyY2ZjMWMyMy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NDgzNzAz/HNGGMPP360.m3u8
+湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPWJhN2ZhOTljZjdjYWE5NDcxZDNkYjRjYmExOTE1ZjBiJnVpZD0mdXVpZD0zM2Y0M2FmYjM3YzhmZTJhMzYyOTk1ZmIxN2U4OGVkOS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NDkzNzUw/HNDSMPP360.m3u8
+湖南娱乐频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz00NDIwZTI3NDQ2OWZiMDM0NzI3MGY0MDkwZWNmYWQ3YyZ1aWQ9JnV1aWQ9YjMwMTIyYmYxMmNhNzdmZDkwY2Y5ZGIyZjQwMTdlOTYtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczODQ4MjA4OQ/HNYLMPP360.m3u8
+湖南经视,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz1hMjY4YTA1Y2QyOGIxMzdmNmM4M2FlN2QxMzNjYTQ1MiZ1aWQ9JnV1aWQ9MDk0ZTU5NzNhNDBkMjRhOGE0Yjk3ZWMxZjAzZDFkMDQtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczODQ4NTg2MA/HNJSMPP360.m3u8
+湖南国际频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPTc1OWQwMjk0N2FmMzQ0MGNjOGVlNGExZWNlOGMzM2M3JnVpZD0mdXVpZD1mNzVkMGU3YjliZmJkYWJkZmQwZmZiN2M2ZDIwYjkwMC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NDg0MjIz/HNGJMPP360.m3u8
+湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPTY3NTIwMGZlMWY4OTUwMjhiYmZmYmYyMDU3ZDkzNTM0JnVpZD0mdXVpZD00YTVhODMxNjhiOGMxMDk5MGIyMGQzY2QxYmQ2ZGMyYy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NDg5MzI2/HNDSJMPP360.m3u8
 
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
@@ -527,14 +525,23 @@ RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/s
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 █████████████████████████████████████████████
-动作片0125,#genre#
+动作片0201,#genre#
 █████████████████████████████████████████████
 
 
 
 
-
-
+无间猎冰2024(大陆动作片),https://v.cdnlz3.com/20250201/33046_2f49c1e1/index.m3u8
+误判2024【国语】(香港动作片),https://v.cdnlz12.com/20250131/18183_a5e8965b/index.m3u8
+误判2024【粤语】(香港动作片),https://v.cdnlz12.com/20250131/18182_46c93a53/index.m3u8
+☆封神第二部：战火西岐2025(大陆动作片),https://v.cdnlz12.com/20250131/18179_84f57a5f/index.m3u8
+乌托邦2024(美国动作片),https://v.lzcdn24.com/20250128/17096_e50730bc/index.m3u8
+忍者大复仇1983(美国动作片),https://v.lzcdn24.com/20250128/17095_60d671c5/index.m3u8
+☆射雕英雄传：侠之大者2025(大陆动作片),https://v.cdnlz12.com/20250131/18177_5d65c1ab/index.m3u8
+断毒2025(大陆动作片),https://v.cdnlz3.com/20250130/32967_a1e1de12/index.m3u8
+大奉打更人之世间无我这般人2025(大陆动作片),https://v.cdnlz3.com/20250130/32941_a6ebf8be/index.m3u8
+笑傲江湖2025【国语】(大陆动作片),https://v.cdnlz3.com/20250128/32912_b3d6e4bc/index.m3u8
+笑傲江湖2025【粤语】(大陆动作片),https://v.cdnlz3.com/20250128/32913_04c07fea/index.m3u8
 黑白潜行Ⅱ2025【国语】(大陆动作片),https://v.cdnlz3.com/20250125/32828_d80f7780/index.m3u8
 黑白潜行Ⅱ2025【粤语】(大陆动作片),https://v.cdnlz3.com/20250125/32829_783ee818/index.m3u8
 秦岭诡事之守护者2025(大陆动作片),https://v.cdnlz3.com/20250124/32794_c9ace075/index.m3u8
@@ -5182,7 +5189,7 @@ X战警：黑凤凰(美国动作片),
 这个杀手不太冷(法国动作片),
 【结束】
 █████████████████████████████████████████████
-科幻片0125,#genre#
+科幻片0201,#genre#
 █████████████████████████████████████████████
 
 
@@ -6528,11 +6535,14 @@ SPEC：天(日本科幻片),
 三大怪兽美食家(日本科幻片),
 星际穿越(美国科幻片),
 █████████████████████████████████████████████
-恐怖片0125,#genre#
+恐怖片0201,#genre#
 █████████████████████████████████████████████
 
 
 
+
+
+移植2024(新西兰恐怖片),https://v.cdnlz3.com/20250128/32915_c2b1c125/index.m3u8
 草迷宫恐怖杀人事件2024(菲律宾恐怖片),https://v.cdnlz3.com/20250125/32840_6bde9756/index.m3u8
 孤海沙堡2024(阿联酋/美国/黎巴嫩恐怖片),https://v.cdnlz12.com/20250125/18163_b8eab873/index.m3u8
 夜母2024(美国恐怖片),https://v.cdnlz3.com/20250124/32805_6931f0c1/index.m3u8
@@ -9841,15 +9851,15 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 退缩2021(美国恐怖片),https://vip1.lz-cdn1.com/20220317/3_8dc5ab2e/index.m3u8
 【结束】
 █████████████████████████████████████████████
-战争片0112,#genre#
+战争片0201,#genre#
 █████████████████████████████████████████████
 
 
 
 
 
-
-
+谍与蝶2022(大陆战争片),https://v.cdnlz3.com/20250201/33045_61fc3123/index.m3u8
+柯村风云2022(大陆战争片),https://v.cdnlz12.com/20250126/18170_8ec8b1e2/index.m3u8
 要是晴天就好了2025(日本战争片),https://v.cdnlz3.com/20250111/32139_7b465410/index.m3u8
 战场2024(意大利战争片),https://v.cdnlz3.com/20250107/31955_b29bdf48/index.m3u8
 绝地重生2023(大陆战争片),https://v.cdnlz3.com/20250106/31898_539edcd0/index.m3u8
