@@ -163,15 +163,6 @@ IPV4直播4,#genre#
 █████████████████████████████████████████████
 IPV4地方台,#genre#
 █████████████████████████████████████████████
-湖南爱晚,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz1hNTkzNDc0ZThhNzA1OTQwODljZmY2MDAyYzc2YjY0NCZ1aWQ9JnV1aWQ9MjBkNGE1NjlhODE2N2I4NDY4NjQxY2MzNTM1MTExYmYtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczODU3MTU3Ng/HNGGMPP360.m3u8
-湖南都市,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPTllNWQ3YTk2YmJhNTZiMGNkNDBjN2EyZGNlMDdhZGJlJnVpZD0mdXVpZD01Yjk1OWRjYzIyY2Y2OWViZTRkNjI4MTgxYzEwYWM0Yy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NTUxNjEw/HNDSMPP360.m3u8
-湖南娱乐频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWM4OWIyYjhmMmIzOTBiNzg3MDQxZDkzN2NjZTM4NGU3JnVpZD0mdXVpZD1mOWRkMjI5M2Y3MmMzNDAyMzYxYzczYmQzMDM0ZTczMS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NTY5MzQw/HNYLMPP360.m3u8
-湖南经视,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9YWxfcGhvbmUzJnM9NzUwODJmZWU2OGRmOWNiZmY0MTY3ZjUzMDNmYzU2M2YmdWlkPSZ1dWlkPTE0N2RiYzdjMGI2YmFiODUxZmUyNWMyZWU1Y2FmZjY1LTY3MjdlMjY0JnY9MiZhcz0wJmVzPTE3Mzg1NzMyMTQ/HNJSMPP360.m3u8
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTJlMThiYzM1MjBmZDY4NTNhMTQ2OGQwZmJmOTUzMzViJnVpZD0mdXVpZD05NTgxNmE3MTkzZGZmODJlODEyZWRjYWEzNDdiNzhjNi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NTcwNjU2/JYKTMPP360.m3u8
-湖南国际频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz1hN2YzZGVkNDI5MTRjZTMzMDdkZTY3NjllZDQxZWZjNCZ1aWQ9JnV1aWQ9ODgzZjRlM2E3Nzc2MTA2YTllMzI5Y2Q4OWQ5NjJkYjUtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczODU3MjkyMw/HNGJMPP360.m3u8
-湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWRiMmNhOTk2MWIyN2U2NmYzMzY5MWNjYWY0YmY1YzEwJnVpZD0mdXVpZD01OWU2ZGYxZDE3YWFlMDIxMDk5NWE2NTY1ZjFlNzZmZi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzM4NTQ3MjMw/HNDSJMPP360.m3u8
-长沙新闻频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz00ZDdlYjA0YWFjMjBkNzU0OTJkZTQ4YTQ5OTcyNGZmYyZ1aWQ9JnV1aWQ9MjY4YmQ3NzY0ODMyZDA2ZTQwZmQ3NGEwYWUxZWY1YzctNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczODU1MjkwNQ/CSXWMPP360.m3u8
-
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
