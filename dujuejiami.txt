@@ -857,104 +857,15 @@ IPV4地方台,#genre#
 重庆时尚购物,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
 
 █████████████████████████████████████████████
-AKTV(58),#genre#
-█████████████████████████████████████████████
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8								
-█████████████████████████████████████████████
-HLS-TV(12),#genre#
-█████████████████████████████████████████████
-amc电影(中字),http://61.221.215.25:8800/hls/43/index.m3u8
-DISCOVERY亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-Disocovery(中字),http://61.221.215.25:8800/hls/1/index.m3u8
-SPOTIFY音乐欣赏,http://61.221.215.25:8800/hls/58/index.m3u8
-节目暂停1,http://61.221.215.25:8800/hls/40/index.m3u8
-蓝屏1,http://61.221.215.25:8800/hls/45/index.m3u8
-蓝屏2,http://61.221.215.25:8800/hls/46/index.m3u8
-纬来精彩HD,http://61.221.215.25:8800/hls/48/index.m3u8
-八大第一HD,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合HD,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球(国语),http://61.221.215.25:8800/hls/57/index.m3u8
-中天娱乐HD,http://61.221.215.25:8800/hls/47/index.m3u8
-
-█████████████████████████████████████████████
-测试直播源,#genre#
-█████████████████████████████████████████████
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-日全新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-中视HD,rtmp://f13h.mine.nu/sat/tv091
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
-█████████████████████████████████████████████
-动作片0201,#genre#
+动作片0208,#genre#
 █████████████████████████████████████████████
 
 
 
 
+
+
+绝密战境2025(美国动作片),https://v.cdnlz12.com/20250208/18192_7b4da759/index.m3u8
 无间猎冰2024(大陆动作片),https://v.cdnlz3.com/20250201/33046_2f49c1e1/index.m3u8
 误判2024【国语】(香港动作片),https://v.cdnlz12.com/20250131/18183_a5e8965b/index.m3u8
 误判2024【粤语】(香港动作片),https://v.cdnlz12.com/20250131/18182_46c93a53/index.m3u8
@@ -6959,13 +6870,19 @@ SPEC：天(日本科幻片),
 三大怪兽美食家(日本科幻片),
 星际穿越(美国科幻片),
 █████████████████████████████████████████████
-恐怖片0201,#genre#
+恐怖片0208,#genre#
 █████████████████████████████████████████████
 
 
 
 
 
+
+噬魂岛2024(大陆恐怖片),https://v.cdnlz12.com/20250208/18195_0b1c4c37/index.m3u8
+阴山异闻录2025(大陆恐怖片),https://v.cdnlz3.com/20250207/33293_e4781258/index.m3u8
+街头废物2024(南非恐怖片),https://v.cdnlz3.com/20250207/33292_8c87a94e/index.m3u8
+鬼滴语Ⅱ2024(泰国恐怖片),https://v.cdnlz3.com/20250206/33243_627993c6/index.m3u8
+狼人2025(美国恐怖片),https://v.cdnlz3.com/20250205/33144_17af99b6/index.m3u8
 移植2024(新西兰恐怖片),https://v.cdnlz3.com/20250128/32915_c2b1c125/index.m3u8
 草迷宫恐怖杀人事件2024(菲律宾恐怖片),https://v.cdnlz3.com/20250125/32840_6bde9756/index.m3u8
 孤海沙堡2024(阿联酋/美国/黎巴嫩恐怖片),https://v.cdnlz12.com/20250125/18163_b8eab873/index.m3u8
@@ -11097,16 +11014,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 冰雪狙击(大陆战争片),https://vip1.lz-cdn1.com/20220317/27_4d256411/index.m3u8
 拯救大兵瑞恩(美国战争片),https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
 【结束】
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
-Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-Reality Kings HD,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 █████████████████████████████████████████████
 国家级FM,#genre#
 █████████████████████████████████████████████
@@ -11127,7 +11034,6 @@ CNR14⾹港之声,https://ngcdn014.cnr.cn/live/xgzs/index.m3u8
 CNR15中国交通广播,https://ngcdn001.cnr.cn/live/gsgljtgb/index.m3u8
 CNR16中国乡村之声,https://ngcdn016.cnr.cn/live/xczs/index.m3u8
 CNR17哈萨克语广播,https://ngcdn017.cnr.cn/live/hygb/index.m3u8
-CRI中国国际广播电台
 CRI华语环球(CRIChineseService),https://sk.cri.cn/hyhq.m3u8
 环球资讯广播(CRINewsRadio),https://sk.cri.cn/905.m3u8
 CRI世界华声(粤客闽潮方言广播海峡飞虹),https://sk.cri.cn/hxfh.m3u8
