@@ -12584,3 +12584,57 @@ cgtnsp,http://183.133.34.6:3000/gaoma/cgtnsp.m3u8
 北京新闻,http://183.133.34.6:3000/bptv/10000100000000050000000003870780.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
+█████████████████████████████████████████████
+国际频道源,#genre#
+█████████████████████████████████████████████
+ABC ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/222674
+BBC 1 ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17305
+BBC 2,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17318
+BBC 3  ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17321
+BBC 4 ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17331
+BBC Earth,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
+BBC,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/427229
+Blaze TV ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1088233
+Cinemax HD,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052452
+Discovery Asia,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052476
+Discovery Channel,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052478
+Disney XD ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494705
+ESPN ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/973127
+Food Network,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71351
+Fox Business,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71494
+Fox News ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1084575
+France 24 ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17361
+HBO Family,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052504
+HBO HITS,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052513
+HITS Now,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052526
+Infowars,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1086616
+Insight,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271344
+KBS World,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977690
+My Network,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1166647
+NBA TV,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71986
+NBC News Now,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/232800
+Newsnation,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/332166
+Nick Jr,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71467
+PBS Kids,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/495010
+Premier Sports,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
+Sky News,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052587
+SKY Sports F1 ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76642
+SKY Sports+  ,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/973137
+Sony Movies,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977688
+Spectrum News,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/974332
+东森美洲,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
+MTV,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052559
+TVBS欢乐台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052644
+TVB翡翠台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052638
+TVB娱乐,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052635
+
+
+
+
+
+
+
+
+
+
+
