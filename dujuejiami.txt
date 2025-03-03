@@ -12539,36 +12539,38 @@ SiTV游戏风云,http://148.135.41.171:25000/2000000002000000011/hnbblive/index.
 湖南爱晚,http://148.135.41.171:25000/6307875884530512195/hnbblive/index.m3u8*湖南电视剧
 
 █████████████████████████████████████████████
-代理直播源2,#genre#
+高码代理源,#genre#
 █████████████████████████████████████████████
-cctv1,http://183.133.34.6:3000/gaoma/cctv1.m3u8
-cctv2,http://183.133.34.6:3000/gaoma/cctv2.m3u8
-cctv3,http://183.133.34.6:3000/gaoma/cctv3.m3u8
-cctv4,http://183.133.34.6:3000/gaoma/cctv4.m3u8
-cctv5,http://183.133.34.6:3000/gaoma/cctv5.m3u8
-cctv5p,http://183.133.34.6:3000/gaoma/cctv5p.m3u8
-cctv6,http://183.133.34.6:3000/gaoma/cctv6.m3u8
-cctv7,http://183.133.34.6:3000/gaoma/cctv7.m3u8
-cctv8,http://183.133.34.6:3000/gaoma/cctv8.m3u8
-cctv9,http://183.133.34.6:3000/gaoma/cctv9.m3u8
-cctv10,http://183.133.34.6:3000/gaoma/cctv10.m3u8
-cctv11,http://183.133.34.6:3000/gaoma/cctv11.m3u8
-cctv12,http://183.133.34.6:3000/gaoma/cctv12.m3u8
-cctv13,http://183.133.34.6:3000/gaoma/cctv13.m3u8
-cctv14,http://183.133.34.6:3000/gaoma/cctv14.m3u8
-cctv15,http://183.133.34.6:3000/gaoma/cctv15.m3u8
-cctv16,http://183.133.34.6:3000/gaoma/cctv16.m3u8
-cctv16(4k),http://183.133.34.6:3000/gaoma/cctv4k16.m3u8
-cctv17,http://183.133.34.6:3000/gaoma/cctv17.m3u8
-cctv4K(4k),http://183.133.34.6:3000/gaoma/cctv4k.m3u8
-cctv4k(4K),http://183.133.34.6:3000/gaoma/cctv4k_10m.m3u8
-cctv8k(4K),http://183.133.34.6:3000/gaoma/cctv8k_36m.m3u8
-cgtnar,http://183.133.34.6:3000/gaoma/cgtnar.m3u8
-cgtndoc,http://183.133.34.6:3000/gaoma/cgtndoc.m3u8
-cgtnen,http://183.133.34.6:3000/gaoma/cgtnen.m3u8
-cgtnfr,http://183.133.34.6:3000/gaoma/cgtnfr.m3u8
-cgtnru,http://183.133.34.6:3000/gaoma/cgtnru.m3u8
-cgtnsp,http://183.133.34.6:3000/gaoma/cgtnsp.m3u8
+CCTV-1 综合,http://183.133.34.6:3000/gaoma/cctv1.m3u8
+CCTV-2 财经,http://183.133.34.6:3000/gaoma/cctv2.m3u8
+CCTV-3 综艺,http://183.133.34.6:3000/gaoma/cctv3.m3u8
+CCTV-4 中文国际,http://183.133.34.6:3000/gaoma/cctv4.m3u8
+CCTV-5 体育,http://183.133.34.6:3000/gaoma/cctv5.m3u8
+CCTV-5+ 体育赛事,http://183.133.34.6:3000/gaoma/cctv5p.m3u8
+CCTV-6 电影,http://183.133.34.6:3000/gaoma/cctv6.m3u8
+CCTV-7 国防军事,http://183.133.34.6:3000/gaoma/cctv7.m3u8
+CCTV-8 电视剧,http://183.133.34.6:3000/gaoma/cctv8.m3u8
+CCTV-9 记录,http://183.133.34.6:3000/gaoma/cctv9.m3u8
+CCTV-10 科教,http://183.133.34.6:3000/gaoma/cctv10.m3u8
+CCTV-11 戏曲,http://183.133.34.6:3000/gaoma/cctv11.m3u8
+CCTV-12 社会与法,http://183.133.34.6:3000/gaoma/cctv12.m3u8
+CCTV-13 新闻,http://183.133.34.6:3000/gaoma/cctv13.m3u8
+CCTV-14 少儿,http://183.133.34.6:3000/gaoma/cctv14.m3u8
+CCTV-15 音乐,http://183.133.34.6:3000/gaoma/cctv15.m3u8
+CCTV-16 奥林匹克,http://183.133.34.6:3000/gaoma/cctv16.m3u8
+CCTV-16 奥林匹克4K,http://183.133.34.6:3000/gaoma/cctv4k16.m3u8
+CCTV-17 农业农村,http://183.133.34.6:3000/gaoma/cctv17.m3u8
+
+CCTV-4K(4k),http://183.133.34.6:3000/gaoma/cctv4k.m3u8
+CCTV-4k(4K),http://183.133.34.6:3000/gaoma/cctv4k_10m.m3u8
+CCTV-8k(4K),http://183.133.34.6:3000/gaoma/cctv8k_36m.m3u8
+CGTN阿拉伯语,http://183.133.34.6:3000/gaoma/cgtnar.m3u8
+CGTN俄罗斯语,http://183.133.34.6:3000/gaoma/cgtnru.m3u8
+CGTN法语,http://183.133.34.6:3000/gaoma/cgtnfr.m3u8
+CGTN记录,http://183.133.34.6:3000/gaoma/cgtndoc.m3u8
+CGTN西班牙语,http://183.133.34.6:3000/gaoma/cgtnsp.m3u8
+CGTN英语,http://183.133.34.6:3000/gaoma/cgtnen.m3u8
+
 
 北京IPTV4K,http://183.133.34.6:3000/bptv/10000100000000050000000003887500.m3u8
 北京IPTV萌宠TV,http://183.133.34.6:3000/bptv/10000100000000050000000003887495.m3u8
