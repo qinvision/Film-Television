@@ -10239,7 +10239,7 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 冰雪狙击(大陆战争片),https://vip1.lz-cdn1.com/20220317/27_4d256411/index.m3u8
 拯救大兵瑞恩(美国战争片),https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
 █████████████████████████████████████████████
-国家级FM,#genre#
+国家电台FM,#genre#
 █████████████████████████████████████████████
 CNR1中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 CNR2经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
