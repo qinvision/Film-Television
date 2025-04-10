@@ -4731,7 +4731,8 @@ X战警：黑凤凰(美国动作片),
 
 
 
-
+评估2024(科幻片),https://v.lzcdn25.com/20250410/301_aa5fd16a/index.m3u8
+编号17   2025(美国科幻片),https://v.lzcdn25.com/20250406/276_21d362fe/index.m3u8
 末日2024(美国科幻片),https://v.lzcdn25.com/20250321/149_42cb40c2/index.m3u8
 美国队长Ⅳ2025(美国科幻片),https://v.lzcdn25.com/20250309/76_f578268f/index.m3u8
 人造正义2024(西班牙科幻片),https://v.lzcdn25.com/20250311/86_3cd9853b/index.m3u8
@@ -6085,7 +6086,13 @@ SPEC：天(日本科幻片),
 █████████████████████████████████████████████
 
 
-
+马路对面的房子2023(美国恐怖片),https://v.lzcdn25.com/20250410/300_cba6e205/index.m3u8
+血色附身2022(西班牙恐怖片),https://v.lzcdn25.com/20250410/304_bfafc9e3/index.m3u8
+致命著作2025(美国恐怖片),https://v.lzcdn25.com/20250408/282_1849c208/index.m3u8
+鹊之家2024(英国恐怖片),https://v.lzcdn25.com/20250408/285_c0c01885/index.m3u8
+阴宅捉迷藏2024(恐怖片),https://v.lzcdn25.com/20250408/286_be95c500/index.m3u8
+库德拉特2022(恐怖片),https://v.lzcdn25.com/20250408/288_a7bafa6b/index.m3u8
+观山太保2025(大陆恐怖片),https://v.lzcdn25.com/20250406/273_a4f1953d/index.m3u8
 404宿灵速速逃2024(泰国恐怖片),https://v.lzcdn25.com/share/a4f23670e1833f3fdb077ca70bbd5d66
 下午4点2024(韩国恐怖片),https://v.lzcdn25.com/20250402/249_39546aa9/index.m3u8
 虽然只是弄丢了手机~最终章~最后的黑客游戏2024(日本恐怖片),https://v.lzcdn25.com/20250402/247_0287db3b/index.m3u8
