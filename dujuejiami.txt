@@ -6108,11 +6108,20 @@ SPEC：天(日本科幻片),
 三大怪兽美食家(日本科幻片),
 星际穿越(美国科幻片),
 █████████████████████████████████████████████
-恐怖片0414,#genre#
+恐怖片0510,#genre#
 █████████████████████████████████████████████
 
 
-
+丑陋的继姐(恐怖片),https://v.lzcdn25.com/20250510/522_1f7d1e9e/index.m3u8
+院子里的女人(美国恐怖片),https://v.lzcdn25.com/20250508/507_23828721/index.m3u8
+鬼们之蝴蝶大厦(台湾恐怖片),https://v.lzcdn25.com/20250506/482_6b1976a4/index.m3u8
+玩命夏日(美国恐怖片),https://v.lzcdn25.com/20250506/481_4f64da70/index.m3u8
+鬼猫(恐怖片),https://v.lzcdn25.com/20250502/457_7d1b85e2/index.m3u8
+侵犯2024(韩国恐怖片),https://v.lzcdn25.com/20250501/443_e390e183/index.m3u8
+隔空投送(美国恐怖片),https://v.lzcdn25.com/20250430/425_24b450af/index.m3u8
+地震逃生(美国恐怖片),https://v.lzcdn25.com/20250430/423_7fa76fe7/index.m3u8
+睡美人2023(恐怖片),https://v.lzcdn25.com/20250428/409_0e5e9bf8/index.m3u8
+罕扎布(恐怖片),https://v.lzcdn25.com/20250428/412_3be9f751/index.m3u8
 异世降临  2025(美国恐怖片),https://v.lzcdn25.com/20250423/380_1b99c9c2/index.m3u8
 紧锁  2025(美国恐怖片),https://v.lzcdn25.com/20250423/376_c528b6a7/index.m3u8
 女孩Ⅱ  2025(印度恐怖片),https://v.lzcdn25.com/20250423/372_bae804c9/index.m3u8
