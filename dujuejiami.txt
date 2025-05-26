@@ -1,10 +1,24 @@
 
 █████████████████████████████████████████████
-动作片0512,#genre#
+动作片0525,#genre#
 █████████████████████████████████████████████
 
 
-艾尔应用程序(美国动作片),艾尔应用程序HD美国动作片
+
+
+
+寻秘不老泉(美国动作片),https://v.lzcdn25.com/20250524/621_314db22e/index.m3u8
+猎毒风暴(大陆动作片),https://v.lzcdn25.com/20250523/611_27eb15ef/index.m3u8
+雪中血刀行(大陆动作片),https://v.lzcdn25.com/20250523/614_f2466b93/index.m3u8
+单身黑人女2：西蒙娜的复仇(美国动作片),https://v.lzcdn25.com/20250521/606_af99e295/index.m3u8
+★功夫梦：融合之道TC(美国动作片),https://v.lzcdn25.com/20250521/598_77833ec5/index.m3u8
+★碟中谍8：最终清算TC(美国动作片),https://v.lzcdn25.com/20250519/586_a8f84919/index.m3u8
+电影 虫王战队超王者：冒险天堂(日本动作片),https://v.lzcdn25.com/20250519/585_8798c251/index.m3u8
+套现2：大赌客(美国动作片),https://v.lzcdn25.com/20250519/584_f13623fc/index.m3u8
+隐藏玩家(大陆动作片),https://v.lzcdn25.com/20250516/568_30f2174a/index.m3u8
+暗涌2025(大陆动作片),https://v.lzcdn25.com/20250516/558_cc65c4be/index.m3u8
+黄金矿工(印度动作片),https://v.lzcdn25.com/20250514/552_985a66d5/index.m3u8
+艾尔应用程序(美国动作片),https://v.lzcdn25.com/20250512/535_ad04aaf1/index.m3u8
 入侵之战(其它动作片),https://v.lzcdn25.com/20250509/521_567cd267/index.m3u8
 雪地事件簿2：悬崖之上(法国动作片),https://v.lzcdn25.com/20250509/518_610e613b/index.m3u8
 怒水西流(大陆动作片),https://v.lzcdn25.com/20250509/515_6f827b33/index.m3u8
