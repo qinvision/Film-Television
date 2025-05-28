@@ -10396,6 +10396,7 @@ CRI华语环球(CRIChineseService),https://sk.cri.cn/hyhq.m3u8
 CRI世界华声(粤客闽潮方言广播海峡飞虹),https://sk.cri.cn/hxfh.m3u8
 CRIEZFM轻松调频,https://sk.cri.cn/915.m3u8
 HITFM劲曲调频,https://sk.cri.cn/887.m3u8
+
 █████████████████████████████████████████████
 蜻蜓电台FM,#genre#
 █████████████████████████████████████████████
@@ -10484,7 +10485,6 @@ PLAYFM,https://lhttp-hw.qtfm.cn/live/20035/64k.mp3
 曹县融媒体中心综合广播FM93.3,https://lhttp-hw.qtfm.cn/live/5022340/64k.mp3
 察布查尔FM99.5,https://lhttp-hw.qtfm.cn/live/5022610/64k.mp3
 常德鼎广电台,https://lhttp-hw.qtfm.cn/live/5021860/64k.mp3
-常德好朋友926音乐电台,https://lhttp-hw.qtfm.cn/live/5022413/64k.mp3
 常德交通广播,https://lhttp-hw.qtfm.cn/live/15318209/64k.mp3
 常德澧县广播电台,https://lhttp-hw.qtfm.cn/live/15318178/64k.mp3
 常德综合广播,https://lhttp-hw.qtfm.cn/live/15318208/64k.mp3
