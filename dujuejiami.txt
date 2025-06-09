@@ -11504,5 +11504,19 @@ WQXR-FM紐約愛樂電台,https://stream.wqxr.org/wqxr
 中廣流行網Ilikeradio,https://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
 中廣新聞網BCCNewsRadio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
 中廣音樂網iRadioFM96.3,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
-1,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F9a039e21-16a3-41dc-853d-f33888abe0f8%2F720p%2Fvideo.m3u8
+█████████████████████████████████████████████
+日本有码AV,#genre#
+█████████████████████████████████████████████
+ADN-691,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F69ca9e9e-88db-4227-acca-2718efc24ed4%2F720p%2Fvideo.m3u8
+ADN-693,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F9a039e21-16a3-41dc-853d-f33888abe0f8%2F720p%2Fvideo.m3u8
+ADN-698,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F233b8c2c-1afd-4da4-81a1-161644bd2263%2F720p%2Fvideo.m3u8
+CAWD-827,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2Fd6a7b93a-d36c-4c9e-9dff-bd431e3e1450%2F720p%2Fvideo.m3u8
+CAWD-835,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F6ef53968-6238-4418-967d-5aa527b93c65%2F720p%2Fvideo.m3u8
+FNS-033,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2Fc2ca9255-1ede-4fe7-a697-5bd341983626%2F720p%2Fvideo.m3u8
+ROE-339,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2Fbc6d9af2-1e78-4573-9e91-574f13730bcb%2F720p%2Fvideo.m3u8
+SAME-155,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F8fbdd060-3b1f-4530-8fe3-c5386c1d5f8c%2F720p%2Fvideo.m3u8
+SAME-160,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F8a784842-a231-4566-87c3-a2931c7d06a1%2F720p%2Fvideo.m3u8
+SAME-172,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F5c5a786f-51ad-4487-b84a-252a249723b4%2F720p%2Fvideo.m3u8
+SAME-179,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2F84b46f9d-540a-4cba-9446-35724c898a3d%2F720p%2Fvideo.m3u8
+SAME-189,https://missavplay.8dy.one/?url=https%3A%2F%2Fsurrit.com%2Facdc36b3-e7fc-4136-89c6-28205b1f9534%2F720p%2Fvideo.m3u8
 
