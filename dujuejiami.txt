@@ -474,215 +474,217 @@ cgtnsp-NPTV,http://120.236.126.156:55455/nptv/cgtnsp.m3u8
 
 
 █████████████████████████████████████████████
-2025新电影资源,#genre#
+2025新电影更新中,#genre#
 █████████████████████████████████████████████
-脱离罪恶OfftheGrid(2025),https://p.b8bf.com/video/tuolizuie/HD/index.m3u8
-黑宅故事TalesfromBlackManor(2025),https://cdn.yzzy29-play.com/20250628/175_82161242/index.m3u8
-阿尔玛与狼AlmaandtheWolf(2025),https://cdn.yzzy29-play.com/20250621/133_9fc3d715/index.m3u8
-【抢先版】惊变28年28YearsLater(2025),https://vv.jisuzyv.com/play/lejx9l5b/index.m3u8
-新·驯龙高手HowtoTrainYourDragon(2025),https://v.gsuus.com/play/penBorEe/index.m3u8
-回声谷EchoValley(2025),https://svipsvip.ffzy-online5.com/20250613/42184_2eb6c7a0/index.m3u8
-迪亚波罗的复仇Diablo(2025),https://cdn.yzzy29-play.com/20250615/64_ea5d2f1c/index.m3u8
-纳粹僵尸ZombiesOfTheThirdReich(2025),https://p.b8bf.com/video/nacuijiangshi/HD/index.m3u8
-铁血战士：杀戮之王Predator:KillerofKillers(2025),https://v.lzcdn25.com/20250607/740_c97b6ee3/index.m3u8
-救命稻草Straw(2025),https://svipsvip.ffzy-online5.com/20250606/41976_7bc994dd/index.m3u8
-救赎一击K.O.(2025),https://vip.ffzy-online3.com/20250606/37310_760c60c0/index.m3u8
-【抢先版】疾速追杀外传：芭蕾杀姬Ballerina(2025),https://v.gsuus.com/play/penB7z7e
-腓尼基计划ThePhoenicianScheme(2025),https://cdn.yzzy29-play.com/20250623/147_8d5e957f/index.m3u8
-理发师陶德：血宴共戮SweeneyTodd:Slice&Dice(2025),https://cdn.yzzy29-play.com/20250621/126_069059b7/index.m3u8
-葬送TheSurrender(2025),https://yzzy21.playback-speed.com/20250525/43078_612dc838/2000k/hls/mixed.m3u8
-恐惧街：舞会王后FearStreet:ThePromQueen(2025),https://p.bvvvvvvv7f.com/video/kongjujiewuhuiwanghou/HD/index.m3u8
-星际监狱OhryisProject(2025),https://p.bvvvvvvv7f.com/video/xingjijianyu2025/HD/index.m3u8
-寻秘不老泉FountainofYouth(2025),https://v.lzcdn25.com/20250524/621_314db22e/index.m3u8
-【TC】碟中谍8：最终清算Mission:Impossible-TheFinalReckoning(2025),https://p.bvvvvvvv7f.com/video/diezhongdie8zuizhongqingsuan/TC/index.m3u8
-荒漠黎明DesertDawn(2025),https://p.b8bf.com/video/huangmoliming/HD/index.m3u8
-超乎常人ABreedApart(2025),https://p.bvvvvvvv7f.com/video/chaohuchangren2025/HD/index.m3u8
-死神来了6：血脉诅咒FinalDestination:Bloodlines(2025),https://cdn.yzzy29-play.com/20250616/82_9778d5d2/2000k/hls/mixed.m3u8
-坚守阵地StandYourGround(2025),https://cdn.yzzy29-play.com/20250611/34_e369853d/2000k/hls/mixed.m3u8
-绝对自治权AbsoluteDominion(2025),https://cdn.yzzy29-play.com/20250618/102_ec895663/index.m3u8
-玉米地小丑ClowninACornfield(2025),https://play.modujx11.com/20250610/VlBHs8uR/4221kb/hls/index.m3u8
-急弯SharpCorner(2025),https://svipsvip.ffzy-online5.com/20250513/41233_44ddf432/index.m3u8
-罪证子弹3Balleperdue3(2025),https://p.bvvvvvvv7f.com/video/zuizhengzidan3/HD/index.m3u8
-MMA警察MMACop(2025),https://vip.ffzy-video.com/20250612/20188_6145e68b/index.m3u8
-战地之声WordsofWar(2025),https://cdn.yzzy29-play.com/20250615/73_d2ddea18/index.m3u8
-罗萨里奥Rosario(2025),https://p.bvvvvvvv7f.com/video/luosaliao/HD/index.m3u8
-幽冥部队ShadowForce(2025),https://vip.ffzy-online3.com/20250601/37149_635d6ac5/index.m3u8
-谋杀干预组3HIT:The3rdCase(2025),https://p.bvvvvvvv7f.com/video/moushaganyuzu3/HD/index.m3u8
-冲浪惊魂TheSurfer(2025),https://p.b8bf.com/video/buqingzilai2025/HD/index.m3u8
-战地之声WordsofWar(2025),https://cdn.yzzy29-play.com/20250615/73_d2ddea18/index.m3u8
-深海恐惧FearBelow(2025),https://cdn.yzzy29-play.com/20250610/15_9bf31c7f/2000k/hls/mixed.m3u8
-袭击2Raid2(2025),https://cdn.yzzy29-play.com/20250628/177_96da2f59/index.m3u8
-誓约归隐Retro(2025),https://yzzy21.playback-speed.com/20250601/43138_3a00f5cd/index.m3u8
-雷霆特攻队*Thunderbolts*(2025),https://vip1.lz-cdn1.com/20220408/1287_e2f31cb5/1200k/hls/mixed.m3u8
-神圣之夜：恶魔猎人거룩한밤:데몬헌터스(2025),https://p.bvvvvvvv7f.com/video/shenshengzhiyeemolieren/%E4%B8%AD%E5%AD%97/index.m3u8
-破果파과(2025),https://vip.ffzy-video.com/20250612/20235_7cd11cb8/index.m3u8
-域外营救Exterritorial(2025),https://vip.ffzy-video.com/20250430/17187_b5eded27/index.m3u8
-最后的小屋TheLastCabin(2025),https://cdn.yzzy29-play.com/20250618/110_5f93f983/index.m3u8
-死亡信息ProjectMKHEXE(2025),https://svip.high21-playback.com/20250518/43013_791b8be7/2000k/hls/mixed.m3u8
-直到黎明UntilDawn(2025),https://p.bvvvvvvv7f.com/video/zhidaoliming/HD/index.m3u8
-会计刺客2TheAccountant2(2025),https://p.b8bf.com/video/huijicike2/HD/index.m3u8
-守望相助NeighborhoodWatch(2025),https://svip.high21-playback.com/20250427/42716_eae5f132/2000k/hls/mixed.m3u8
-毒劫Havoc(2025),https://v9.tlkqc.com/wjv9/202504/25/J6SEFbrp9t81/video/1000k_720/hls/index.m3u8
-蓝色恶魔BlueDevils(2025),https://p.bvvvvvvv7f.com/video/lanmo/HD/index.m3u8
-千万别眨眼NeverBlink(2025),https://cdn.yzzy29-play.com/20250621/140_1385974e/index.m3u8
-新干线惊爆倒数新幹線大爆破(2025),https://vip.ffzy-video.com/20250423/16706_0b1a888b/index.m3u8
-i人质危机iHostage(2025),https://svipsvip.ffzy-online5.com/20250418/40399_9971bf40/index.m3u8
-阿炯：维贾扬蒂之子ArjunS/OVyjayanthi(2025),https://p.bvvvvvvv7f.com/video/ajiongweijiayangdizhizi/HD/index.m3u8
-仪式TheRitual(2025),https://vip1.lz-cdn7.com/20221225/12869_a48f2323/2000k/hls/mixed.m3u8
-机械杀娃ROB1N(2025),https://svip.high21-playback.com/20250507/42877_dcae1274/index.m3u8
-极寒潜袭Кракен(2025),https://cdn.yzzy29-play.com/20250618/96_26657d5f/index.m3u8
-连环兔子杀手2SerialRabbitOne(2025),https://svip.high21-playback.com/20250509/42905_8a911571/index.m3u8
-心魔ItFeeds(2025),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
-罪人Sinners(2025),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
-紫罗兰Violet(2025),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
-棉花软糖Marshmallow(2025),https://cdn.yzzy29-play.com/20250618/105_65b9eea6/index.m3u8
-战·争Warfare(2025),https://vip.ffzy-play10.com/20250507/40884_8727f126/index.m3u8
-枪手TheGunslingers(2025),https://vip.ffzy-video.com/20250416/16123_45b0095c/index.m3u8
-女孩2Chhorii2(2025),https://vip.ffzy-play6.com/20250414/35143_1ec81753/index.m3u8
-G20峰会G20(2025),https://svipsvip.ffzy-online5.com/20250410/40098_e9c46fbd/index.m3u8
-善恶边缘：暗黑交锋GoodBadUgly(2025),https://vip.ffzy-video.com/20250510/17842_38350940/index.m3u8
-无敌贾特Jaat(2025),https://p.b8bf.com/video/wudijiate/HD/index.m3u8
-谍网追凶TheAmateur(2025),https://v.gsuus.com/play/pen2njDe/index.m3u8
-最后冲刺EmotionIsDead(2025),https://yzzy21.playback-speed.com/20250525/43072_e008edf1/2000k/hls/mixed.m3u8
-沙漠恶魔DesertFiends(2025),https://v.gsuus.com/play/pen2njDe/index.m3u8
-莫莉计划TheMollieProject(2025),https://p.bvvvvvvv7f.com/video/molijihua/HD/index.m3u8
-泣船威利ScreamBoat(2025),https://p.bvvvvvvv7f.com/video/qichuanweili/HD/index.m3u8
-我的世界大电影AMinecraftMovie(2025),https://p.bvvvvvvv7f.com/video/wodeshijiedadianying/HD/index.m3u8
-埃德蒙·肯珀EdKemper(2025),https://p.bvvvvvvv7f.com/video/aidemengkenpo/HD/index.m3u8
-战争迷雾FogofWar(2025),https://v4.daayee.com/yyv4/202504/05/gddTfk8HuA19/video/index.m3u8
-林荫路825号825ForestRoad(2025),https://vip.ffzy-video.com/20250408/15520_287abb19/index.m3u8
-恐怖特快공포특급(2025),https://vip.ffzy-video.com/20250428/16954_d07a5a3f/index.m3u8
-罪魁祸首Culprit(2025),https://play.xluuss.com/play/6dBD6m2a/index.m3u8
-公平之雨FairRain(2025),https://p.b8bf.com/video/gongpingzhiyu/%E9%AB%98%E6%B8%85/index.m3u8
-斗士Sikandar(2025),https://yzzy21.playback-speed.com/20250525/43076_4c01ca04/2000k/hls/mixed.m3u8
-清算日DayofReckoning(2025),https://p.bvvvvvvv7f.com/video/qingsuanri2025/HD/index.m3u8
-制暴：无限杀机AWorkingMan(2025),https://vip.ffzy-video.com/20250407/15510_1471a8e0/index.m3u8
-院子里的女人TheWomanInTheYard(2025),https://svip.high21-playback.com/20250416/42588_d5cb61ee/index.m3u8
-独角兽之死DeathofaUnicorn(2025),https://svipsvip.ffzy-online5.com/20250429/40737_0849659c/index.m3u8
-路西法2L2:Empuraan(2025),https://v6.tlkqc.com/wjv6/202504/21/U5AMjharZW78/video/1000k_720/hls/index.m3u8
-珠宝大盗：神偷出马JewelThief-TheHeistBegins(2025),https://svipsvip.ffzy-online5.com/20250425/40616_4e707d76/index.m3u8
-劫车王Carjackers(2025),https://vip.ffzy-video.com/20250408/15518_271df686/index.m3u8
-上帝阴影下ShadowOfGod(2025),https://vip.ffzy-video.com/20250416/16126_e74b1035/index.m3u8
-森林小丑TheForestClown(2025),https://play.xluuss.com/play/mbkYxxve/index.m3u8
-鬼屋直播Livestream(2025),https://vip.ffzy-video.com/20250414/16034_0064f599/index.m3u8
-白雪公主SnowWhite(2025),https://vip.ffzy-video.com/20250513/18082_ad5db592/index.m3u8
-异世降临Ash(2025),https://vip.ffzy-video.com/20250424/16733_851612d3/index.m3u8
-流播스트리밍(2025),https://hn.bfvvs.com/play/vbmKnXre/index.m3u8
-来自谁的启示계시록(2025),https://vip.ffzy-video.com/20250321/14389_5dae854c/index.m3u8
-大力杀手波派PopeyetheSlayerMan(2025),https://c1.7bbffvip.com/video/dalishashoubopai/HD/index.m3u8
-入侵2：逃亡Invasive2Getaway(2025),https://v.gsuus.com/play/DdwX7mMe/index.m3u8
-紧锁Locked(2025),https://vip.ffzy-video.com/20250422/16643_1ceb3ad8/index.m3u8
-甜蜜之家：重生HomeSweetHomeRebirth(2025),https://vip.ffzy-video.com/20250416/16127_2034597b/index.m3u8
-【TC】冥婚红包ซองแดงแต่งผี(2025),https://play.xluuss.com/play/BeXgZDld/index.m3u8
-制高点HighGround(2025),https://v2.bxgbnet.com/yyv2/202503/23/X5N4xGnnUJ24/video/2000k_1080/hls/index.m3u8
-演员TheActor(2025),https://cdn7.ryplay7.com/20250423/13817_9e53bd5c/2000k/hls/index.m3u8
-万里归省TheDiplomat(2025),https://p.bvvvvvvv7f.com/video/wanliguisheng/HD/index.m3u8
-套现2：大赌客CashOut2:HighRollers(2025),https://c1.7bbffvip.com/video/taoxian2daduke/HD/index.m3u8
-电幻国度TheElectricState(2025),https://vip.ffzy-video.com/20250314/13949_92703b40/index.m3u8
-我丈夫的情妇MyHusband'sMistress(2025),https://p.bvvvvvvv7f.com/video/wozhangfudeqingfu/HD/index.m3u8
-临界点Borderline(2025),https://c1.7bbffvip.com/video/linjiedian/%E4%B8%AD%E5%AD%97/index.m3u8
-家教TheParenting(2025),https://svip.high21-playback.com/20250314/41968_3e2086d5/2000k/hls/mixed.m3u8
-森林传说LegendoftheForest(2025),https://cdn.yzzy29-play.com/20250615/70_7cbbc409/index.m3u8
-控制狂ControlFreak(2025),https://c1.7bbffvip.com/video/kongzhikuang/HD/index.m3u8
-无痛凯恩Novocaine(2025),https://svip.high21-playback.com/20250411/42509_83bf29a1/2000k/hls/mixed.m3u8
-通灵：一个新的开始Ouija:ANewBeginning(2025),https://p.bvvvvvvv7f.com/video/tonglingyigexindekaishi/HD/index.m3u8
-侵犯침범(2025),https://svip.high21-playback.com/20250504/42805_edb484b3/index.m3u8
-黑袋行动BlackBag(2025),https://v.lzcdn25.com/20250403/254_068512da/index.m3u8
-放飞Uncontained(2025),https://cdn.yzzy29-play.com/20250610/14_aab32389/2000k/hls/mixed.m3u8
-异星入侵：凤凰出山AlienInvasion:RiseofthePhoenix(2025),https://p.bvvvvvvv7f.com/video/yixingruqinfenghuangchushan/HD/index.m3u8
-隔空投送Drop(2025),https://svipsvip.ffzy-online5.com/20250429/40738_8de76941/index.m3u8
-荷兰镇Holland(2025),https://v.lzcdn25.com/20250328/206_a0413058/index.m3u8
-独角兽之死DeathofaUnicorn(2025),https://p.bvvvvvvv7f.com/video/dujiaoshouzhisi/HD/index.m3u8
-黑煞女พนอ(2025),https://yzzy21.playback-speed.com/20250527/43094_2580aff5/2000k/hls/mixed.m3u8
-在失落之地IntheLostLands(2025),https://v.lzcdn25.com/20250408/290_6bd4116b/index.m3u8
-丑陋的继姐Denstyggestesøsteren(2025),https://v.lzcdn25.com/20250510/522_1f7d1e9e/index.m3u8
-异界信号Stutter(2025),https://hn.bfvvs.com/play/7e5BNxBa/index.m3u8
-Suky(2025),https://vip.ffzy-video.com/20250605/19804_92e0c17c/index.m3u8
-河童之子Bloat(2025),https://svip.high21-playback.com/20250309/41890_aa85b86e/index.m3u8
-静默地带SilentZone(2025),https://hn.bfvvs.com/play/NbWxoKJd/index.m3u8
-孕育时代DiegestohleneZeit(2025),https://p.bvvvvvvv7f.com/video/yunyushidai/HD/index.m3u8
-烛影危林Candlewood(2025),https://hn.bfvvs.com/play/QbYzo5Ad/index.m3u8
-终极武装Armed(2025),https://vip.ffzy-video.com/20250503/17417_7bcab494/index.m3u8
-构筑TheBuildout(2025),https://v11.tlkqc.com/wjv11/202503/07/mLXHHDQ6YC83/video/1000k_720/hls/index.m3u8
-扭曲的虔诚TwistedDevotion(2025),https://hn.bfvvs.com/play/wdLQJwpe/index.m3u8
-尸魔敲门RevengeOfTheBoogeyman(2025),https://p.bvvvvvvv7f.com/video/shimoqiaomen/HD/index.m3u8
-死亡徒步TheRuckMarch(2025),https://svip.high21-playback.com/20250324/42180_0d47a566/2000k/hls/mixed.m3u8
-恐怖猴玩偶TheJollyMonkey(2025),https://svip.high21-playback.com/20250519/43019_26e87ce3/index.m3u8
-疯狂一天Crazxy(2025),https://p.bvvvvvvv7f.com/video/fengkuangyitian/HD/index.m3u8
-36总局：势不两立Bastion36(2025),https://v.lzcdn25.com/20250301/31_90e2ce85/index.m3u8
-飞速追杀FightorFlight(2025),https://v.lzcdn25.com/20250328/201_1b55bf5d/index.m3u8
-一息尚存LastBreath(2025),https://vip.ffzy-play10.com/20250405/40131_b9dcc879/index.m3u8
-边境奇袭Contraataque(2025),https://v.lzcdn25.com/20250305/46_f4053b69/index.m3u8
-鬼城杀DemonCity鬼ゴロシ(2025),https://v.lzcdn25.com/20250228/21_412ded54/index.m3u8
-娜迦：永恒的羁绊นาคบรรพ์(2025),https://p.b8bf.com/video/najiayonghengdejiban/HD/index.m3u8
-灯塔谋杀案MurderattheLighthouse(2025),https://svip.high21-playback.com/20250430/42754_384008da/index.m3u8
-怪猴TheMonkey(2025),https://v.lzcdn25.com/20250328/202_f98d43a6/index.m3u8
-生命热线Lifeline(2025),https://p.bvvvvvvv7f.com/video/shengmingrexian/HD/index.m3u8
-罪恶清除工Cleaner(2025),https://svip.high21-playback.com/20250322/42161_1209baf9/index.m3u8
-歹徒们Patsers(2025),https://v1.tlkqc.com/wjv1/202505/31/jdpmmwcrAt85/video/1000k_720/hls/index.m3u8
-魅味Delicious(2025),https://v.lzcdn25.com/20250308/71_f847c188/index.m3u8
-编号17Mickey17(2025),https://v.lzcdn25.com/20250406/276_21d362fe/index.m3u8
-孕期惊魂Womb(2025),https://p.bvvvvvvv7f.com/video/yunqijinghun/HD/index.m3u8
-峡谷TheGorge(2025),https://v.cdnlz3.com/20250214/33672_208a1193/index.m3u8
-灵村KampungKeramat(2025),https://m3u.nikanba.live/share/31c7b4189fc7d79ee75474a5a6366f73.m3u8
-钢锯恶魔TheDevil'sHacksaw(2025),https://svip.high21-playback.com/20250509/42903_199f31fd/index.m3u8
-美国队长4CaptainAmerica:BraveNewWorld(2025),https://v.lzcdn24.com/20250311/23009_f82b3dd3/index.m3u8
-催化剂Catalyst(2025),https://svip.high21-playback.com/20250516/42979_17e908cb/2000k/hls/index_5b9c71f88914647c7610.m3u8
-改日再战FightAnotherDay(2025),https://svip.high21-playback.com/20250209/41495_95e51df0/index.m3u8
-腥心眼HeartEyes(2025),https://v.lzcdn25.com/20250305/55_975435e0/index.m3u8
-前任杀神LoveHurts(2025),https://v.lzcdn25.com/20250226/6_2966ddd8/index.m3u8
-铁驭神兵TinSoldier(2025),https://p.bvvvvvvv7f.com/video/tieyushenbing/HD/index.m3u8,https://p.b8bf.com/video/ezhouling/HD/index.m3u8
-咒书远古魔Dajal:SatuMalamDiPedajal(2025),https://vip.ffzy-video.com/20250510/17843_c9cf4399/index.m3u8
-沼泽之地TheBayou(2025),https://play.xluuss.com/play/6dBw39We/index.m3u8
-坚毅奇兵Vidaamuyarchi(2025),https://c1.7bbffvip.com/video/jianyiqibing/HD/index.m3u8
-破碎브로큰(2025),https://v.lzcdn25.com/20250313/102_2a0c9760/index.m3u8
-六天SixJours(2025),https://cdn.yzzy29-play.com/20250616/89_7647966b/2000k/hls/mixed.m3u8
-篮中弃婴TheBabyintheBasket(2025),https://svip.high21-playback.com/20250427/42714_938f7afc/2000k/hls/mixed.m3u8
-六天SixJours(2025),https://cdn.yzzy29-play.com/20250616/89_7647966b/index.m3u8
-灰烬森林WoodsofAsh(2025),https://svip.high21-playback.com/20250309/41891_21fe67f7/2000k/hls/mixed.m3u8
-勇敢之人ValiantOne(2025),https://c1.7bbffvip.com/video/yongganzhiren2025/HD/index.m3u8
-德瓦Deva(2025),https://v.lzcdn25.com/20250330/220_32704fdf/index.m3u8
-完美伴侣Companion(2025),https://v.cdnlz12.com/20250219/18237_1f952107/index.m3u8
-致命著作Opus(2025),https://v.lzcdn25.com/20250408/282_1849c208/index.m3u8
-便衣警察Plainclothes(2025),https://c1.7bbffvip.com/video/bianyijingcha2025/HD/index.m3u8
-杀人鼠实验MouseofHorrors(2025),https://c1.7bbffvip.com/video/sharenshushiyan/HD/index.m3u8
-猪皮脸Piglet'sReturn(2025),https://c1.7bbffvip.com/video/zhurenguilai/HD/index.m3u8
-荒诞神话MythofMan(2025),https://svip.high21-playback.com/20250326/42247_d2cc0972/2000k/hls/mixed.m3u8
-天空部队SkyForce(2025),https://vip.ffzy-video.com/20250329/14937_129d98d6/index.m3u8
-财富流感RichFlu(2025),https://v.lzcdn25.com/20250325/189_57368e1b/index.m3u8
-黑修女们검은수녀들(2025),https://v.lzcdn25.com/20250305/52_5c5821a1/index.m3u8
-堕入深渊IntotheDeep(2025),https://svip.high21-playback.com/20250124/41210_e833a137/index.m3u8
-血继Inheritance(2025),https://vodcnd14.myqqdd.com/20250227/ey2vzBkg/4099kb/hls/index.m3u8
-星际迷航：31区StarTrek:Section31(2025),https://v.cdnlz3.com/20250125/32841_739227b6/index.m3u8
-7天之前Sebelum7Hari(2025),https://p.b8bf.com/video/7tianzhiqian/HD/index.m3u8
-邪恶之城Zloygorod(2025),https://vip.ffzy-video.com/20250416/16130_02923027/index.m3u8
-插翅难飞FlightRisk(2025),https://v.cdnlz3.com/20250214/33700_9737db78/index.m3u8
-狙击精英:背水一战Sniper:TheLastStand(2025),https://v.cdnlz3.com/20250121/32608_6618af6d/index.m3u8
-警报战Alarum(2025),https://svip.high21-playback.com/20250118/41123_5d20c790/2000k/hls/mixed.m3u8
-室町无赖室町無頼(2025),https://cdn.yzzy29-play.com/20250621/127_ec5decca/index.m3u8
-我们将他们全部杀死WeKillThemAll(2025),https://play.xluuss.com/play/vbmDA2Oa/index.m3u8
-重返行动BackinAction(2025),https://v.cdnlz3.com/20250117/32429_b46df79e/index.m3u8
-黑煞女พนอ(2025),https://yzzy21.playback-speed.com/20250527/43094_2580aff5/2000k/hls/mixed.m3u8
-恶魔的新娘PengantinSetan(2025),https://yzzy21.playback-speed.com/20250527/43095_188ce673/2000k/hls/mixed.m3u8
-iPossessed(2025),https://p.b8bf.com/video/iPossessed/HD/index.m3u8
-狼人WolfMan(2025),https://v.cdnlz3.com/20250205/33144_17af99b6/index.m3u8
-解码危机TheUnlock(2025),https://vv.jisuzyv.com/play/1aKgAOla/index.m3u8
-彼得·潘的梦幻岛噩梦PeterPan'sNeverlandNightmare(2025),https://vip.ffzy-video.com/20250328/14851_c334ba61/index.m3u8
-疑影夜袭TheIntruder(2025),https://play.xluuss.com/play/7axRlZ9d/index.m3u8
-行规LawsofMan(2025),https://vip.ffzy-video.com/20250414/16035_d6368eb1/index.m3u8
-黑色钻石BlackDiamond(2025),https://c1.7bbffvip.com/video/heisezuanshi2025/HD/index.m3u8
-救命行动AdVitam(2025),https://v.cdnlz3.com/20250111/32135_5268cb83/index.m3u8
-法特赫Fateh(2025),https://c1.7bbffvip.com/video/fatehe/HD/index.m3u8
-楚曼塔ChooMantar(2025),https://v5.daayee.com/yyv5/202503/31/VQ0KSAPypy22/video/index.m3u8
-绝密战境DenofThieves2(2025),https://svipsvip.ffzyread1.com/20250206/35641_b3ba081e/index.m3u8
-逝者Almarhum(2025),https://p.bvvvvvvv7f.com/video/shizhe2025/HD/index.m3u8
-草图Rekhachithram(2025),https://svip.high21-playback.com/20250505/42837_9d2a9457/index.m3u8
-大脚怪：血溅农场Bigfoot:BloodontheFarm(2025),https://p.b8bf.com/video/dajiaoguaixuejiannongchang/HD/index.m3u8
-糖果妈咪SugarMama(2025),https://svip.high21-playback.com/20250224/41720_b877ed4b/2000k/hls/mixed.m3u8
-不请自来Uninvited(2025),https://p.b8bf.com/video/buqingzilai2025/HD/index.m3u8
-身份Identity(2025),https://c1.7bbffvip.com/video/shenfen/HD/index.m3u8
-剪刀Scissors(2025),https://svip.high21-playback.com/20250505/42823_e09f5cc6/index.m3u8
-杰瑟普湖LakeJesup(2025),https://v.lzcdn25.com/20250307/56_d48d6c8f/index.m3u8
+脱离罪恶 Off the Grid (2025)上映日期: 2025-06-27(美国),https://p.b8bf.com/video/tuolizuie/HD/index.m3u8
+黑宅故事 Tales from Black Manor (2025)上映日期: 2025-06-23(网络),https://cdn.yzzy29-play.com/20250628/175_82161242/index.m3u8
+阿尔玛与狼 Alma and the Wolf (2025)上映日期: 2025-06-20(美国),https://cdn.yzzy29-play.com/20250621/133_9fc3d715/index.m3u8
+【抢先版】惊变28年 28 Years Later (2025)上映日期: 2025-06-18(中国台湾) / 2025-06-20(美国),https://vv.jisuzyv.com/play/lejx9l5b/index.m3u8
+新·驯龙高手 How to Train Your Dragon (2025)上映日期: 2025-06-13(美国/中国大陆),https://v.gsuus.com/play/penBorEe/index.m3u8
+回声谷 Echo Valley (2025)上映日期: 2025-06-13(美国网络),https://svipsvip.ffzy-online5.com/20250613/42184_2eb6c7a0/index.m3u8
+迪亚波罗的复仇 Diablo (2025)上映日期: 2025-06-13(美国),https://cdn.yzzy29-play.com/20250615/64_ea5d2f1c/index.m3u8
+纳粹僵尸 Zombies Of The Third Reich (2025)上映日期: 2025-06-10(英国),https://p.b8bf.com/video/nacuijiangshi/HD/index.m3u8
+铁血战士：杀戮之王 Predator: Killer of Killers (2025)上映日期: 2025-06-06(美国网络),https://v.lzcdn25.com/20250607/740_c97b6ee3/index.m3u8
+救命稻草 Straw (2025)上映日期: 2025-06-06(美国网络),https://svipsvip.ffzy-online5.com/20250606/41976_7bc994dd/index.m3u8
+救赎一击 K.O. (2025)上映日期: 2025-06-06(法国网络),https://vip.ffzy-online3.com/20250606/37310_760c60c0/index.m3u8
+【抢先版】疾速追杀外传：芭蕾杀姬 Ballerina (2025)上映日期: 2025-06-06(美国),https://v.gsuus.com/play/penB7z7e
+腓尼基计划 The Phoenician Scheme (2025)上映日期: /2025-06-06(美国) / 2025-05-18(戛纳国际电影节) / 2025-05-30(美国点映),https://cdn.yzzy29-play.com/20250623/147_8d5e957f/index.m3u8
+理发师陶德：血宴共戮 Sweeney Todd: Slice & Dice (2025)上映日期: 2025-06-02(英国),https://cdn.yzzy29-play.com/20250621/126_069059b7/index.m3u8
+葬送 The Surrender (2025)上映日期: 2025-05-23(美国),https://yzzy21.playback-speed.com/20250525/43078_612dc838/2000k/hls/mixed.m3u8
+恐惧街：舞会王后 Fear Street: The Prom Queen (2025)上映日期: 2025-05-23(美国网络),https://p.bvvvvvvv7f.com/video/kongjujiewuhuiwanghou/HD/index.m3u8
+星际监狱 Ohryis Project (2025)上映日期: 2025-05-23(美国),https://p.bvvvvvvv7f.com/video/xingjijianyu2025/HD/index.m3u8
+寻秘不老泉 Fountain of Youth (2025)上映日期: 2025-05-23(美国网络),https://v.lzcdn25.com/20250524/621_314db22e/index.m3u8
+【TC】碟中谍8：最终清算 Mission: Impossible - The Final Reckoning (2025)上映日期: 2025-05-22(中国香港) / 2025-05-14(戛纳国际电影节) / 2025-05-23(美国),https://p.bvvvvvvv7f.com/video/diezhongdie8zuizhongqingsuan/TC/index.m3u8
+荒漠黎明 Desert Dawn (2025)上映日期: 2025-05-16(美国),https://p.b8bf.com/video/huangmoliming/HD/index.m3u8
+超乎常人 A Breed Apart (2025)上映日期: 2025-05-16(美国),https://p.bvvvvvvv7f.com/video/chaohuchangren2025/HD/index.m3u8
+死神来了6：血脉诅咒 Final Destination: Bloodlines (2025)上映日期: 2025-05-14(法国) / 2025-05-16(美国) / 2025(中国大陆),,https://cdn.yzzy29-play.com/20250616/82_9778d5d2/2000k/hls/mixed.m3u8
+坚守阵地 Stand Your Ground (2025)上映日期: 2025-05-09(美国),https://cdn.yzzy29-play.com/20250611/34_e369853d/2000k/hls/mixed.m3u8
+绝对自治权 Absolute Dominion (2025)上映日期: 2025-05-09(美国),https://cdn.yzzy29-play.com/20250618/102_ec895663/index.m3u8
+玉米地小丑 Clown in A Cornfield (2025)上映日期: 2025-05-09(美国) /  2025-03-10(西南偏南电影节),,https://play.modujx11.com/20250610/VlBHs8uR/4221kb/hls/index.m3u8
+急弯 Sharp Corner (2025)上映日期: 2025-05-09(西班牙) / 2024-09-07(多伦多电影节),https://svipsvip.ffzy-online5.com/20250513/41233_44ddf432/index.m3u8
+罪证子弹3 Balle perdue 3 (2025)上映日期: 2025-05-07(法国网络),https://p.bvvvvvvv7f.com/video/zuizhengzidan3/HD/index.m3u8
+MMA警察 MMA Cop (2025)上映日期: 2025-05-06(美国),https://vip.ffzy-video.com/20250612/20188_6145e68b/index.m3u8
+战地之声 Words of War (2025)上映日期: 2025-05-02(美国),https://cdn.yzzy29-play.com/20250615/73_d2ddea18/index.m3u8
+罗萨里奥 Rosario (2025)上映日期: 2025-05-02(美国),https://p.bvvvvvvv7f.com/video/luosaliao/HD/index.m3u8
+幽冥部队 Shadow Force (2025)上映日期: 2025-05-01(希腊) / 2025-05-09(美国),https://vip.ffzy-online3.com/20250601/37149_635d6ac5/index.m3u8
+谋杀干预组3 HIT: The 3rd Case (2025)上映日期: 2025-05-01(爱尔兰),https://p.bvvvvvvv7f.com/video/moushaganyuzu3/HD/index.m3u8
+冲浪惊魂 The Surfer (2025)上映日期: 2025-05-02(美国)/2024-05-17(戛纳电影节) ,https://p.b8bf.com/video/buqingzilai2025/HD/index.m3u8
+战地之声 Words of War (2025)上映日期: 2025-05-02(美国),https://cdn.yzzy29-play.com/20250615/73_d2ddea18/index.m3u8
+深海恐惧 Fear Below (2025)上映日期: 2025-05-02(美国) / 2025-07-02(澳大利亚),https://cdn.yzzy29-play.com/20250610/15_9bf31c7f/2000k/hls/mixed.m3u8
+袭击2 Raid 2 (2025)上映日期: 2025-05-01(印度),https://cdn.yzzy29-play.com/20250628/177_96da2f59/index.m3u8
+誓约归隐 Retro (2025)上映日期: 2025-05-01(印度),https://yzzy21.playback-speed.com/20250601/43138_3a00f5cd/index.m3u8
+雷霆特攻队* Thunderbolts* (2025)上映日期: 2025-04-30(中国大陆) / 2025-05-02(美国),https://vip1.lz-cdn1.com/20220408/1287_e2f31cb5/1200k/hls/mixed.m3u8
+神圣之夜：恶魔猎人 거룩한 밤: 데몬 헌터스 (2025)上映日期: 2025-04-30(韩国),https://p.bvvvvvvv7f.com/video/shenshengzhiyeemolieren/%E4%B8%AD%E5%AD%97/index.m3u8
+破果 파과 (2025)上映日期:  2025-04-30(韩国) / 2025-02-16(柏林电影节),,https://vip.ffzy-video.com/20250612/20235_7cd11cb8/index.m3u8
+域外营救 Exterritorial (2025)上映日期: 2025-04-30(德国网络),https://vip.ffzy-video.com/20250430/17187_b5eded27/index.m3u8
+最后的小屋 The Last Cabin (2025)上映日期: 2025-04-29(美国),https://cdn.yzzy29-play.com/20250618/110_5f93f983/index.m3u8
+死亡信息 Project MKHEXE (2025)上映日期: 2025-04-28(美国),https://svip.high21-playback.com/20250518/43013_791b8be7/2000k/hls/mixed.m3u8
+直到黎明 Until Dawn (2025)上映日期: 2025-04-25(美国),https://p.bvvvvvvv7f.com/video/zhidaoliming/HD/index.m3u8
+会计刺客2 The Accountant 2 (2025)上映日期: 2025-04-25(美国) / 2025-05-16(中国大陆) / 2025-03-08(西南偏南电影节),,https://p.b8bf.com/video/huijicike2/HD/index.m3u8
+守望相助 Neighborhood Watch (2025)上映日期: 2025-04-25(美国),https://svip.high21-playback.com/20250427/42716_eae5f132/2000k/hls/mixed.m3u8
+毒劫 Havoc (2025)上映日期: 2025-04-25(美国网络),https://v9.tlkqc.com/wjv9/202504/25/J6SEFbrp9t81/video/1000k_720/hls/index.m3u8
+蓝色恶魔 Blue Devils (2025)上映日期: 2025-04-24(美国网络),https://p.bvvvvvvv7f.com/video/lanmo/HD/index.m3u8
+千万别眨眼 Never Blink (2025)上映日期: 2025-04-23(美国（网络）),https://cdn.yzzy29-play.com/20250621/140_1385974e/index.m3u8
+新干线惊爆倒数 新幹線大爆破 (2025)上映日期: 2025-04-23(日本网络),https://vip.ffzy-video.com/20250423/16706_0b1a888b/index.m3u8
+i人质危机 iHostage (2025)上映日期: 2025-04-18(荷兰),https://svipsvip.ffzy-online5.com/20250418/40399_9971bf40/index.m3u8
+阿炯：维贾扬蒂之子 Arjun S/O Vyjayanthi (2025)上映日期: 2025-04-18(印度/美国),https://p.bvvvvvvv7f.com/video/ajiongweijiayangdizhizi/HD/index.m3u8
+仪式 The Ritual (2025)上映日期: 2025-04-18(土耳其) / 2025-06-06(美国),https://vip1.lz-cdn7.com/20221225/12869_a48f2323/2000k/hls/mixed.m3u8
+机械杀娃 ROB1N (2025)上映日期: 2025-04-18(英国),https://svip.high21-playback.com/20250507/42877_dcae1274/index.m3u8
+极寒潜袭 Кракен (2025)上映日期: 2025-04-17(俄罗斯),https://cdn.yzzy29-play.com/20250618/96_26657d5f/index.m3u8
+连环兔子杀手2 Serial Rabbit One (2025)上映日期: 2025-04-17(美国),https://svip.high21-playback.com/20250509/42905_8a911571/index.m3u8
+心魔 It Feeds (2025)上映日期: 2025-04-16(加拿大) / 2025-04-18(美国),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
+罪人 Sinners (2025)上映日期: 2025-04-16(法国) / 2025-04-18(美国),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
+紫罗兰 Violet (2025)上映日期: 2025-04-15(菲律宾),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
+棉花软糖 Marshmallow (2025)上映日期: 2025-04-11(美国),https://cdn.yzzy29-play.com/20250618/105_65b9eea6/index.m3u8
+战·争 Warfare (2025)上映日期: 2025-04-11(美国),https://vip.ffzy-play10.com/20250507/40884_8727f126/index.m3u8
+枪手 The Gunslingers (2025)上映日期: 2025-04-11(美国),https://vip.ffzy-video.com/20250416/16123_45b0095c/index.m3u8
+女孩2 Chhorii 2 (2025)上映日期: 2025-04-11(印度),https://vip.ffzy-play6.com/20250414/35143_1ec81753/index.m3u8
+G20峰会 G20 (2025)上映日期: 2025-04-10(美国),https://svipsvip.ffzy-online5.com/20250410/40098_e9c46fbd/index.m3u8
+善恶边缘：暗黑交锋 Good Bad Ugly (2025)上映日期: 2025-04-10(印度),https://vip.ffzy-video.com/20250510/17842_38350940/index.m3u8
+无敌贾特 Jaat (2025)上映日期: 2025-04-10(印度) / 2025-04-11(美国),https://p.b8bf.com/video/wudijiate/HD/index.m3u8
+谍网追凶 The Amateur (2025)上映日期: 2025-04-10(中国香港)/2025-04-11(美国/中国大陆),,https://v.gsuus.com/play/pen2njDe/index.m3u8
+最后冲刺 Emotion Is Dead (2025)上映日期: 2025-04-08(英国),https://yzzy21.playback-speed.com/20250525/43072_e008edf1/2000k/hls/mixed.m3u8
+沙漠恶魔 Desert Fiends (2025)上映日期: 2025-04-08(美国),https://v.gsuus.com/play/pen2njDe/index.m3u8
+莫莉计划 The Mollie Project (2025)上映日期: 2025-04-06(土耳其),https://p.bvvvvvvv7f.com/video/molijihua/HD/index.m3u8
+泣船威利 ScreamBoat (2025)上映日期: 2025-04-04(美国),https://p.bvvvvvvv7f.com/video/qichuanweili/HD/index.m3u8
+我的世界大电影 A Minecraft Movie (2025)上映日期: 2025-04-04(美国/中国大陆),https://p.bvvvvvvv7f.com/video/wodeshijiedadianying/HD/index.m3u8
+埃德蒙·肯珀 Ed Kemper (2025)上映日期: 2025-04-04(美国),https://p.bvvvvvvv7f.com/video/aidemengkenpo/HD/index.m3u8
+战争迷雾 Fog of War (2025)上映日期: 2025-04-04(美国),https://v4.daayee.com/yyv4/202504/05/gddTfk8HuA19/video/index.m3u8
+林荫路825号 825 Forest Road (2025)上映日期: 2025-04-04(美国),https://vip.ffzy-video.com/20250408/15520_287abb19/index.m3u8
+恐怖特快 공포특급 (2025)上映日期: 2025-04-02(韩国),https://vip.ffzy-video.com/20250428/16954_d07a5a3f/index.m3u8
+罪魁祸首 Culprit (2025)上映日期: 2025(美国),https://play.xluuss.com/play/6dBD6m2a/index.m3u8
+公平之雨 Fair Rain (2025)上映日期: 2025-03-03(美国),https://p.b8bf.com/video/gongpingzhiyu/%E9%AB%98%E6%B8%85/index.m3u8
+斗士 Sikandar (2025)上映日期: 2025-03-28(印度),https://yzzy21.playback-speed.com/20250525/43076_4c01ca04/2000k/hls/mixed.m3u8
+清算日 Day of Reckoning (2025)上映日期: 2025-03-28(美国),https://p.bvvvvvvv7f.com/video/qingsuanri2025/HD/index.m3u8
+制暴：无限杀机 A Working Man (2025)上映日期: 2025-03-28(美国/中国大陆),https://vip.ffzy-video.com/20250407/15510_1471a8e0/index.m3u8
+院子里的女人 The Woman In The Yard (2025)上映日期: 2025-03-28(美国),https://svip.high21-playback.com/20250416/42588_d5cb61ee/index.m3u8
+独角兽之死 Death of a Unicorn (2025)上映日期: 2025-03-28(美国)/ 2025-03-08(西南偏南电影节) ,https://svipsvip.ffzy-online5.com/20250429/40737_0849659c/index.m3u8
+路西法2 L2: Empuraan (2025)上映日期: 2025-03-27(印度),https://v6.tlkqc.com/wjv6/202504/21/U5AMjharZW78/video/1000k_720/hls/index.m3u8
+珠宝大盗：神偷出马 Jewel Thief - The Heist Begins (2025)上映日期: 2025-03-27(印度网络),https://svipsvip.ffzy-online5.com/20250425/40616_4e707d76/index.m3u8
+劫车王 Carjackers (2025)上映日期: 2025-03-27(法国),https://vip.ffzy-video.com/20250408/15518_271df686/index.m3u8
+上帝阴影下 Shadow Of God (2025)上映日期: 2025-03-26(菲律宾),https://vip.ffzy-video.com/20250416/16126_e74b1035/index.m3u8
+森林小丑 The Forest Clown (2025)上映日期: 2025-03-24(美国),https://play.xluuss.com/play/mbkYxxve/index.m3u8
+鬼屋直播 Livestream (2025)上映日期: 2025-03-25(美国),https://vip.ffzy-video.com/20250414/16034_0064f599/index.m3u8
+白雪公主 Snow White (2025)上映日期: 2025-03-21(美国/中国大陆),https://vip.ffzy-video.com/20250513/18082_ad5db592/index.m3u8
+异世降临 Ash (2025)上映日期: 2025-03-21(美国)/2025-03-11(西南偏南电影节),,https://vip.ffzy-video.com/20250424/16733_851612d3/index.m3u8
+流播 스트리밍 (2025)上映日期: 2025-03-21(韩国),https://hn.bfvvs.com/play/vbmKnXre/index.m3u8
+来自谁的启示 계시록 (2025)上映日期: 2025-03-21(韩国网络),https://vip.ffzy-video.com/20250321/14389_5dae854c/index.m3u8
+大力杀手波派 Popeye the Slayer Man (2025)上映日期: 2025-03-21(美国),https://c1.7bbffvip.com/video/dalishashoubopai/HD/index.m3u8
+入侵2：逃亡 Invasive 2 Getaway (2025)上映日期: 2025-03-21(美国),https://v.gsuus.com/play/DdwX7mMe/index.m3u8
+紧锁 Locked (2025)上映日期: 2025-03-21(美国),https://vip.ffzy-video.com/20250422/16643_1ceb3ad8/index.m3u8
+甜蜜之家：重生 Home Sweet Home Rebirth (2025)上映日期: 2025-03-20(俄罗斯) / 2025-04-14(美国),https://vip.ffzy-video.com/20250416/16127_2034597b/index.m3u8
+【TC】冥婚红包 ซองแดงแต่งผี (2025)上映日期: 2025-03-20(泰国),https://play.xluuss.com/play/BeXgZDld/index.m3u8
+制高点 High Ground (2025)上映日期: 2025-03-18(美国),https://v2.bxgbnet.com/yyv2/202503/23/X5N4xGnnUJ24/video/2000k_1080/hls/index.m3u8
+演员 The Actor (2025)上映日期: 2025-03-14(美国),https://cdn7.ryplay7.com/20250423/13817_9e53bd5c/2000k/hls/index.m3u8
+万里归省 The Diplomat (2025)上映日期: 2025-03-14(印度/美国),https://p.bvvvvvvv7f.com/video/wanliguisheng/HD/index.m3u8
+套现2：大赌客 Cash Out 2: High Rollers (2025)上映日期: 2025-03-14(美国),https://c1.7bbffvip.com/video/taoxian2daduke/HD/index.m3u8
+电幻国度 The Electric State (2025)上映日期: 2025-03-14(美国网络),https://vip.ffzy-video.com/20250314/13949_92703b40/index.m3u8
+我丈夫的情妇 My Husband's Mistress (2025)上映日期: 2025-03-14(美国),https://p.bvvvvvvv7f.com/video/wozhangfudeqingfu/HD/index.m3u8
+临界点 Borderline (2025)上映日期: 2025-03-14(美国),https://c1.7bbffvip.com/video/linjiedian/%E4%B8%AD%E5%AD%97/index.m3u8
+家教 The Parenting (2025)上映日期: 2025-03-13(美国网络),https://svip.high21-playback.com/20250314/41968_3e2086d5/2000k/hls/mixed.m3u8
+森林传说 Legend of the Forest (2025)上映日期: 2025-03-13(美国),https://cdn.yzzy29-play.com/20250615/70_7cbbc409/index.m3u8
+控制狂 Control Freak (2025)上映日期: 2025-03-13(美国网络),https://c1.7bbffvip.com/video/kongzhikuang/HD/index.m3u8
+无痛凯恩 Novocaine (2025)上映日期: 2025-03-13(中国香港) / 2025-03-14(美国),https://svip.high21-playback.com/20250411/42509_83bf29a1/2000k/hls/mixed.m3u8
+通灵：一个新的开始 Ouija: A New Beginning (2025)上映日期: 2025-03-12(英国),https://p.bvvvvvvv7f.com/video/tonglingyigexindekaishi/HD/index.m3u8
+侵犯 침범 (2025)上映日期: 2025-03-12(韩国)/2024-10-04(釜山电影节) ,https://svip.high21-playback.com/20250504/42805_edb484b3/index.m3u8
+黑袋行动 Black Bag (2025)上映日期: 2025-03-12(法国) / 2025-03-14(美国) / 2025-03-21(英国),https://v.lzcdn25.com/20250403/254_068512da/index.m3u8
+放飞 Uncontained (2025)上映日期: 2025-03-11(美国),https://cdn.yzzy29-play.com/20250610/14_aab32389/2000k/hls/mixed.m3u8
+异星入侵：凤凰出山 Alien Invasion: Rise of the Phoenix (2025)上映日期: 2025-03-11(美国),https://p.bvvvvvvv7f.com/video/yixingruqinfenghuangchushan/HD/index.m3u8
+隔空投送 Drop (2025)上映日期: 2025-03-09(西南偏南电影节) / 2025-04-11(美国),https://svipsvip.ffzy-online5.com/20250429/40738_8de76941/index.m3u8
+荷兰镇 Holland (2025)上映日期: 2025-03-09(西南偏南电影节) / 2025-03-27(美国网络),https://v.lzcdn25.com/20250328/206_a0413058/index.m3u8
+独角兽之死 Death of a Unicorn (2025)上映日期: 2025-03-08(西南偏南电影节) / 2025-03-28(美国),https://p.bvvvvvvv7f.com/video/dujiaoshouzhisi/HD/index.m3u8
+黑煞女 พนอ (2025)上映日期: 2025-03-07(中国台湾),https://yzzy21.playback-speed.com/20250527/43094_2580aff5/2000k/hls/mixed.m3u8
+在失落之地 In the Lost Lands (2025)上映日期: 2025-03-07(美国),https://v.lzcdn25.com/20250408/290_6bd4116b/index.m3u8
+丑陋的继姐 Den stygge stesøsteren (2025)上映日期: 2025-03-07(挪威) /2025-01-23(圣丹斯电影节) / 2025-02-16(柏林电影节),https://v.lzcdn25.com/20250510/522_1f7d1e9e/index.m3u8
+异界信号 Stutter (2025)上映日期: 2025-03-07(网络),https://hn.bfvvs.com/play/7e5BNxBa/index.m3u8
+Suky (2025)上映日期: 2025-03-07(尼日利亚),https://vip.ffzy-video.com/20250605/19804_92e0c17c/index.m3u8
+河童之子 Bloat (2025)上映日期: 2025-03-07(美国),https://svip.high21-playback.com/20250309/41890_aa85b86e/index.m3u8
+静默地带 Silent Zone (2025)上映日期: 2025-03-07(美国),https://hn.bfvvs.com/play/NbWxoKJd/index.m3u8
+孕育时代 Die gestohlene Zeit (2025)上映日期: 2025-03-06(奥地利),https://p.bvvvvvvv7f.com/video/yunyushidai/HD/index.m3u8
+烛影危林 Candlewood (2025)上映日期: 2025-03-06(美国),https://hn.bfvvs.com/play/QbYzo5Ad/index.m3u8
+终极武装 Armed (2025)上映日期: 2025-03-04(美国),https://vip.ffzy-video.com/20250503/17417_7bcab494/index.m3u8
+构筑 The Buildout (2025)上映日期: 2025-03-02(美国),https://v11.tlkqc.com/wjv11/202503/07/mLXHHDQ6YC83/video/1000k_720/hls/index.m3u8
+扭曲的虔诚 Twisted Devotion (2025)上映日期: 2025-03-01(美国),https://hn.bfvvs.com/play/wdLQJwpe/index.m3u8
+尸魔敲门 Revenge Of The Boogeyman (2025)上映日期: 2025-03-01(美国),https://p.bvvvvvvv7f.com/video/shimoqiaomen/HD/index.m3u8
+死亡徒步 The Ruck March (2025)上映日期: 2025-03-01(美国),https://svip.high21-playback.com/20250324/42180_0d47a566/2000k/hls/mixed.m3u8
+恐怖猴玩偶 The Jolly Monkey (2025)上映日期: 2025-02-28(美国),https://svip.high21-playback.com/20250519/43019_26e87ce3/index.m3u8
+疯狂一天 Crazxy (2025)上映日期: 2025-02-28(印度),https://p.bvvvvvvv7f.com/video/fengkuangyitian/HD/index.m3u8
+36总局：势不两立 Bastion 36 (2025)上映日期: 2025-02-28(法国网络),https://v.lzcdn25.com/20250301/31_90e2ce85/index.m3u8
+飞速追杀 Fight or Flight (2025)上映日期: 2025-02-28(英国),https://v.lzcdn25.com/20250328/201_1b55bf5d/index.m3u8
+一息尚存 Last Breath (2025)上映日期: 2025-02-28(美国),https://vip.ffzy-play10.com/20250405/40131_b9dcc879/index.m3u8
+边境奇袭 Contraataque (2025)上映日期: 2025-02-28(美国),https://v.lzcdn25.com/20250305/46_f4053b69/index.m3u8
+鬼城杀 Demon City 鬼ゴロシ (2025)上映日期: 2025-02-27(日本网络),https://v.lzcdn25.com/20250228/21_412ded54/index.m3u8
+娜迦：永恒的羁绊 นาคบรรพ์ (2025)上映日期: 2025-02-27(泰国),https://p.b8bf.com/video/najiayonghengdejiban/HD/index.m3u8
+灯塔谋杀案 Murder at the Lighthouse (2025)上映日期: 2025-02-23(美国),https://svip.high21-playback.com/20250430/42754_384008da/index.m3u8
+怪猴 The Monkey (2025)上映日期: 2025-02-21(美国),https://v.lzcdn25.com/20250328/202_f98d43a6/index.m3u8
+生命热线 Lifeline (2025)上映日期: 2025-02-21(美国),https://p.bvvvvvvv7f.com/video/shengmingrexian/HD/index.m3u8
+罪恶清除工 Cleaner (2025)上映日期: 2025-02-21(英国),https://svip.high21-playback.com/20250322/42161_1209baf9/index.m3u8
+歹徒们 Patsers (2025)上映日期: 2025-02-19(比利时),https://v1.tlkqc.com/wjv1/202505/31/jdpmmwcrAt85/video/1000k_720/hls/index.m3u8
+魅味 Delicious (2025)上映日期: 2025-02-18(柏林电影节) / 2025-03-07(德国),https://v.lzcdn25.com/20250308/71_f847c188/index.m3u8
+编号17 Mickey 17 (2025)上映日期: 2025-02-15(柏林国际电影节)/2025-03-07(美国/中国大陆),https://v.lzcdn25.com/20250406/276_21d362fe/index.m3u8
+孕期惊魂 Womb (2025)上映日期: 2025-02-14(美国),https://p.bvvvvvvv7f.com/video/yunqijinghun/HD/index.m3u8
+峡谷 The Gorge (2025)上映日期: 2025-02-14(美国网络),https://v.cdnlz3.com/20250214/33672_208a1193/index.m3u8
+灵村 Kampung Keramat (2025)上映日期: 2025-02-13(印度尼西亚),https://m3u.nikanba.live/share/31c7b4189fc7d79ee75474a5a6366f73.m3u8
+钢锯恶魔 The Devil's Hacksaw (2025)上映日期: 2025-02-12(美国),https://svip.high21-playback.com/20250509/42903_199f31fd/index.m3u8
+美国队长4 Captain America: Brave New World (2025)上映日期: 2025-02-12(法国),https://v.lzcdn24.com/20250311/23009_f82b3dd3/index.m3u8
+催化剂 Catalyst (2025)上映日期: 2025-02-11(美国),https://svip.high21-playback.com/20250516/42979_17e908cb/2000k/hls/index_5b9c71f88914647c7610.m3u8
+改日再战 Fight Another Day (2025)上映日期: 2025-02-09(美国),https://svip.high21-playback.com/20250209/41495_95e51df0/index.m3u8
+腥心眼 Heart Eyes (2025)上映日期: 2025-02-07(美国),https://v.lzcdn25.com/20250305/55_975435e0/index.m3u8
+前任杀神 Love Hurts (2025)上映日期: 2025-02-07(美国),https://v.lzcdn25.com/20250226/6_2966ddd8/index.m3u8
+铁驭神兵 Tin Soldier (2025)上映日期: 2025-02-06(俄罗斯),https://p.bvvvvvvv7f.com/video/tieyushenbing/HD/index.m3u8
+上映日期: 2025-02-06(印度尼西亚),https://p.b8bf.com/video/ezhouling/HD/index.m3u8
+咒书远古魔 Dajal: Satu Malam Di Pedajal (2025)上映日期: 2025-02-06(马来西亚),https://vip.ffzy-video.com/20250510/17843_c9cf4399/index.m3u8
+沼泽之地 The Bayou (2025)上映日期: 2025-02-06(埃及),https://play.xluuss.com/play/6dBw39We/index.m3u8
+坚毅奇兵 Vidaamuyarchi (2025)上映日期: 2025-02-06(印度/美国),https://c1.7bbffvip.com/video/jianyiqibing/HD/index.m3u8
+破碎 브로큰 (2025)上映日期: 2025-02-05(韩国),https://v.lzcdn25.com/20250313/102_2a0c9760/index.m3u8
+六天 Six Jours (2025)上映日期: 2025-02-01(鹿特丹电影节),https://cdn.yzzy29-play.com/20250616/89_7647966b/2000k/hls/mixed.m3u8
+篮中弃婴 The Baby in the Basket (2025)上映日期: 2025-02-05(菲律宾) / 2025-02-17(英国),https://svip.high21-playback.com/20250427/42714_938f7afc/2000k/hls/mixed.m3u8
+上映日期: 2025-02-01(鹿特丹电影节),https://cdn.yzzy29-play.com/20250616/89_7647966b/index.m3u8
+灰烬森林 Woods of Ash (2025)上映日期: 2025-02-01(网络),https://svip.high21-playback.com/20250309/41891_21fe67f7/2000k/hls/mixed.m3u8
+勇敢之人 Valiant One (2025)上映日期: 2025-01-31(美国),https://c1.7bbffvip.com/video/yongganzhiren2025/HD/index.m3u8
+德瓦 Deva (2025)上映日期: 2025-01-31(印度),https://v.lzcdn25.com/20250330/220_32704fdf/index.m3u8
+完美伴侣 Companion (2025)上映日期: 2025-01-28(中国香港) / 2025-01-31(美国),https://v.cdnlz12.com/20250219/18237_1f952107/index.m3u8
+致命著作 Opus (2025)上映日期: 2025-01-27(圣丹斯电影节) / 2025-03-14(美国),https://v.lzcdn25.com/20250408/282_1849c208/index.m3u8
+便衣警察 Plainclothes (2025)上映日期: 2025-01-26(美国),https://c1.7bbffvip.com/video/bianyijingcha2025/HD/index.m3u8
+杀人鼠实验 Mouse of Horrors (2025)上映日期: 2025-01-25(美国),https://c1.7bbffvip.com/video/sharenshushiyan/HD/index.m3u8
+猪皮脸 Piglet's Return (2025)上映日期: 2025-01-25(美国),https://c1.7bbffvip.com/video/zhurenguilai/HD/index.m3u8
+荒诞神话 Myth of Man (2025)上映日期: 2025-01-24(美国),https://svip.high21-playback.com/20250326/42247_d2cc0972/2000k/hls/mixed.m3u8
+天空部队 Sky Force (2025)上映日期: 2025-01-24(印度),https://vip.ffzy-video.com/20250329/14937_129d98d6/index.m3u8
+财富流感 Rich Flu (2025)上映日期:  2025-01-24(西班牙) / 2024-10-06(锡切斯电影节),,https://v.lzcdn25.com/20250325/189_57368e1b/index.m3u8
+黑修女们 검은 수녀들 (2025)上映日期: 2025-01-24(韩国),https://v.lzcdn25.com/20250305/52_5c5821a1/index.m3u8
+堕入深渊 Into the Deep (2025)上映日期: 2025-01-24(美国),https://svip.high21-playback.com/20250124/41210_e833a137/index.m3u8
+血继 Inheritance (2025)上映日期: 2025-01-24(美国),https://vodcnd14.myqqdd.com/20250227/ey2vzBkg/4099kb/hls/index.m3u8
+星际迷航：31区 Star Trek: Section 31 (2025)上映日期: 2025-01-24(美国网络),https://v.cdnlz3.com/20250125/32841_739227b6/index.m3u8
+7天之前 Sebelum 7 Hari (2025)上映日期: 2025-01-23(印度尼西亚),https://p.b8bf.com/video/7tianzhiqian/HD/index.m3u8
+邪恶之城 Zloy gorod (2025)上映日期: 2025-01-23(俄罗斯),https://vip.ffzy-video.com/20250416/16130_02923027/index.m3u8
+插翅难飞 Flight Risk (2025)上映日期:  2025-01-22(法国) / 2025-01-24(美国)/2025-03-07(中国大陆),https://v.cdnlz3.com/20250214/33700_9737db78/index.m3u8
+狙击精英: 背水一战 Sniper: The Last Stand (2025)上映日期: 2025-01-21(美国),https://v.cdnlz3.com/20250121/32608_6618af6d/index.m3u8
+警报战 Alarum (2025)上映日期: 2025-01-17(美国),https://svip.high21-playback.com/20250118/41123_5d20c790/2000k/hls/mixed.m3u8
+室町无赖 室町無頼 (2025)上映日期: 2025-01-17(日本),https://cdn.yzzy29-play.com/20250621/127_ec5decca/index.m3u8
+我们将他们全部杀死 We Kill Them All (2025)上映日期: 2025-01-17(美国),https://play.xluuss.com/play/vbmDA2Oa/index.m3u8
+重返行动 Back in Action (2025)上映日期: 2025-01-17(美国网络),https://v.cdnlz3.com/20250117/32429_b46df79e/index.m3u8
+黑煞女 พนอ (2025)上映日期: 2025-01-16(泰国),https://yzzy21.playback-speed.com/20250527/43094_2580aff5/2000k/hls/mixed.m3u8
+恶魔的新娘 Pengantin Setan (2025)上映日期: 2025-01-16(印度尼西亚),https://yzzy21.playback-speed.com/20250527/43095_188ce673/2000k/hls/mixed.m3u8
+iPossessed (2025)上映日期: 2025-01-15(美国),https://p.b8bf.com/video/iPossessed/HD/index.m3u8
+狼人 Wolf Man (2025)上映日期: 2025-01-15(法国) / 2025-01-17(美国),https://v.cdnlz3.com/20250205/33144_17af99b6/index.m3u8
+解码危机 The Unlock (2025)上映日期: 2025-01-14(德国),https://vv.jisuzyv.com/play/1aKgAOla/index.m3u8
+彼得·潘的梦幻岛噩梦 Peter Pan's Neverland Nightmare (2025)上映日期: 2025-01-13(美国) / 2025-02-24(英国),https://vip.ffzy-video.com/20250328/14851_c334ba61/index.m3u8
+疑影夜袭 The Intruder (2025)上映日期: 2025-01-11(美国),https://play.xluuss.com/play/7axRlZ9d/index.m3u8
+行规 Laws of Man (2025)上映日期: 2025-01-10(美国),https://vip.ffzy-video.com/20250414/16035_d6368eb1/index.m3u8
+黑色钻石 Black Diamond (2025)上映日期: 2025-01-10(美国),https://c1.7bbffvip.com/video/heisezuanshi2025/HD/index.m3u8
+救命行动 Ad Vitam (2025)上映日期: 2025-01-10(美国网络),https://v.cdnlz3.com/20250111/32135_5268cb83/index.m3u8
+法特赫 Fateh (2025)上映日期: 2025-01-10(印度),https://c1.7bbffvip.com/video/fatehe/HD/index.m3u8
+楚曼塔 Choo Mantar (2025)上映日期: 2025-01-10(印度),https://v5.daayee.com/yyv5/202503/31/VQ0KSAPypy22/video/index.m3u8
+绝密战境 Den of Thieves 2 (2025)上映日期: 2025-01-10(美国),https://svipsvip.ffzyread1.com/20250206/35641_b3ba081e/index.m3u8
+逝者 Almarhum (2025)上映日期: 2025-01-09(印度尼西亚),https://p.bvvvvvvv7f.com/video/shizhe2025/HD/index.m3u8
+草图 Rekhachithram (2025)上映日期: 2025-01-09(印度),https://svip.high21-playback.com/20250505/42837_9d2a9457/index.m3u8
+大脚怪：血溅农场 Bigfoot: Blood on the Farm (2025)上映日期: 2025-01-07(网络),https://p.b8bf.com/video/dajiaoguaixuejiannongchang/HD/index.m3u8
+糖果妈咪 Sugar Mama (2025)上映日期: 2025-01-03(美国),https://svip.high21-playback.com/20250224/41720_b877ed4b/2000k/hls/mixed.m3u8
+不请自来 Uninvited (2025)上映日期: 2025-01-02(菲律宾),https://p.b8bf.com/video/buqingzilai2025/HD/index.m3u8
+身份 Identity (2025)上映日期: 2025-01-02(印度),https://c1.7bbffvip.com/video/shenfen/HD/index.m3u8
+剪刀 Scissors (2025)上映日期: 2025-01-01(美国),https://svip.high21-playback.com/20250505/42823_e09f5cc6/index.m3u8
+杰瑟普湖 Lake Jesup (2025)上映日期: 2025-01-01(美国),https://v.lzcdn25.com/20250307/56_d48d6c8f/index.m3u8
+
 
 █████████████████████████████████████████████
 动作片20250616停更,#genre#
