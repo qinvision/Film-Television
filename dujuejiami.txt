@@ -759,6 +759,7 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 █████████████████████████████████████████████
 2025年7月精选,#genre#
 █████████████████████████████████████████████
+砖墙谜攻 Brick (2025)上映日期: 2025-07-10(德国网络),https://v.lzcdn27.com/20250710/249_02ce1260/index.m3u8
 尸杀泰拳 Ziam (2025)上映日期: 2025-07-09(泰国网络),https://cdn.yzzy29-play.com/20250709/277_20f07591/index.m3u8
 鸟与蜜蜂 Pretty Thing (2025)上映日期: 2025-07-04(美国),https://cdn.yzzy29-play.com/20250706/261_b1a59b31/index.m3u8
 蝴蝶屋 Pernikahan Arwah (2025)上映日期: 2025-07-03(印度尼西亚),https://cdn.yzzy29-play.com/20250705/249_077e29b1/index.m3u8
@@ -1007,6 +1008,7 @@ iPossessed (2025)上映日期: 2025-01-15(美国),https://p.b8bf.com/video/iPoss
 █████████████████████████████████████████████
 动作片20250710,#genre#
 █████████████████████████████████████████████
+
 展昭·探案2025(大陆动作片),https://v.lzcdn25.com/20250710/2422_0b2d0513/index.m3u8
 尸杀泰拳 Ziam  2025(泰国动作片),https://cdn.yzzy29-play.com/20250709/277_20f07591/index.m3u8
 香港奇案之字母小姐1992(香港动作片),https://v.lzcdn24.com/20250704/35889_cf28a93b/index.m3u8
@@ -2631,7 +2633,7 @@ X战警【国语】(美国动作片),https://vip.lz-cdn16.com/20230413/16625_bb0
 科幻片20250706,#genre#
 █████████████████████████████████████████████
 
-
+砖墙谜攻 Brick 2025(德国科幻片),https://v.lzcdn27.com/20250710/249_02ce1260/index.m3u8
 红土地2025(大陆科幻片),https://v.lzcdn25.com/20250627/1794_16bb66d0/index.m3u8
 扎特怪兽传说1982(美国科幻片),https://v.lzcdn24.com/20250622/34512_cb3de335/index.m3u8
 与外星人的决战之日2013(美国科幻片),https://v.lzcdn24.com/20250622/34511_23ec77c7/index.m3u8
@@ -3300,6 +3302,7 @@ InfiniTForce剧场版(日本科幻片),https://vip1.lz-cdn1.com/20220819/14822_5
 █████████████████████████████████████████████
 恐怖片20250708,#genre#
 █████████████████████████████████████████████
+狼人游戏 Werewolf Game 2025(美国恐怖片),https://p.b8bf.com/video/langrenyouxi2025/HD/index.m3u8
 催眠眼 1960 (美国恐怖片),https://cdn.yzzy29-play.com/20250707/268_8f121ce0/2000k/hls/mixed.m3u8
 荒原狼 1974(美国/瑞士/英国/法国/意大利恐怖片),https://v.lzcdn25.com/20250709/2303_a60baece/index.m3u8
 罗卡福特站2024(西班牙恐怖片),https://v.lzcdn25.com/20250706/2183_afddb1fe/index.m3u8
