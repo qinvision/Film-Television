@@ -777,6 +777,7 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 阿尔玛与狼 Alma and the Wolf (2025)上映日期: 2025-06-20(美国),https://cdn.yzzy29-play.com/20250621/133_9fc3d715/index.m3u8
 【抢先版】惊变28年 28 Years Later (2025)上映日期: 2025-06-18(中国台湾) / 2025-06-20(美国),https://vv.jisuzyv.com/play/lejx9l5b/index.m3u8
 新·驯龙高手 How to Train Your Dragon (2025)上映日期: 2025-06-13(美国/中国大陆),https://v.gsuus.com/play/penBorEe/index.m3u8
+冥府使者 Psychopomp (2025)上映日期: 2025-06-13(美国),https://cdn.yzzy29-play.com/20250711/296_d296c101/index.m3u8
 回声谷 Echo Valley (2025)上映日期: 2025-06-13(美国网络),https://svipsvip.ffzy-online5.com/20250613/42184_2eb6c7a0/index.m3u8
 迪亚波罗的复仇 Diablo (2025)上映日期: 2025-06-13(美国),https://cdn.yzzy29-play.com/20250615/64_ea5d2f1c/index.m3u8
 纳粹僵尸 Zombies Of The Third Reich (2025)上映日期: 2025-06-10(英国),https://p.b8bf.com/video/nacuijiangshi/HD/index.m3u8
@@ -1006,9 +1007,9 @@ iPossessed (2025)上映日期: 2025-01-15(美国),https://p.b8bf.com/video/iPoss
 杰瑟普湖 Lake Jesup (2025)上映日期: 2025-01-01(美国),https://v.lzcdn25.com/20250307/56_d48d6c8f/index.m3u8
 
 █████████████████████████████████████████████
-动作片20250710,#genre#
+动作片20250711,#genre#
 █████████████████████████████████████████████
-
+虎胆救援2024(美国动作片),https://v.lzcdn27.com/20250710/245_caa7345e/index.m3u8
 展昭·探案2025(大陆动作片),https://v.lzcdn25.com/20250710/2422_0b2d0513/index.m3u8
 尸杀泰拳 Ziam  2025(泰国动作片),https://cdn.yzzy29-play.com/20250709/277_20f07591/index.m3u8
 香港奇案之字母小姐1992(香港动作片),https://v.lzcdn24.com/20250704/35889_cf28a93b/index.m3u8
@@ -2630,7 +2631,7 @@ X战警【国语】(美国动作片),https://vip.lz-cdn16.com/20230413/16625_bb0
 深海潜龙2005(美国动作片),https://vip1.lz-cdn7.com/20230207/14020_d34e3641/index.m3u8
 
 █████████████████████████████████████████████
-科幻片20250706,#genre#
+科幻片20250711,#genre#
 █████████████████████████████████████████████
 
 砖墙谜攻 Brick 2025(德国科幻片),https://v.lzcdn27.com/20250710/249_02ce1260/index.m3u8
@@ -3300,8 +3301,11 @@ InfiniTForce剧场版(日本科幻片),https://vip1.lz-cdn1.com/20220819/14822_5
 疯矿入侵(科幻片),https://vip1.lz-cdn10.com/20220812/2222_ee84d295/index.m3u8
 全球风暴(美国科幻片),https://vip.lz-cdn3.com/20220811/11225_a16ba68e/index.m3u8
 █████████████████████████████████████████████
-恐怖片20250708,#genre#
+恐怖片20250711,#genre#
 █████████████████████████████████████████████
+鬼租客2024(泰国恐怖片),https://v.lzcdn27.com/20250710/250_ac762e32/index.m3u8
+白云斋怪话2025(大陆恐怖片),https://v.lzcdn27.com/20250710/252_be5e143b/index.m3u8
+冥府使者 Psychopomp 2025(美国恐怖片),https://cdn.yzzy29-play.com/20250711/296_d296c101/index.m3u8
 狼人游戏 Werewolf Game 2025(美国恐怖片),https://p.b8bf.com/video/langrenyouxi2025/HD/index.m3u8
 催眠眼 1960 (美国恐怖片),https://cdn.yzzy29-play.com/20250707/268_8f121ce0/2000k/hls/mixed.m3u8
 荒原狼 1974(美国/瑞士/英国/法国/意大利恐怖片),https://v.lzcdn25.com/20250709/2303_a60baece/index.m3u8
@@ -3329,7 +3333,6 @@ InfiniTForce剧场版(日本科幻片),https://vip1.lz-cdn1.com/20220819/14822_5
 夜半凶宅2025(大陆恐怖片),https://v.lzcdn25.com/20250617/1230_5ee268d2/index.m3u8
 死神来了6：血脉诅咒2025(美国恐怖片),https://v.lzcdn25.com/20250617/1233_91b43871/index.m3u8
 编辑灵 deleted 2023(日本恐怖片),https://v.lzcdn25.com/20250617/1235_f866d657/index.m3u8
-
 黑煞女2025(泰国恐怖片),https://v.lzcdn25.com/20250616/1182_f55bfb50/index.m3u8
 九叔之钟馗归来2025(大陆恐怖片),https://v.lzcdn25.com/20250616/1187_21165f74/index.m3u8
 回声谷2025(美国恐怖片),https://v.lzcdn25.com/20250614/1066_3bff17c9/index.m3u8
