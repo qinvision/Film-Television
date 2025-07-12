@@ -1208,8 +1208,11 @@ iPossessed (2025)上映日期: 2025-01-15(美国),https://p.b8bf.com/video/iPoss
 杰瑟普湖 Lake Jesup (2025)上映日期: 2025-01-01(美国),https://v.lzcdn25.com/20250307/56_d48d6c8f/index.m3u8
 
 █████████████████████████████████████████████
-动作片20250711,#genre#
+动作片20250712,#genre#
 █████████████████████████████████████████████
+猎狐·行动2025(大陆动作片),https://v.lzcdn27.com/20250711/331_35145a14/index.m3u8
+幽灵杀手2024(日本动作片),https://v.lzcdn27.com/20250711/340_bb6432d0/index.m3u8
+赴汤蹈火2025(大陆动作片),https://v.lzcdn27.com/20250711/342_7c88cd54/index.m3u8
 虎胆救援2024(美国动作片),https://v.lzcdn27.com/20250710/245_caa7345e/index.m3u8
 展昭·探案2025(大陆动作片),https://v.lzcdn25.com/20250710/2422_0b2d0513/index.m3u8
 尸杀泰拳 Ziam  2025(泰国动作片),https://cdn.yzzy29-play.com/20250709/277_20f07591/index.m3u8
@@ -3502,8 +3505,9 @@ InfiniTForce剧场版(日本科幻片),https://vip1.lz-cdn1.com/20220819/14822_5
 疯矿入侵(科幻片),https://vip1.lz-cdn10.com/20220812/2222_ee84d295/index.m3u8
 全球风暴(美国科幻片),https://vip.lz-cdn3.com/20220811/11225_a16ba68e/index.m3u8
 █████████████████████████████████████████████
-恐怖片20250711,#genre#
+恐怖片20250712,#genre#
 █████████████████████████████████████████████
+黑金亡命徒2025(美国恐怖片),https://v.lzcdn27.com/20250711/341_2cd310b6/index.m3u8
 鬼租客2024(泰国恐怖片),https://v.lzcdn27.com/20250710/250_ac762e32/index.m3u8
 白云斋怪话2025(大陆恐怖片),https://v.lzcdn27.com/20250710/252_be5e143b/index.m3u8
 冥府使者 Psychopomp 2025(美国恐怖片),https://cdn.yzzy29-play.com/20250711/296_d296c101/index.m3u8
