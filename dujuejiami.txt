@@ -960,7 +960,7 @@ CGTN-BST,http://117.43.156.34:54321/bst/cctvnews@2500000.m3u8
 █████████████████████████████████████████████
 2025年7月精选,#genre#
 █████████████████████████████████████████████
-凹凸双雄 Bad Boa's (2025)上映日期: 2025-07-11(荷兰网络),https://v.gsuus.com/play/1aMMRjBa/index.m3u8
+凹凸双雄 Bad Boa's (2025)上映日期: 2025-07-11(荷兰网络),https://v11.tlkqc.com/wjv11/202507/12/pShTDxx0d183/video/1000k_720/hls/index.m3u8
 黑金亡命徒 Golden (2025)上映日期: 2025-07-11(中国台湾)/2025-08-15(美国),https://v.lzcdn27.com/20250711/341_2cd310b6/index.m3u8
 致命逃亡 Deadly Escape (2025)上映日期: 2025-07-10(美国),https://hn.bfvvs.com/play/9avNnXVa/index.m3u8
 砖墙谜攻 Brick (2025)上映日期: 2025-07-10(德国网络),https://v.lzcdn27.com/20250710/249_02ce1260/index.m3u8
@@ -978,6 +978,7 @@ CGTN-BST,http://117.43.156.34:54321/bst/cctvnews@2500000.m3u8
 【TS】梅根2.0 M3GAN 2.0 (2025)上映日期: 2025-06-27(美国),https://cdn.yzzy29-play.com/20250629/190_cfecdb27/index.m3u8
 脱离罪恶 Off the Grid (2025)上映日期: 2025-06-27(美国),https://p.b8bf.com/video/tuolizuie/HD/index.m3u8
 黑宅故事 Tales from Black Manor (2025)上映日期: 2025-06-23(网络),https://cdn.yzzy29-play.com/20250628/175_82161242/index.m3u8
+重装上阵3 Reloaded 3 (2025)上映日期: 2025-06-21(希腊),https://cdn.yzzy29-play.com/20250712/310_06eb61b8/2000k/hls/mixed.m3u8
 阿尔玛与狼 Alma and the Wolf (2025)上映日期: 2025-06-20(美国),https://cdn.yzzy29-play.com/20250621/133_9fc3d715/index.m3u8
 【抢先版】惊变28年 28 Years Later (2025)上映日期: 2025-06-18(中国台湾) / 2025-06-20(美国),https://vv.jisuzyv.com/play/lejx9l5b/index.m3u8
 新·驯龙高手 How to Train Your Dragon (2025)上映日期: 2025-06-13(美国/中国大陆),https://v.gsuus.com/play/penBorEe/index.m3u8
