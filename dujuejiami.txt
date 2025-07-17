@@ -543,7 +543,7 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 █████████████████████████████████████████████
-BST直播源20250713,#genre#
+BST直播源20250715,#genre#
 █████████████████████████████████████████████
 CCTV-1HD-BST,http://27.19.85.84:8000/bst/cctv1hd@4000000.m3u8
 CCTV-2HD-BST,http://27.19.85.84:8000/bst/cctv2hd8m@8000000.m3u8
@@ -724,6 +724,7 @@ MMA警察 MMA Cop (2025)上映日期: 2025-05-06(美国),https://vip.ffzy-video.
 谋杀干预组3 HIT: The 3rd Case (2025)上映日期: 2025-05-01(爱尔兰),https://p.bvvvvvvv7f.com/video/moushaganyuzu3/HD/index.m3u8
 冲浪惊魂 The Surfer (2025)上映日期: 2025-05-02(美国)/2024-05-17(戛纳电影节) ,https://p.b8bf.com/video/buqingzilai2025/HD/index.m3u8
 战地之声 Words of War (2025)上映日期: 2025-05-02(美国),https://cdn.yzzy29-play.com/20250615/73_d2ddea18/index.m3u8
+白雪公主之死2025(美国动作片),https://cdn.yzzy29-play.com/20250716/343_3ad7c2eb/index.m3u8
 深海恐惧 Fear Below (2025)上映日期: 2025-05-02(美国) / 2025-07-02(澳大利亚),https://cdn.yzzy29-play.com/20250610/15_9bf31c7f/2000k/hls/mixed.m3u8
 袭击2 Raid 2 (2025)上映日期: 2025-05-01(印度),https://cdn.yzzy29-play.com/20250628/177_96da2f59/index.m3u8
 誓约归隐 Retro (2025)上映日期: 2025-05-01(印度),https://yzzy21.playback-speed.com/20250601/43138_3a00f5cd/index.m3u8
