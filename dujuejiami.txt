@@ -244,7 +244,7 @@ CCTVNEWS,http://183.24.62.163:44443/tsfile/live/0016_1.m3u8?key=txiptv&playlive=
 
 
 █████████████████████████████████████████████
-BST20250715,#genre#
+BST源0715,#genre#
 █████████████████████████████████████████████
 CCTV-1HD-BST,http://27.19.85.84:8000/bst/cctv1hd@4000000.m3u8
 CCTV-2HD-BST,http://27.19.85.84:8000/bst/cctv2hd8m@8000000.m3u8
